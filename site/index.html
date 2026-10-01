@@ -1,0 +1,431 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Puchiguru Nesoberi Gallery</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@700&display=swap" rel="stylesheet">
+  <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.3.1/model-viewer.min.js"></script>
+  <style>
+    :root { color-scheme: light; font: 16px/1.5 system-ui, sans-serif; background: #fffdf8; color: #423d36; }
+    body { max-width: 1100px; margin: 0 auto; padding: 22px; }
+    header { display:flex; justify-content:space-between; align-items:start; gap:16px; flex-wrap:wrap; }
+    h1 { margin:0; font-size:clamp(1.5rem,4vw,2.2rem); color:var(--character-color,#49a765); text-shadow:0 0 1px #574c41,0 1px 0 #fff,0 2px 5px #fff; }
+    h1.pale-color { text-shadow:0 0 1px #403930,0 0 3px #403930,0 1px 4px #fff; }
+    p { margin:6px 0 14px; color:#766f64; }
+    .selectors { display:flex; flex-wrap:wrap; gap:14px; align-items:end; margin:14px 0; }
+    label { display:grid; gap:4px; color:#625b51; font-size:.9rem; }
+    select { min-width:min(270px,85vw); padding:9px 11px; border:1px solid #d9cfbf; border-radius:9px; background:white; color:#3c372f; font:inherit; }
+    a { color:#a4612e; }
+    button { padding:8px 11px; border:1px solid #d9cfbf; border-radius:9px; background:#fff; color:#3c372f; font:inherit; cursor:pointer; }
+    button:focus-visible { outline:3px solid #49a765; outline-offset:2px; }
+    .stage { position:relative; }
+    model-viewer { display:block; width:100%; height:min(72vh,760px); min-height:410px; background:linear-gradient(180deg,#fff,#faf8f2); border:1px solid #e8e0d2; border-radius:18px; --poster-color:transparent; }
+    .character-art { position:absolute; z-index:2; right:clamp(12px,3vw,32px); bottom:clamp(14px,3vh,28px); width:clamp(94px,16vw,158px); max-height:31%; object-fit:contain; object-position:bottom right; pointer-events:none; user-select:none; }
+    .expression-controls { position:absolute; z-index:4; top:14px; left:14px; display:flex; flex-direction:column; align-items:center; gap:7px; box-sizing:border-box; width:66px; max-width:calc(100% - 92px); padding:7px; border:1px solid #d9cfbf; border-radius:16px; background:#fffdf8ed; box-shadow:0 2px 8px #423d3622; }
+    .expression-button { display:grid; place-items:center; width:50px; height:50px; flex:0 0 50px; padding:0; border:2px solid #d9cfbf; border-radius:50%; background:#fff; color:#655d53; }
+    .expression-button svg { width:31px; height:31px; overflow:visible; }
+    .expression-button[aria-pressed="true"] { border-color:#4b9b61; box-shadow:0 0 0 2px #4b9b6133; }
+    .expression-button:disabled { cursor:wait; opacity:.5; }
+    .rotation-control { position:absolute; z-index:4; top:14px; right:14px; display:grid; place-items:center; width:46px; height:46px; padding:0; border:1px solid #d9cfbf; border-radius:50%; background:#fffdf8ee; color:#423d36; box-shadow:0 2px 8px #423d3622; }
+    .rotation-control svg { width:20px; height:20px; fill:currentColor; }
+    .costume-line { display:flex; gap:10px; align-items:center; }
+    .costume-icon { width:52px; height:52px; flex:0 0 52px; object-fit:contain; border-radius:50%; background:#fff; }
+    #costume-name { font-family:'M PLUS Rounded 1c', 'Yu Gothic', 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif; font-size:20px; font-weight:700; line-height:1.4; }
+    .hidden { display:none; }
+    .note { min-height:1.5em; font-size:.92rem; }
+    dialog { width:min(940px,calc(100vw - 30px)); max-width:940px; max-height:min(88vh,900px); padding:0; border:1px solid #d9cfbf; border-radius:16px; color:#423d36; background:#fffdf8; box-shadow:0 18px 60px #241d1540; }
+    dialog::backdrop { background:#241d1570; backdrop-filter:blur(2px); }
+    .dialog-header { position:sticky; top:0; z-index:1; display:flex; align-items:center; justify-content:space-between; gap:16px; padding:14px 18px; border-bottom:1px solid #e8e0d2; background:#fffdf8; }
+    .dialog-header h2 { margin:0; font-size:1.2rem; }
+    .dialog-close { width:38px; height:38px; padding:0; font-size:1.5rem; line-height:1; }
+    .dialog-tools { display:flex; justify-content:space-between; gap:12px; flex-wrap:wrap; padding:10px 20px 0; font-size:.9rem; }
+    .dialog-tools p { margin:0; }
+    .report-content { overflow:auto; max-height:calc(88vh - 122px); padding:4px 20px 24px; overscroll-behavior:contain; }
+    .report-content h2,.report-content h3,.report-content h4 { margin:1.25em 0 .35em; line-height:1.25; }
+    .report-content h2 { font-size:1.35rem; }
+    .report-content h3 { font-size:1.12rem; }
+    .report-content p { margin:.45em 0 .85em; color:#514a42; }
+    .report-content ul,.report-content ol { padding-left:1.5em; }
+    .report-content li { margin:.25em 0; }
+    .report-table-wrap { max-width:100%; overflow-x:auto; margin:1em 0; }
+    .report-content table { border-collapse:collapse; min-width:100%; font-size:.9rem; }
+    .report-content th,.report-content td { padding:7px 9px; border:1px solid #d9cfbf; text-align:left; vertical-align:top; }
+    .report-content th { background:#f3efe6; }
+    .report-content code { padding:.08em .3em; border-radius:4px; background:#f1ede5; font: .88em ui-monospace,monospace; overflow-wrap:anywhere; }
+    .report-content pre { overflow:auto; padding:12px; border-radius:8px; background:#f1ede5; }
+    .report-content pre code { padding:0; background:transparent; }
+    .report-content hr { border:0; border-top:1px solid #ddd2c1; margin:1.3em 0; }
+    .sr-only { position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0; }
+    @media (max-width:640px) { body { padding:14px; } .costume-icon { width:44px;height:44px;flex-basis:44px; } .report-content { padding-inline:14px; } .dialog-tools { padding-inline:14px; } }
+  </style>
+</head>
+<body>
+  <header>
+    <div><h1 id="character-name">Loading collection…</h1><p class="costume-line"><img id="costume-icon" class="costume-icon hidden" alt=""><span id="costume-name">Reading available models…</span></p></div>
+    <p><a id="download-model" href="#" download>Download this model</a> · <a id="download-pedestal" href="#" download>Download this pedestal</a> · <button id="collection-notes-open" type="button" aria-haspopup="dialog" aria-controls="collection-notes-dialog" aria-expanded="false">Collection notes</button></p>
+  </header>
+  <section class="selectors" aria-label="Choose a nesoberi">
+    <label>Costume<select id="costume-select" disabled><option>Loading…</option></select></label>
+    <label>Character<select id="character-select" disabled><option>Loading…</option></select></label>
+  </section>
+  <div class="stage">
+    <model-viewer id="nesoberi-model" alt="Nesoberi model" camera-controls touch-action="pan-y" auto-rotate auto-rotate-delay="0" rotation-per-second="18deg" shadow-intensity="0.8" exposure="1" camera-orbit="25deg 72deg auto" field-of-view="30deg" interaction-prompt="auto"></model-viewer>
+    <div id="expression-controls" class="expression-controls hidden" role="group" aria-label="Choose a face expression"></div>
+    <button id="rotation-toggle" class="rotation-control" type="button" aria-controls="nesoberi-model" aria-label="Pause automatic model rotation" title="Pause automatic model rotation">
+      <svg id="rotation-pause-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 5h4v14H7zM15 5h4v14h-4z"></path></svg>
+      <svg id="rotation-play-icon" class="hidden" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4.8v14.4c0 .7.8 1.1 1.4.7l11-7.2a.9.9 0 0 0 0-1.5l-11-7.1A.9.9 0 0 0 7 4.8z"></path></svg>
+    </button>
+    <img id="character-art" class="character-art hidden" alt="Matching standing character artwork">
+  </div>
+  <p id="status" class="note" role="status">Loading available models…</p>
+  <dialog id="collection-notes-dialog" aria-labelledby="collection-notes-title" aria-describedby="collection-notes-description">
+    <div class="dialog-header"><h2 id="collection-notes-title">Collection notes</h2><button id="collection-notes-close" class="dialog-close" type="button" aria-label="Close collection notes" title="Close">×</button></div>
+    <div class="dialog-tools"><p id="collection-notes-description">What is included and how the models are presented.</p><a href="./extraction-report.md" download>Download these notes</a></div>
+    <div id="collection-notes-content" class="report-content" tabindex="0" aria-live="polite">Loading collection notes…</div>
+  </dialog>
+  <script>
+    (async () => {
+      const byId = id => document.getElementById(id);
+      const characterName = byId('character-name'), costumeName = byId('costume-name');
+      const costumeSelect = byId('costume-select'), characterSelect = byId('character-select');
+      const model = byId('nesoberi-model'), art = byId('character-art'), costumeIcon = byId('costume-icon');
+      const expressionControls = byId('expression-controls');
+      const rotationToggle = byId('rotation-toggle');
+      const pauseIcon = byId('rotation-pause-icon'), playIcon = byId('rotation-play-icon');
+      const download = byId('download-model'), downloadPedestal = byId('download-pedestal');
+      const status = byId('status');
+      const notesOpen = byId('collection-notes-open'), notesDialog = byId('collection-notes-dialog');
+      const notesClose = byId('collection-notes-close'), notesContent = byId('collection-notes-content');
+      let catalog = [], expressions = {}, selected = null, requestToken = 0;
+      let pendingModelLoad = null, pendingModelError = null;
+      let autoRotationEnabled = true;
+      let personalColors = {};
+      function updateRotationControl() {
+        model.toggleAttribute('auto-rotate', autoRotationEnabled);
+        const label = autoRotationEnabled ? 'Pause automatic model rotation' : 'Resume automatic model rotation';
+        rotationToggle.setAttribute('aria-label', label);
+        rotationToggle.title = label;
+        pauseIcon.classList.toggle('hidden', !autoRotationEnabled);
+        playIcon.classList.toggle('hidden', autoRotationEnabled);
+      }
+      function colorNeedsOutline(hex) {
+        const c = hex.slice(1).match(/.{2}/g).map(x => parseInt(x,16)/255);
+        const channels = c.map(x => x <= .04045 ? x/12.92 : ((x+.055)/1.055)**2.4);
+        const lum = .2126*channels[0] + .7152*channels[1] + .0722*channels[2];
+        const bg = .2126 + .7152 + .0722 * .95;
+        return (Math.max(lum,bg)+.05)/(Math.min(lum,bg)+.05) < 3;
+      }
+      rotationToggle.addEventListener('click', () => {
+        autoRotationEnabled = !autoRotationEnabled;
+        updateRotationControl();
+      });
+      updateRotationControl();
+
+      const expressionFrames = [
+        {id:'default', label:'Default', offset:{u:0, v:0}},
+        {id:'expression-2', label:'Expression 2', offset:{u:.5, v:0}},
+        {id:'expression-3', label:'Expression 3', offset:{u:0, v:.5}},
+        {id:'expression-4', label:'Expression 4', offset:{u:.5, v:.5}}
+      ];
+      function makeExpressionIcon(index) {
+        const ns = 'http://www.w3.org/2000/svg';
+        const svg = document.createElementNS(ns, 'svg');
+        svg.setAttribute('viewBox', '0 0 40 40'); svg.setAttribute('aria-hidden', 'true');
+        const add = (tag, attributes) => {
+          const element = document.createElementNS(ns, tag);
+          for (const [key, value] of Object.entries(attributes)) element.setAttribute(key, value);
+          svg.append(element);
+        };
+        const stroke = 'currentColor';
+        add('circle', {cx:20, cy:20, r:17, fill:'none', stroke, 'stroke-width':2});
+        if (index === 1) {
+          add('circle', {cx:14, cy:17, r:1.8, fill:stroke});
+          add('path', {d:'M24 17 Q28 13 32 17', fill:'none', stroke, 'stroke-width':2, 'stroke-linecap':'round'});
+          add('path', {d:'M14 25 Q21 31 29 25', fill:'none', stroke, 'stroke-width':2, 'stroke-linecap':'round'});
+        } else if (index === 2) {
+          add('path', {d:'M10 18 Q14 14 18 18 M22 18 Q26 14 30 18', fill:'none', stroke, 'stroke-width':2, 'stroke-linecap':'round'});
+          add('path', {d:'M15 26 Q20 28 25 26', fill:'none', stroke, 'stroke-width':2, 'stroke-linecap':'round'});
+        } else if (index === 3) {
+          add('circle', {cx:14, cy:17, r:1.8, fill:stroke});
+          add('circle', {cx:26, cy:17, r:1.8, fill:stroke});
+          add('path', {d:'M13 24 Q20 34 27 24 Q20 29 13 24 Z', fill:stroke, stroke, 'stroke-width':1.5, 'stroke-linejoin':'round'});
+        } else {
+          add('circle', {cx:14, cy:17, r:1.8, fill:stroke});
+          add('circle', {cx:26, cy:17, r:1.8, fill:stroke});
+          add('path', {d:'M14 24 Q20 31 27 24', fill:'none', stroke, 'stroke-width':2, 'stroke-linecap':'round'});
+        }
+        return svg;
+      }
+      function clearExpressionControls() {
+        expressionControls.replaceChildren();
+        expressionControls.classList.add('hidden');
+      }
+      function configureExpressionControls(item, token) {
+        if (token !== requestToken || selected !== item || !model.model) return;
+        const entry = expressions[String(item.memberMstId)];
+        const materialIndex = Number(entry?.faceMaterialIndex);
+        const material = Number.isInteger(materialIndex) ? model.model.materials[materialIndex] : null;
+        // The GLBs preserve material ordering but omit names on the original face/body slots.
+        // The per-model index is tied to this exact GLB URL in face-expressions.json.
+        if (material?.name && material.name !== entry?.faceMaterialName) return;
+        const textureInfo = material?.pbrMetallicRoughness?.baseColorTexture;
+        const sampler = textureInfo?.texture?.sampler;
+        if (!entry || !sampler) return;
+        let active = 0;
+        const buttons = expressionFrames.map((frame, index) => {
+          const button = document.createElement('button');
+          button.type = 'button'; button.className = 'expression-button';
+          button.setAttribute('aria-label', frame.label); button.title = frame.label;
+          button.setAttribute('aria-pressed', 'false');
+          button.append(makeExpressionIcon(index));
+          button.addEventListener('click', () => {
+            if (token !== requestToken || selected !== item || model.model?.materials?.[materialIndex] !== material) return;
+            sampler.setOffset(frame.offset);
+            active = index;
+            buttons.forEach((candidate, candidateIndex) => candidate.setAttribute('aria-pressed', String(candidateIndex === active)));
+          });
+          return button;
+        });
+        // Each scene GLB stores the default face in the atlas's top-left quadrant.
+        // Reset after every model load so an earlier choice cannot carry over.
+        sampler.setOffset(expressionFrames[0].offset);
+        buttons[0].setAttribute('aria-pressed', 'true');
+        expressionControls.replaceChildren(...buttons);
+        expressionControls.classList.remove('hidden');
+      }
+
+      function appendInline(parent, source) {
+        const token = /(\*\*[^*]+\*\*|`[^`]+`|\[[^\]]+\]\([^)]+\))/g;
+        let cursor = 0, match;
+        while ((match = token.exec(source)) !== null) {
+          if (match.index > cursor) parent.append(document.createTextNode(source.slice(cursor, match.index)));
+          const value = match[0];
+          if (value.startsWith('**')) {
+            const strong = document.createElement('strong'); strong.textContent = value.slice(2, -2); parent.append(strong);
+          } else if (value.startsWith('`')) {
+            const code = document.createElement('code'); code.textContent = value.slice(1, -1); parent.append(code);
+          } else {
+            const parts = value.match(/^\[([^\]]+)\]\(([^)]+)\)$/);
+            let url = null;
+            try {
+              const parsed = new URL(parts[2], window.location.href);
+              if (parsed.protocol === 'https:' || parsed.protocol === 'http:') url = parsed.href;
+            } catch (_) { /* keep unsafe or malformed links as plain text */ }
+            if (url) {
+              const link = document.createElement('a'); link.href = url; link.textContent = parts[1];
+              if (new URL(url).origin !== window.location.origin) { link.target = '_blank'; link.rel = 'noopener noreferrer'; }
+              parent.append(link);
+            } else parent.append(document.createTextNode(value));
+          }
+          cursor = token.lastIndex;
+        }
+        if (cursor < source.length) parent.append(document.createTextNode(source.slice(cursor)));
+      }
+      function renderCollectionNotes(markdown) {
+        const lines = markdown.replace(/\r/g, '').split('\n');
+        const root = document.createDocumentFragment();
+        const isHeading = line => /^#{1,6}\s+/.test(line);
+        const isList = line => /^\s*(?:[-*+]\s+|\d+[.)]\s+)/.test(line);
+        const isFence = line => /^\s*```/.test(line);
+        const isRule = line => /^\s*(?:---+|___+|\*\*\*+)\s*$/.test(line);
+        const cells = line => line.trim().replace(/^\|/, '').replace(/\|$/, '').split('|').map(cell => cell.trim());
+        const isTableDivider = line => line.includes('|') && cells(line).length > 1 && cells(line).every(cell => /^:?-{3,}:?$/.test(cell));
+        const isTable = index => index + 1 < lines.length && lines[index].includes('|') && isTableDivider(lines[index + 1]);
+        const isSpecial = line => isHeading(line) || isList(line) || isFence(line) || isRule(line);
+        for (let i = 0; i < lines.length;) {
+          const line = lines[i];
+          if (!line.trim()) { i++; continue; }
+          if (isFence(line)) {
+            i++; const codeLines = [];
+            while (i < lines.length && !isFence(lines[i])) codeLines.push(lines[i++]);
+            if (i < lines.length) i++;
+            const pre = document.createElement('pre'), code = document.createElement('code');
+            code.textContent = codeLines.join('\n'); pre.append(code); root.append(pre); continue;
+          }
+          if (isHeading(line)) {
+            const match = line.match(/^(#{1,6})\s+(.*)$/), heading = document.createElement(`h${Math.min(6, match[1].length + 1)}`);
+            appendInline(heading, match[2]); root.append(heading); i++; continue;
+          }
+          if (isRule(line)) { root.append(document.createElement('hr')); i++; continue; }
+          if (isTable(i)) {
+            const wrap = document.createElement('div'); wrap.className = 'report-table-wrap';
+            const table = document.createElement('table'), thead = document.createElement('thead'), tbody = document.createElement('tbody');
+            const header = document.createElement('tr');
+            for (const value of cells(lines[i])) { const th = document.createElement('th'); th.scope = 'col'; appendInline(th, value); header.append(th); }
+            thead.append(header); i += 2;
+            while (i < lines.length && lines[i].includes('|') && lines[i].trim()) {
+              const tr = document.createElement('tr');
+              for (const value of cells(lines[i])) { const td = document.createElement('td'); appendInline(td, value); tr.append(td); }
+              tbody.append(tr); i++;
+            }
+            table.append(thead, tbody); wrap.append(table); root.append(wrap); continue;
+          }
+          if (isList(line)) {
+            const ordered = /^\s*\d+[.)]\s+/.test(line), list = document.createElement(ordered ? 'ol' : 'ul');
+            const pattern = ordered ? /^\s*\d+[.)]\s+(.*)$/ : /^\s*[-*+]\s+(.*)$/;
+            while (i < lines.length && pattern.test(lines[i])) { const item = document.createElement('li'); appendInline(item, lines[i].match(pattern)[1]); list.append(item); i++; }
+            root.append(list); continue;
+          }
+          const paragraph = [];
+          while (i < lines.length && lines[i].trim() && !isSpecial(lines[i]) && !isTable(i)) paragraph.push(lines[i++].trim());
+          if (paragraph.length) { const p = document.createElement('p'); appendInline(p, paragraph.join(' ')); root.append(p); }
+        }
+        notesContent.replaceChildren(root);
+      }
+      let notesLoaded = false;
+      notesOpen.addEventListener('click', async () => {
+        notesDialog.showModal(); notesOpen.setAttribute('aria-expanded','true'); notesClose.focus();
+        if (notesLoaded) return;
+        notesContent.textContent = 'Loading collection notes…';
+        try {
+          const response = await fetch('./extraction-report.md', {cache:'no-store'});
+          if (!response.ok) throw new Error(`Notes request returned ${response.status}`);
+          renderCollectionNotes(await response.text()); notesLoaded = true;
+        } catch (error) { notesContent.textContent = 'Collection notes could not be loaded. The Markdown download remains available above.'; }
+      });
+      notesClose.addEventListener('click', () => notesDialog.close());
+      notesDialog.addEventListener('close', () => { notesOpen.setAttribute('aria-expanded','false'); notesOpen.focus(); });
+      notesDialog.addEventListener('click', event => { if (event.target === notesDialog) notesDialog.close(); });
+      const idLabel = (name, id, prefix) => name || `${prefix} #${id}`;
+      const costumeIdOf = item => String(item.costumeMstId ?? 'unknown');
+      const personalIdOf = item => String(item.personalMstId ?? 'unknown');
+      const costumes = () => [...new Map(catalog.map(x => [costumeIdOf(x), x])).values()]
+        .sort((a,b) => Number(a.costumeMstId)-Number(b.costumeMstId));
+      function fillCostumes(preferred) {
+        const rows = costumes();
+        costumeSelect.replaceChildren(...rows.map(item => {
+          const option = document.createElement('option'); option.value = costumeIdOf(item);
+          option.textContent = idLabel(item.costumeName, item.costumeMstId, 'Costume'); return option;
+        }));
+        costumeSelect.value = rows.some(x => costumeIdOf(x) === preferred) ? preferred : (rows[0] ? costumeIdOf(rows[0]) : '');
+        costumeSelect.disabled = rows.length < 2;
+      }
+      function fillCharacters(preferred) {
+        const rows = catalog.filter(x => costumeIdOf(x) === costumeSelect.value)
+          .sort((a,b) => Number(a.personalMstId)-Number(b.personalMstId) || Number(a.memberMstId)-Number(b.memberMstId));
+        const variants = new Map();
+        for (const item of rows) variants.set(personalIdOf(item), (variants.get(personalIdOf(item)) || 0) + 1);
+        characterSelect.replaceChildren(...rows.map(item => {
+          const option = document.createElement('option'); option.value = String(item.memberMstId);
+          const name = idLabel(item.personalName, item.personalMstId, 'Character');
+          option.textContent = variants.get(personalIdOf(item)) > 1 ? `${name} · ${item.memberMstId}` : name; return option;
+        }));
+        let keep = rows.find(x => String(x.memberMstId) === String(preferred));
+        if (!keep && preferred !== undefined && preferred !== null) keep = rows.find(x => personalIdOf(x) === String(preferred).replace(/^p:/, ''));
+        characterSelect.value = keep ? String(keep.memberMstId) : (rows[0] ? String(rows[0].memberMstId) : '');
+        characterSelect.disabled = rows.length < 2;
+        return rows;
+      }
+      function pickCurrent() {
+        const matches = catalog.filter(x => costumeIdOf(x) === costumeSelect.value && String(x.memberMstId) === characterSelect.value);
+        if (!matches.length) return null;
+        if (selected && matches.some(x => String(x.memberMstId) === String(selected.memberMstId))) return matches.find(x => String(x.memberMstId) === String(selected.memberMstId));
+        return matches.sort((a,b) => Number(a.memberMstId)-Number(b.memberMstId))[0];
+      }
+      function show(item) {
+        const token = ++requestToken;
+        selected = item;
+        if (pendingModelLoad) model.removeEventListener('load', pendingModelLoad);
+        if (pendingModelError) model.removeEventListener('error', pendingModelError);
+        pendingModelLoad = pendingModelError = null;
+        clearExpressionControls();
+        model.removeAttribute('src');
+        art.removeAttribute('src'); art.classList.add('hidden');
+        costumeIcon.removeAttribute('src'); costumeIcon.classList.add('hidden'); costumeIcon.alt = '';
+        download.removeAttribute('href'); download.setAttribute('aria-disabled','true');
+        downloadPedestal.removeAttribute('href'); downloadPedestal.setAttribute('aria-disabled','true');
+        if (!item) {
+          characterName.textContent = 'No model available'; costumeName.textContent = '';
+          characterName.style.removeProperty('--character-color');
+          characterName.classList.remove('pale-color');
+          model.alt = 'No nesoberi model available';
+          status.textContent = 'There is no available model for this selection.'; return;
+        }
+        const name = idLabel(item.personalName, item.personalMstId, 'Character');
+        const costume = idLabel(item.costumeName, item.costumeMstId, 'Costume');
+        characterName.textContent = name; costumeName.textContent = costume;
+        const palette = personalColors[personalIdOf(item)];
+        const color = typeof palette?.hex === 'string' && /^#[0-9a-f]{6}$/i.test(palette.hex) ? palette.hex : '';
+        if (color) characterName.style.setProperty('--character-color', color); else characterName.style.removeProperty('--character-color');
+        characterName.classList.toggle('pale-color', !!color && colorNeedsOutline(color));
+        model.alt = `${name} nesoberi${costume ? ` in ${costume}` : ''}`;
+        status.textContent = 'Loading model…';
+        const expectedModelUrl = new URL(`./${item.modelPath}?rev=${encodeURIComponent(item.modelSha256 || '1')}`, document.baseURI).href;
+        const onModelLoad = event => {
+          if (token !== requestToken || selected !== item) return;
+          let loadedUrl = '';
+          try { loadedUrl = new URL(event.detail?.url || '', document.baseURI).href; } catch (_) { /* keep controls hidden until the matching load */ }
+          if (!loadedUrl || loadedUrl !== expectedModelUrl) return;
+          model.removeEventListener('load', onModelLoad);
+          if (pendingModelLoad === onModelLoad) pendingModelLoad = null;
+          if (pendingModelError) model.removeEventListener('error', pendingModelError);
+          pendingModelError = null;
+          status.textContent = item.materialStatus === 'partial'
+            ? 'Drag to orbit and zoom. One small piece uses a neutral color because its original material is missing.'
+            : 'Drag to orbit and use the wheel or pinch to zoom.';
+          configureExpressionControls(item, token);
+        };
+        const onModelError = () => {
+          if (token !== requestToken || selected !== item) return;
+          if (pendingModelLoad) model.removeEventListener('load', pendingModelLoad);
+          model.removeEventListener('error', onModelError);
+          pendingModelLoad = pendingModelError = null;
+          status.textContent = 'This model could not be loaded. Choose another character or costume.';
+        };
+        pendingModelLoad = onModelLoad; pendingModelError = onModelError;
+        model.addEventListener('load', onModelLoad);
+        model.addEventListener('error', onModelError);
+        model.src = `./${item.modelPath}?rev=${encodeURIComponent(item.modelSha256 || '1')}`;
+        download.href = `./${item.modelPath}`; download.download = `nesoberi-${item.memberMstId}.glb`; download.removeAttribute('aria-disabled');
+        if (item.pedestalPath) {
+          downloadPedestal.href = `./${item.pedestalPath}`;
+          downloadPedestal.download = `puchiguru-pedestal-${item.costumeMstId}.glb`;
+          downloadPedestal.removeAttribute('aria-disabled');
+        }
+        if (item.artPath) { art.src = `./${item.artPath}?rev=${encodeURIComponent(item.artSha256 || '1')}`; art.alt = `Standing character artwork of ${name} in ${costume}`; art.classList.remove('hidden'); }
+        if (item.costumeIconPath) { costumeIcon.src = `./${item.costumeIconPath}?rev=${encodeURIComponent(item.costumeIconSha256 || '1')}`; costumeIcon.alt = `${costume} costume icon`; costumeIcon.classList.remove('hidden'); }
+        if (!item.hasVerifiedStage) status.textContent = 'Loading model…';
+      }
+      try {
+        const [response, expressionResponse] = await Promise.all([
+          fetch('./catalog.json', {cache:'no-store'}),
+          fetch('./face-expressions.json', {cache:'no-store'})
+        ]);
+        if (!response.ok) throw new Error(`Catalog request returned ${response.status}`);
+        if (!expressionResponse.ok) throw new Error(`Expression map request returned ${expressionResponse.status}`);
+        const [doc, expressionDoc] = await Promise.all([response.json(), expressionResponse.json()]);
+        catalog = (doc.models || []).filter(x => x.status === 'exported' && x.modelPath).sort((a,b) => Number(a.memberMstId)-Number(b.memberMstId));
+        expressions = expressionDoc.models || {};
+        personalColors = doc.personalColors || {};
+        if (!catalog.length) throw new Error('No exported models are listed');
+        costumeSelect.disabled = false; characterSelect.disabled = false;
+        const requestedMember = new URLSearchParams(window.location.search).get('member');
+        const requestedInitial = catalog.find(x => String(x.memberMstId) === requestedMember);
+        const defaultInitial = catalog.find(x => String(x.memberMstId) === '11004106');
+        const preferredInitial = requestedInitial || defaultInitial || null;
+        fillCostumes(preferredInitial ? costumeIdOf(preferredInitial) : undefined);
+        const initial = preferredInitial && costumeIdOf(preferredInitial) === costumeSelect.value
+          ? preferredInitial : catalog.find(x => costumeIdOf(x) === costumeSelect.value);
+        fillCharacters(initial ? String(initial.memberMstId) : undefined);
+        costumeSelect.addEventListener('change', () => {
+          const previousPersonal = selected ? `p:${personalIdOf(selected)}` : undefined;
+          fillCharacters(previousPersonal); show(pickCurrent());
+        });
+        characterSelect.addEventListener('change', () => show(pickCurrent()));
+        show(pickCurrent());
+      } catch (error) {
+        characterName.textContent = 'Collection unavailable'; costumeName.textContent = '';
+        characterName.style.removeProperty('--character-color'); characterName.classList.remove('pale-color');
+        costumeSelect.disabled = true; characterSelect.disabled = true;
+        model.removeAttribute('src'); art.removeAttribute('src'); art.classList.add('hidden');
+        clearExpressionControls();
+        status.textContent = 'Could not load the model collection. Serve this folder over localhost and reload.';
+        console.error('Could not load collection catalog:', error);
+      }
+    })();
+  </script>
+</body>
+</html>

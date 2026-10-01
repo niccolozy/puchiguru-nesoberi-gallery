@@ -1,0 +1,784 @@
+{
+  "models": {
+    "10001101": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10001101"
+    },
+    "10001102": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10001102"
+    },
+    "10001103": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10001103"
+    },
+    "10001104": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10001104"
+    },
+    "10001105": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace1000110"
+    },
+    "10001106": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10001106"
+    },
+    "10001107": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10001107"
+    },
+    "10001108": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10001108"
+    },
+    "10001109": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10001109"
+    },
+    "10002101": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10002101"
+    },
+    "10002102": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10002102"
+    },
+    "10002103": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10002103"
+    },
+    "10002104": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10002104"
+    },
+    "10002105": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10002105"
+    },
+    "10002106": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10002106"
+    },
+    "10002107": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10002107"
+    },
+    "10002108": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10002108"
+    },
+    "10002109": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10002109"
+    },
+    "10003101": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10003101"
+    },
+    "10003102": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10003102"
+    },
+    "10003103": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10003103"
+    },
+    "10003104": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10003104"
+    },
+    "10003105": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10003105"
+    },
+    "10003106": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10003106"
+    },
+    "10003107": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10003107"
+    },
+    "10003108": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10003108"
+    },
+    "10003109": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10003109"
+    },
+    "10004101": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10004101"
+    },
+    "10004102": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10004102"
+    },
+    "10004103": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10004103"
+    },
+    "10004104": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10004104"
+    },
+    "10004105": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10004105"
+    },
+    "10004106": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10004106"
+    },
+    "10004107": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10004107"
+    },
+    "10004108": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10004108"
+    },
+    "10004109": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10004109"
+    },
+    "10005101": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10005101"
+    },
+    "10005102": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10005102"
+    },
+    "10005103": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10005103"
+    },
+    "10005104": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10005104"
+    },
+    "10005105": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10005105"
+    },
+    "10005106": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10005106"
+    },
+    "10005107": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10005107"
+    },
+    "10005108": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10005108"
+    },
+    "10005109": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10005109"
+    },
+    "10006101": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10006101"
+    },
+    "10006102": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10006102"
+    },
+    "10006103": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10006103"
+    },
+    "10006104": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10006104"
+    },
+    "10006105": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10006105"
+    },
+    "10006106": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10006106"
+    },
+    "10006107": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10006107"
+    },
+    "10006108": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10006108"
+    },
+    "10006109": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10006109"
+    },
+    "10007101": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10007101"
+    },
+    "10007102": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10007102"
+    },
+    "10007103": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10007103"
+    },
+    "10007104": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10007104"
+    },
+    "10007105": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10007105"
+    },
+    "10007106": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10007106"
+    },
+    "10007107": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10007107"
+    },
+    "10007108": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10007108"
+    },
+    "10007109": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10007109"
+    },
+    "10009101": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10009101"
+    },
+    "10009102": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10009102"
+    },
+    "10009103": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10009103"
+    },
+    "10009104": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10009104"
+    },
+    "10009105": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace10009105"
+    },
+    "10009106": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10009106"
+    },
+    "10009107": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10009107"
+    },
+    "10009108": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10009108"
+    },
+    "10009109": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace10009109"
+    },
+    "11003101": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace11003101"
+    },
+    "11003102": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace11003102"
+    },
+    "11003103": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace11003103"
+    },
+    "11004104": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace11004104"
+    },
+    "11004105": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace11004105"
+    },
+    "11004106": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace11004106"
+    },
+    "11005101": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace11005101"
+    },
+    "11005102": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace11005102"
+    },
+    "11005103": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace11005103"
+    },
+    "11005104": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace11005104"
+    },
+    "11005105": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace11005105"
+    },
+    "11005106": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace11005106"
+    },
+    "11005107": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace11005107"
+    },
+    "11005108": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace11005108"
+    },
+    "11005109": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace11005109"
+    },
+    "11006107": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace11006107"
+    },
+    "11006108": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace11006108"
+    },
+    "11006109": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace11006109"
+    },
+    "11007104": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace11007104"
+    },
+    "11007107": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace11007107"
+    },
+    "11007109": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace11007109"
+    },
+    "20001201": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20001201"
+    },
+    "20001202": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20001202"
+    },
+    "20001203": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20001203"
+    },
+    "20001204": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20001204"
+    },
+    "20001205": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20001205"
+    },
+    "20001206": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20001206"
+    },
+    "20001207": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20001207"
+    },
+    "20001208": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20001208"
+    },
+    "20001209": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20001209"
+    },
+    "20002201": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20002201"
+    },
+    "20002202": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20002202"
+    },
+    "20002203": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20002203"
+    },
+    "20002204": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20002204"
+    },
+    "20002205": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20002205"
+    },
+    "20002206": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20002206"
+    },
+    "20002207": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20002207"
+    },
+    "20002208": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20002208"
+    },
+    "20002209": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20002209"
+    },
+    "20003201": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20003201"
+    },
+    "20003202": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20003202"
+    },
+    "20003203": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20003203"
+    },
+    "20003204": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20003204"
+    },
+    "20003205": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20003205"
+    },
+    "20003206": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20003206"
+    },
+    "20003207": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20003207"
+    },
+    "20003208": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20003208"
+    },
+    "20003209": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20003209"
+    },
+    "20004201": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20004201"
+    },
+    "20004202": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20004202"
+    },
+    "20004203": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20004203"
+    },
+    "20004204": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20004204"
+    },
+    "20004205": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20004205"
+    },
+    "20004206": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20004206"
+    },
+    "20004207": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20004207"
+    },
+    "20004208": {
+      "faceMaterialIndex": 2,
+      "faceMaterialName": "MaterialFace20004208"
+    },
+    "20004209": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20004209"
+    },
+    "20005201": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20005201"
+    },
+    "20005202": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20005202"
+    },
+    "20005203": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20005203"
+    },
+    "20005204": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20005204"
+    },
+    "20005205": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20005205"
+    },
+    "20005206": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20005206"
+    },
+    "20005207": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20005207"
+    },
+    "20005208": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20005208"
+    },
+    "20005209": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20005209"
+    },
+    "20006201": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20006201"
+    },
+    "20006202": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20006202"
+    },
+    "20006203": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20006203"
+    },
+    "20006204": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20006204"
+    },
+    "20006205": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20006205"
+    },
+    "20006206": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20006206"
+    },
+    "20006207": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20006207"
+    },
+    "20006208": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20006208"
+    },
+    "20006209": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20006209"
+    },
+    "20008201": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20008201"
+    },
+    "20008202": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20008202"
+    },
+    "20008203": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20008203"
+    },
+    "20008204": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20008204"
+    },
+    "20008205": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20008205"
+    },
+    "20008206": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20008206"
+    },
+    "20008207": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20008207"
+    },
+    "20008208": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20008208"
+    },
+    "20008209": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20008209"
+    },
+    "20009201": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20009201"
+    },
+    "20009202": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20009202"
+    },
+    "20009203": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20009203"
+    },
+    "20009204": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20009204"
+    },
+    "20009205": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20009205"
+    },
+    "20009206": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20009206"
+    },
+    "20009207": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace20009207"
+    },
+    "20009208": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20009208"
+    },
+    "20009209": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace20009209"
+    },
+    "21002201": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace21002201"
+    },
+    "21002202": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace21002202"
+    },
+    "21002203": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace21002203"
+    },
+    "21003204": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace21003204"
+    },
+    "21003205": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace21003205"
+    },
+    "21003206": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace21003206"
+    },
+    "21004201": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace21004201"
+    },
+    "21004202": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace21004202"
+    },
+    "21004203": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace21004203"
+    },
+    "21004204": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace21004204"
+    },
+    "21004205": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace21004205"
+    },
+    "21004206": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace21004206"
+    },
+    "21004207": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace21004207"
+    },
+    "21004208": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace21004208"
+    },
+    "21004209": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace21004209"
+    },
+    "21005207": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace21005207"
+    },
+    "21005208": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace21005208"
+    },
+    "21005209": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace21005209"
+    },
+    "40002401": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace40002401"
+    },
+    "40002402": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace40002402"
+    },
+    "40003401": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace40003401"
+    },
+    "40003402": {
+      "faceMaterialIndex": 2,
+      "faceMaterialName": "MaterialFace40003402"
+    },
+    "90001105": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace90001105"
+    },
+    "90001204": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace90001204"
+    },
+    "90002901": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace90002901"
+    },
+    "90002902": {
+      "faceMaterialIndex": 1,
+      "faceMaterialName": "MaterialFace90002902"
+    },
+    "90002903": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace90002903"
+    },
+    "90002904": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace90002904"
+    },
+    "90002905": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace90002905"
+    },
+    "90002906": {
+      "faceMaterialIndex": 0,
+      "faceMaterialName": "MaterialFace90002906"
+    }
+  }
+}
