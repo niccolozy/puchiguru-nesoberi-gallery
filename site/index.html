@@ -31,6 +31,17 @@
     .expression-button:disabled { cursor:wait; opacity:.5; }
     .rotation-control { position:absolute; z-index:4; top:14px; right:14px; display:grid; place-items:center; width:46px; height:46px; padding:0; border:1px solid #d9cfbf; border-radius:50%; background:#fffdf8ee; color:#423d36; box-shadow:0 2px 8px #423d3622; }
     .rotation-control svg { width:20px; height:20px; fill:currentColor; }
+    .skill-control { position:absolute; z-index:4; top:70px; right:14px; display:grid; place-items:center; width:46px; height:46px; padding:0; border:1px solid #d9cfbf; border-radius:50%; background:#fffdf8ee; color:#bd7428; box-shadow:0 2px 8px #423d3622; }
+    .skill-control svg { width:25px; height:25px; }
+    .skill-control:disabled { cursor:wait; opacity:.6; }
+    .skill-control[hidden],.skill-overlay[hidden] { display:none; }
+    .skill-overlay { position:absolute; z-index:6; inset:0; overflow:hidden; border-radius:18px; background:rgba(0,0,0,.85); }
+    .skill-overlay canvas { display:block; width:100%; height:100%; }
+    .skill-close { position:absolute; z-index:1; top:14px; right:14px; width:42px; height:42px; padding:0; border-radius:50%; border-color:#ffffff80; background:#fffdf8ed; font-size:1.5rem; line-height:1; }
+    .skill-actions { position:absolute; bottom:14px; left:50%; transform:translateX(-50%); display:flex; gap:8px; padding:7px; border-radius:14px; background:#fffdf8e8; white-space:nowrap; }
+    .skill-actions button { padding:7px 12px; }
+    .skill-actions button[hidden] { display:none; }
+    .skill-caption { position:absolute; top:14px; left:14px; padding:5px 10px; background:#fffdf8df; border-radius:12px; font-size:.75rem; }
     .costume-line { display:flex; gap:10px; align-items:center; }
     .costume-icon { width:52px; height:52px; flex:0 0 52px; object-fit:contain; border-radius:50%; background:#fff; }
     #costume-name { font-family:'M PLUS Rounded 1c', 'Yu Gothic', 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif; font-size:20px; font-weight:700; line-height:1.4; }
@@ -71,14 +82,25 @@
     <label>Costume<select id="costume-select" disabled><option>Loading…</option></select></label>
     <label>Character<select id="character-select" disabled><option>Loading…</option></select></label>
   </section>
-  <div class="stage">
+  <div class="stage" id="model-stage">
+    <div id="model-scene">
     <model-viewer id="nesoberi-model" alt="Nesoberi model" camera-controls touch-action="pan-y" auto-rotate auto-rotate-delay="0" rotation-per-second="18deg" shadow-intensity="0.8" exposure="1" camera-orbit="25deg 72deg auto" field-of-view="30deg" interaction-prompt="auto"></model-viewer>
     <div id="expression-controls" class="expression-controls hidden" role="group" aria-label="Choose a face expression"></div>
     <button id="rotation-toggle" class="rotation-control" type="button" aria-controls="nesoberi-model" aria-label="Pause automatic model rotation" title="Pause automatic model rotation">
       <svg id="rotation-pause-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 5h4v14H7zM15 5h4v14h-4z"></path></svg>
       <svg id="rotation-play-icon" class="hidden" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4.8v14.4c0 .7.8 1.1 1.4.7l11-7.2a.9.9 0 0 0 0-1.5l-11-7.1A.9.9 0 0 0 7 4.8z"></path></svg>
     </button>
+    <button id="skill-play" class="skill-control" type="button" hidden aria-label="Play skill animation with voice" title="Play skill animation with voice" aria-controls="skill-overlay">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round" aria-hidden="true"><path d="m12 2 2.5 6.4L21 11l-6.5 2.6L12 20l-2.5-6.4L3 11l6.5-2.6Z"/><path d="M20 2v4M18 4h4M3 17v4M1 19h4"/></svg>
+    </button>
     <img id="character-art" class="character-art hidden" alt="Matching standing character artwork">
+    </div>
+    <div id="skill-overlay" class="skill-overlay" role="region" aria-label="Skill animation" hidden>
+      <canvas id="skill-canvas" role="img" aria-label="Selected character's skill animation"></canvas>
+      <span class="skill-caption">Main skill preview</span>
+      <div class="skill-actions"><button id="skill-pause" type="button">Pause</button><button id="skill-replay" type="button">Replay</button></div>
+      <button id="skill-close" class="skill-close" type="button" aria-label="Close skill animation" title="Close skill animation">×</button>
+    </div>
   </div>
   <p id="status" class="note" role="status">Loading available models…</p>
   <dialog id="collection-notes-dialog" aria-labelledby="collection-notes-title" aria-describedby="collection-notes-description">
@@ -103,6 +125,17 @@
       let pendingModelLoad = null, pendingModelError = null;
       let autoRotationEnabled = true;
       let personalColors = {};
+      let personalNamesRomaji = {};
+      let skillOverlay = null;
+      // Keep this revision aligned with local module imports when shipping changes.
+      import('./skill-demo/skill-overlay.js?v=20261027-names-10').then(({SkillOverlay}) => {
+        skillOverlay = new SkillOverlay({
+          stage:byId('model-stage'), surface:byId('model-scene'), model,
+          button:byId('skill-play'), overlay:byId('skill-overlay'), canvas:byId('skill-canvas'),
+          closeButton:byId('skill-close'), onStatus:message => {status.textContent=message;}
+        });
+        skillOverlay.select(selected?.memberMstId, selected ? characterLabel(selected) : '');
+      }).catch(error => { console.error('Could not initialize skill playback:', error); });
       function updateRotationControl() {
         model.toggleAttribute('auto-rotate', autoRotationEnabled);
         const label = autoRotationEnabled ? 'Pause automatic model rotation' : 'Resume automatic model rotation';
@@ -292,6 +325,11 @@
       const idLabel = (name, id, prefix) => name || `${prefix} #${id}`;
       const costumeIdOf = item => String(item.costumeMstId ?? 'unknown');
       const personalIdOf = item => String(item.personalMstId ?? 'unknown');
+      function characterLabel(item) {
+        const japanese = idLabel(item.personalName, item.personalMstId, 'Character');
+        const romaji = personalNamesRomaji[personalIdOf(item)];
+        return romaji ? `${japanese} / ${romaji}` : japanese;
+      }
       const costumes = () => [...new Map(catalog.map(x => [costumeIdOf(x), x])).values()]
         .sort((a,b) => Number(a.costumeMstId)-Number(b.costumeMstId));
       function fillCostumes(preferred) {
@@ -310,7 +348,7 @@
         for (const item of rows) variants.set(personalIdOf(item), (variants.get(personalIdOf(item)) || 0) + 1);
         characterSelect.replaceChildren(...rows.map(item => {
           const option = document.createElement('option'); option.value = String(item.memberMstId);
-          const name = idLabel(item.personalName, item.personalMstId, 'Character');
+          const name = characterLabel(item);
           option.textContent = variants.get(personalIdOf(item)) > 1 ? `${name} · ${item.memberMstId}` : name; return option;
         }));
         let keep = rows.find(x => String(x.memberMstId) === String(preferred));
@@ -328,6 +366,7 @@
       function show(item) {
         const token = ++requestToken;
         selected = item;
+        skillOverlay?.select(item?.memberMstId, item ? characterLabel(item) : '');
         if (pendingModelLoad) model.removeEventListener('load', pendingModelLoad);
         if (pendingModelError) model.removeEventListener('error', pendingModelError);
         pendingModelLoad = pendingModelError = null;
@@ -344,7 +383,7 @@
           model.alt = 'No nesoberi model available';
           status.textContent = 'There is no available model for this selection.'; return;
         }
-        const name = idLabel(item.personalName, item.personalMstId, 'Character');
+        const name = characterLabel(item);
         const costume = idLabel(item.costumeName, item.costumeMstId, 'Costume');
         characterName.textContent = name; costumeName.textContent = costume;
         const palette = personalColors[personalIdOf(item)];
@@ -379,9 +418,9 @@
         model.addEventListener('load', onModelLoad);
         model.addEventListener('error', onModelError);
         model.src = `./${item.modelPath}?rev=${encodeURIComponent(item.modelSha256 || '1')}`;
-        download.href = `./${item.modelPath}`; download.download = `nesoberi-${item.memberMstId}.glb`; download.removeAttribute('aria-disabled');
+        download.href = `./${item.modelPath}?rev=${encodeURIComponent(item.modelSha256 || '1')}`; download.download = `nesoberi-${item.memberMstId}.glb`; download.removeAttribute('aria-disabled');
         if (item.pedestalPath) {
-          downloadPedestal.href = `./${item.pedestalPath}`;
+          downloadPedestal.href = `./${item.pedestalPath}?rev=${encodeURIComponent(item.pedestalSha256 || '1')}`;
           downloadPedestal.download = `puchiguru-pedestal-${item.costumeMstId}.glb`;
           downloadPedestal.removeAttribute('aria-disabled');
         }
@@ -400,6 +439,7 @@
         catalog = (doc.models || []).filter(x => x.status === 'exported' && x.modelPath).sort((a,b) => Number(a.memberMstId)-Number(b.memberMstId));
         expressions = expressionDoc.models || {};
         personalColors = doc.personalColors || {};
+        personalNamesRomaji = doc.personalNamesRomaji || {};
         if (!catalog.length) throw new Error('No exported models are listed');
         costumeSelect.disabled = false; characterSelect.disabled = false;
         const requestedMember = new URLSearchParams(window.location.search).get('member');

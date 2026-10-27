@@ -8,13 +8,14 @@
       "personalName": "高坂 穂乃果",
       "costumeName": "音ノ木坂学院 冬制服",
       "modelPath": "models/10001101/scene.glb",
-      "modelSha256": "8ac67326d63e0923da69d132287d8f849334682ec74099b8c1ac9d6fd5fc4e97",
-      "artPath": "models/10001101/character-art.png",
+      "modelSha256": "f22cec9fcec5c46e9b675a5f7846d7b6cd4f9d44ec0935e64470fab44568d09e",
+      "artPath": "images/10001101/character-art.png",
       "artSha256": "3640a31fd50a95f688d5a859d0a15c87832e49c8a435b548f457a173dde5d153",
-      "costumeIconPath": "costume-icons/costume-10001.png",
+      "costumeIconPath": "images/costumes/10001/costume-icon.png",
       "costumeIconSha256": "6e8df1d4d8760805db9bf2b6b8c2f148be91d06db25c587dee078150a492e3c1",
       "pedestalPath": "pedestals/10001/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "5acd29fd1cb9cfcb3563a808034774694bec763ec2d1b12cecbd905d55f3ee01"
     },
     {
       "memberMstId": 10001102,
@@ -24,13 +25,14 @@
       "personalName": "南 ことり",
       "costumeName": "音ノ木坂学院 冬制服",
       "modelPath": "models/10001102/scene.glb",
-      "modelSha256": "70cb61787459f960d0a7efbdb6b34f05ef7093c3346bd07178c3fd9202cd2d38",
-      "artPath": "models/10001102/character-art.png",
+      "modelSha256": "8fb86bfa6bf260efa08adf8cb338932c8544e77f75d7022dc15cb646d49ca5ea",
+      "artPath": "images/10001102/character-art.png",
       "artSha256": "6858c02e13b2f4add23ad925b6d6012f22edcffd30e5c8e451e3cb97dd774136",
-      "costumeIconPath": "costume-icons/costume-10001.png",
+      "costumeIconPath": "images/costumes/10001/costume-icon.png",
       "costumeIconSha256": "6e8df1d4d8760805db9bf2b6b8c2f148be91d06db25c587dee078150a492e3c1",
       "pedestalPath": "pedestals/10001/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "5acd29fd1cb9cfcb3563a808034774694bec763ec2d1b12cecbd905d55f3ee01"
     },
     {
       "memberMstId": 10001103,
@@ -40,13 +42,14 @@
       "personalName": "園田 海未",
       "costumeName": "音ノ木坂学院 冬制服",
       "modelPath": "models/10001103/scene.glb",
-      "modelSha256": "de29bfbf796d6a892357d8ff20a264cfba59be1a166befa5a4c7f31fed8071d0",
-      "artPath": "models/10001103/character-art.png",
+      "modelSha256": "23ab80eda47dd65b8716cd1e817f9e726f2c56a919562e428fb696b57e48a77b",
+      "artPath": "images/10001103/character-art.png",
       "artSha256": "6ae73e6baf4700b97146fc7d277153cfa1b68342f44b4605d2b7405c735f5d6f",
-      "costumeIconPath": "costume-icons/costume-10001.png",
+      "costumeIconPath": "images/costumes/10001/costume-icon.png",
       "costumeIconSha256": "6e8df1d4d8760805db9bf2b6b8c2f148be91d06db25c587dee078150a492e3c1",
       "pedestalPath": "pedestals/10001/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "5acd29fd1cb9cfcb3563a808034774694bec763ec2d1b12cecbd905d55f3ee01"
     },
     {
       "memberMstId": 10001104,
@@ -56,13 +59,14 @@
       "personalName": "西木野 真姫",
       "costumeName": "音ノ木坂学院 冬制服",
       "modelPath": "models/10001104/scene.glb",
-      "modelSha256": "77dbcbe4370274cf090589736c989271066f6b1610ab861ece9b9c00e0c21a93",
-      "artPath": "models/10001104/character-art.png",
+      "modelSha256": "a48657335b39d57adf52c6beb79594ac57eb9068240adb29fa569a1fddc21bb7",
+      "artPath": "images/10001104/character-art.png",
       "artSha256": "7f19ebbdcb99334c9c8e3e8da3bb6354698d97d94af7e3a6d9040c7dbd4a9761",
-      "costumeIconPath": "costume-icons/costume-10001.png",
+      "costumeIconPath": "images/costumes/10001/costume-icon.png",
       "costumeIconSha256": "6e8df1d4d8760805db9bf2b6b8c2f148be91d06db25c587dee078150a492e3c1",
       "pedestalPath": "pedestals/10001/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "5acd29fd1cb9cfcb3563a808034774694bec763ec2d1b12cecbd905d55f3ee01"
     },
     {
       "memberMstId": 10001105,
@@ -72,13 +76,14 @@
       "personalName": "星空 凛",
       "costumeName": "音ノ木坂学院 冬制服",
       "modelPath": "models/10001105/scene.glb",
-      "modelSha256": "c9e011ca39ae341e03ea4af2b0a2197375ad31707784e85d1368bbe69a78e469",
-      "artPath": "models/10001105/character-art.png",
+      "modelSha256": "ceae6ad0a829d0bc44d270d01044d1c2ba76448398d33d8c08eb6055fbe95f4c",
+      "artPath": "images/10001105/character-art.png",
       "artSha256": "a619677e833c0acdc9c906dd8b9d1a40eab5e9cd414d32765ac240ec13e3b871",
-      "costumeIconPath": "costume-icons/costume-10001.png",
+      "costumeIconPath": "images/costumes/10001/costume-icon.png",
       "costumeIconSha256": "6e8df1d4d8760805db9bf2b6b8c2f148be91d06db25c587dee078150a492e3c1",
       "pedestalPath": "pedestals/10001/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "5acd29fd1cb9cfcb3563a808034774694bec763ec2d1b12cecbd905d55f3ee01"
     },
     {
       "memberMstId": 10001106,
@@ -88,13 +93,14 @@
       "personalName": "小泉 花陽",
       "costumeName": "音ノ木坂学院 冬制服",
       "modelPath": "models/10001106/scene.glb",
-      "modelSha256": "54d4a0a4d872fcc252a9c00004d0d7ec918722c95789d76096713701e02f4254",
-      "artPath": "models/10001106/character-art.png",
+      "modelSha256": "6f2c0c5a41105b5d59d586c9f77700c826375391248f1dfccd5c19cbb7e10b00",
+      "artPath": "images/10001106/character-art.png",
       "artSha256": "2246a3ddf3481f3ceb3484a93f81170bfa025e8e4a5456273c9fb191442790e7",
-      "costumeIconPath": "costume-icons/costume-10001.png",
+      "costumeIconPath": "images/costumes/10001/costume-icon.png",
       "costumeIconSha256": "6e8df1d4d8760805db9bf2b6b8c2f148be91d06db25c587dee078150a492e3c1",
       "pedestalPath": "pedestals/10001/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "5acd29fd1cb9cfcb3563a808034774694bec763ec2d1b12cecbd905d55f3ee01"
     },
     {
       "memberMstId": 10001107,
@@ -104,13 +110,14 @@
       "personalName": "矢澤 にこ",
       "costumeName": "音ノ木坂学院 冬制服",
       "modelPath": "models/10001107/scene.glb",
-      "modelSha256": "4522acd2467bd40e872cd0ba1047098c63f3fc3d86782d85a06c05f14ba357b8",
-      "artPath": "models/10001107/character-art.png",
+      "modelSha256": "e86fcd672bc768f658745f955237e4b1672dbd1a0ab223ac63aa964a63d79ab5",
+      "artPath": "images/10001107/character-art.png",
       "artSha256": "9f684fe63162eb2e245ecb3bb3ff44362d98eeaf086aefa242e1586d1cfb2754",
-      "costumeIconPath": "costume-icons/costume-10001.png",
+      "costumeIconPath": "images/costumes/10001/costume-icon.png",
       "costumeIconSha256": "6e8df1d4d8760805db9bf2b6b8c2f148be91d06db25c587dee078150a492e3c1",
       "pedestalPath": "pedestals/10001/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "5acd29fd1cb9cfcb3563a808034774694bec763ec2d1b12cecbd905d55f3ee01"
     },
     {
       "memberMstId": 10001108,
@@ -120,13 +127,14 @@
       "personalName": "東條 希",
       "costumeName": "音ノ木坂学院 冬制服",
       "modelPath": "models/10001108/scene.glb",
-      "modelSha256": "e40e48cb8bd6e5bc0fa0a90c983c8b38a4edda8f66332a55772c53130614d319",
-      "artPath": "models/10001108/character-art.png",
+      "modelSha256": "827505b05ccb98d7a2d01f62c58c1cc97ada0f1246daf2af2b6d231a7e4a4769",
+      "artPath": "images/10001108/character-art.png",
       "artSha256": "05694680cd65e7833a5d4d631638f257c6a5a1e0557614636f02a8310ca46c8d",
-      "costumeIconPath": "costume-icons/costume-10001.png",
+      "costumeIconPath": "images/costumes/10001/costume-icon.png",
       "costumeIconSha256": "6e8df1d4d8760805db9bf2b6b8c2f148be91d06db25c587dee078150a492e3c1",
       "pedestalPath": "pedestals/10001/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "5acd29fd1cb9cfcb3563a808034774694bec763ec2d1b12cecbd905d55f3ee01"
     },
     {
       "memberMstId": 10001109,
@@ -136,13 +144,14 @@
       "personalName": "絢瀬 絵里",
       "costumeName": "音ノ木坂学院 冬制服",
       "modelPath": "models/10001109/scene.glb",
-      "modelSha256": "92e9e1954d11b32f7429b24e5f1e17ad6558a7a5915ad32a904e86a4fe64df1f",
-      "artPath": "models/10001109/character-art.png",
+      "modelSha256": "d72c8603befe63f7886c0f9415983b2d949d59e5f1b572e237ebc787358e3116",
+      "artPath": "images/10001109/character-art.png",
       "artSha256": "c411b1d377eb014193a4468f459ed0b388818d17003e3e8c947a2837c51d3c8a",
-      "costumeIconPath": "costume-icons/costume-10001.png",
+      "costumeIconPath": "images/costumes/10001/costume-icon.png",
       "costumeIconSha256": "6e8df1d4d8760805db9bf2b6b8c2f148be91d06db25c587dee078150a492e3c1",
       "pedestalPath": "pedestals/10001/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "5acd29fd1cb9cfcb3563a808034774694bec763ec2d1b12cecbd905d55f3ee01"
     },
     {
       "memberMstId": 10002101,
@@ -152,13 +161,14 @@
       "personalName": "高坂 穂乃果",
       "costumeName": "僕らは今のなかで",
       "modelPath": "models/10002101/scene.glb",
-      "modelSha256": "6bc2a3d14040b31e0bb4e77c6a234db7f4afe139df1590845a1bfad65910f02a",
-      "artPath": "models/10002101/character-art.png",
+      "modelSha256": "3315f3aec308a4cd710562de01205898c5ff32442b9fe3f77f4809120d1c1ac3",
+      "artPath": "images/10002101/character-art.png",
       "artSha256": "90ec3347c0c250c0772c8fd9b2a83da3d05359f66dd6c061259c6c97687aba05",
-      "costumeIconPath": "costume-icons/costume-10002.png",
+      "costumeIconPath": "images/costumes/10002/costume-icon.png",
       "costumeIconSha256": "4722b3636cfe40e487989f9207fde65cf517bddf149880fea11b3236233f30b0",
       "pedestalPath": "pedestals/10002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "62a8e0e2037753575247c34415b247746c55e16999423cdc8ceea71f52d4b2dc"
     },
     {
       "memberMstId": 10002102,
@@ -168,13 +178,14 @@
       "personalName": "南 ことり",
       "costumeName": "僕らは今のなかで",
       "modelPath": "models/10002102/scene.glb",
-      "modelSha256": "5d4544cd0c0d18ac3aab1d10f689ee17afd474174ed3576a3107ae0555e86fa4",
-      "artPath": "models/10002102/character-art.png",
+      "modelSha256": "381f06e95fd0d9c36e491686631bf7aed2fda5ae5d1b76d2868dc1f119efca2d",
+      "artPath": "images/10002102/character-art.png",
       "artSha256": "f35851891f982e009e47d057721b217ed98bdd64682d62e5c65b2453da7580eb",
-      "costumeIconPath": "costume-icons/costume-10002.png",
+      "costumeIconPath": "images/costumes/10002/costume-icon.png",
       "costumeIconSha256": "4722b3636cfe40e487989f9207fde65cf517bddf149880fea11b3236233f30b0",
       "pedestalPath": "pedestals/10002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "62a8e0e2037753575247c34415b247746c55e16999423cdc8ceea71f52d4b2dc"
     },
     {
       "memberMstId": 10002103,
@@ -184,13 +195,14 @@
       "personalName": "園田 海未",
       "costumeName": "僕らは今のなかで",
       "modelPath": "models/10002103/scene.glb",
-      "modelSha256": "d36dbf3992414eb464e7c21fe0ed8d61d8632ebe7e063490954cc0de00105ecb",
-      "artPath": "models/10002103/character-art.png",
+      "modelSha256": "a3fecd6a0ef34e69af12562fbd699d310642d94b12282524ba035598a58839a8",
+      "artPath": "images/10002103/character-art.png",
       "artSha256": "0991dd0fb61c59288e1196afb27af3f61336a4fa3260b194f3242faf60375c2b",
-      "costumeIconPath": "costume-icons/costume-10002.png",
+      "costumeIconPath": "images/costumes/10002/costume-icon.png",
       "costumeIconSha256": "4722b3636cfe40e487989f9207fde65cf517bddf149880fea11b3236233f30b0",
       "pedestalPath": "pedestals/10002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "62a8e0e2037753575247c34415b247746c55e16999423cdc8ceea71f52d4b2dc"
     },
     {
       "memberMstId": 10002104,
@@ -200,13 +212,14 @@
       "personalName": "西木野 真姫",
       "costumeName": "僕らは今のなかで",
       "modelPath": "models/10002104/scene.glb",
-      "modelSha256": "3f66475677ea99353cb7829e77b72779a0f52f821c43e990cc56791d106f9a42",
-      "artPath": "models/10002104/character-art.png",
+      "modelSha256": "af2736df5d0772d64ca52d44cb2c2f513c8d99bc9e4755537d89cab71130cc54",
+      "artPath": "images/10002104/character-art.png",
       "artSha256": "c012d6f4f0af73e321a46e8be048e4f94270a4b2d36ac1d78deced10c872102e",
-      "costumeIconPath": "costume-icons/costume-10002.png",
+      "costumeIconPath": "images/costumes/10002/costume-icon.png",
       "costumeIconSha256": "4722b3636cfe40e487989f9207fde65cf517bddf149880fea11b3236233f30b0",
       "pedestalPath": "pedestals/10002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "62a8e0e2037753575247c34415b247746c55e16999423cdc8ceea71f52d4b2dc"
     },
     {
       "memberMstId": 10002105,
@@ -216,13 +229,14 @@
       "personalName": "星空 凛",
       "costumeName": "僕らは今のなかで",
       "modelPath": "models/10002105/scene.glb",
-      "modelSha256": "552a475e518d8bf408fe28dde36cb08b0fba623e0ee6d22de97d47d10cb1a4cd",
-      "artPath": "models/10002105/character-art.png",
+      "modelSha256": "fbead9245c2ea1ef5f7e5478e7ec60840a87a0257e3118a7c9ba9c4a95e049ed",
+      "artPath": "images/10002105/character-art.png",
       "artSha256": "f422784b874540d4cd164d09b39009d14fc96eeb2b63a13545135860894ced3a",
-      "costumeIconPath": "costume-icons/costume-10002.png",
+      "costumeIconPath": "images/costumes/10002/costume-icon.png",
       "costumeIconSha256": "4722b3636cfe40e487989f9207fde65cf517bddf149880fea11b3236233f30b0",
       "pedestalPath": "pedestals/10002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "62a8e0e2037753575247c34415b247746c55e16999423cdc8ceea71f52d4b2dc"
     },
     {
       "memberMstId": 10002106,
@@ -232,13 +246,14 @@
       "personalName": "小泉 花陽",
       "costumeName": "僕らは今のなかで",
       "modelPath": "models/10002106/scene.glb",
-      "modelSha256": "3784eeed0bd646da9133c6e4b2b2aa3cc0ff6b36984068ec1846ad58bea874bb",
-      "artPath": "models/10002106/character-art.png",
+      "modelSha256": "c6306079740f0ce482778b68d46d261f126acd83e9d2a8e3d1a72c9d4a6ee935",
+      "artPath": "images/10002106/character-art.png",
       "artSha256": "6cbee0780f06662cb3c569cf21cf5b33d2430c551bd5d464f7a50ae29595457e",
-      "costumeIconPath": "costume-icons/costume-10002.png",
+      "costumeIconPath": "images/costumes/10002/costume-icon.png",
       "costumeIconSha256": "4722b3636cfe40e487989f9207fde65cf517bddf149880fea11b3236233f30b0",
       "pedestalPath": "pedestals/10002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "62a8e0e2037753575247c34415b247746c55e16999423cdc8ceea71f52d4b2dc"
     },
     {
       "memberMstId": 10002107,
@@ -248,13 +263,14 @@
       "personalName": "矢澤 にこ",
       "costumeName": "僕らは今のなかで",
       "modelPath": "models/10002107/scene.glb",
-      "modelSha256": "41e9d934a93e313f32cb50355723e640fcfcd3d3bb212322cd2cfeb9b5bea979",
-      "artPath": "models/10002107/character-art.png",
+      "modelSha256": "0cf4b1d44e830835ad1afa3c11e4f1b83a78584b9664417d5c0d2095aa94736c",
+      "artPath": "images/10002107/character-art.png",
       "artSha256": "d693ed4a9a863b5392bfdc92d893aa9975f5c268fc585e12e2486662287bd9ba",
-      "costumeIconPath": "costume-icons/costume-10002.png",
+      "costumeIconPath": "images/costumes/10002/costume-icon.png",
       "costumeIconSha256": "4722b3636cfe40e487989f9207fde65cf517bddf149880fea11b3236233f30b0",
       "pedestalPath": "pedestals/10002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "62a8e0e2037753575247c34415b247746c55e16999423cdc8ceea71f52d4b2dc"
     },
     {
       "memberMstId": 10002108,
@@ -264,13 +280,14 @@
       "personalName": "東條 希",
       "costumeName": "僕らは今のなかで",
       "modelPath": "models/10002108/scene.glb",
-      "modelSha256": "905db9f3dfe006699293cf0f4e168877ea12e788d88263cb70cd3c9f740098be",
-      "artPath": "models/10002108/character-art.png",
+      "modelSha256": "a40eb924136315fdac54d2e5a3d5e36b1779edcb455b56916cc1ebfb6d5e46d1",
+      "artPath": "images/10002108/character-art.png",
       "artSha256": "ae1802cc9f731bba97b0fb7298ea74287364dbf4a34284169a51e257b26c83ae",
-      "costumeIconPath": "costume-icons/costume-10002.png",
+      "costumeIconPath": "images/costumes/10002/costume-icon.png",
       "costumeIconSha256": "4722b3636cfe40e487989f9207fde65cf517bddf149880fea11b3236233f30b0",
       "pedestalPath": "pedestals/10002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "62a8e0e2037753575247c34415b247746c55e16999423cdc8ceea71f52d4b2dc"
     },
     {
       "memberMstId": 10002109,
@@ -280,13 +297,14 @@
       "personalName": "絢瀬 絵里",
       "costumeName": "僕らは今のなかで",
       "modelPath": "models/10002109/scene.glb",
-      "modelSha256": "e3f3dac440b02ef2e1c3892464d642c3b144657d39220ec4f350fbb0bcc0a9d9",
-      "artPath": "models/10002109/character-art.png",
+      "modelSha256": "71f78393ae82d79b4032ad9807cda1121e2f0709c440fc61b8f381b6115aa2ba",
+      "artPath": "images/10002109/character-art.png",
       "artSha256": "a83bf8d8327264ebd68db90bb3fdf00dde4f71b0fd821b644c7eb3830d02839a",
-      "costumeIconPath": "costume-icons/costume-10002.png",
+      "costumeIconPath": "images/costumes/10002/costume-icon.png",
       "costumeIconSha256": "4722b3636cfe40e487989f9207fde65cf517bddf149880fea11b3236233f30b0",
       "pedestalPath": "pedestals/10002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "62a8e0e2037753575247c34415b247746c55e16999423cdc8ceea71f52d4b2dc"
     },
     {
       "memberMstId": 10003101,
@@ -296,13 +314,14 @@
       "personalName": "高坂 穂乃果",
       "costumeName": "Snow halation",
       "modelPath": "models/10003101/scene.glb",
-      "modelSha256": "89c7b272a242b33e93c1470f39cfb9f7453b21facceb815d465dd03ef57e91a3",
-      "artPath": "models/10003101/character-art.png",
+      "modelSha256": "850ca9a28f7add9bff036232b6fc70259e16fe609d77df41382f3d9aa7020c77",
+      "artPath": "images/10003101/character-art.png",
       "artSha256": "4f2a0218e167b62be35c35a9ec23c93e8ec4fcee3fae60d917a24d3a4b5844d8",
-      "costumeIconPath": "costume-icons/costume-10003.png",
+      "costumeIconPath": "images/costumes/10003/costume-icon.png",
       "costumeIconSha256": "b39111e957041bbd270dc4ba112875c9b3c0e4cbb22eaed41977ef98c973fb3f",
       "pedestalPath": "pedestals/10003/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "73b738d54dafad71b9d86862e38b83354aa9fd2d426a38ee6efaf6ee152fce57"
     },
     {
       "memberMstId": 10003102,
@@ -312,13 +331,14 @@
       "personalName": "南 ことり",
       "costumeName": "Snow halation",
       "modelPath": "models/10003102/scene.glb",
-      "modelSha256": "411205755188587a673eac71c2b1a18a96d20dad8bf2516a57ee69de749279ce",
-      "artPath": "models/10003102/character-art.png",
+      "modelSha256": "7adbbaa64ea4ae6b544b58871765f712d82b480733ca6da8c214c26837239d69",
+      "artPath": "images/10003102/character-art.png",
       "artSha256": "e02c2f733dc49e32e0d448301ff8a3db7657c384a8f753f4bffb7ab3bf42d2a1",
-      "costumeIconPath": "costume-icons/costume-10003.png",
+      "costumeIconPath": "images/costumes/10003/costume-icon.png",
       "costumeIconSha256": "b39111e957041bbd270dc4ba112875c9b3c0e4cbb22eaed41977ef98c973fb3f",
       "pedestalPath": "pedestals/10003/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "73b738d54dafad71b9d86862e38b83354aa9fd2d426a38ee6efaf6ee152fce57"
     },
     {
       "memberMstId": 10003103,
@@ -328,13 +348,14 @@
       "personalName": "園田 海未",
       "costumeName": "Snow halation",
       "modelPath": "models/10003103/scene.glb",
-      "modelSha256": "34c5f6d6faf21532b2dbc97c85657aac5073fbb0e99006632f517f9fc8d887ee",
-      "artPath": "models/10003103/character-art.png",
+      "modelSha256": "54e547e6b63a51d7da3575a81f9f8b6906ff623283aa32bbe600b7fe489192a0",
+      "artPath": "images/10003103/character-art.png",
       "artSha256": "9ebfe6b31adb38f5437d0790a5a24df1fd3266ab714baed6cb33a809d469d31f",
-      "costumeIconPath": "costume-icons/costume-10003.png",
+      "costumeIconPath": "images/costumes/10003/costume-icon.png",
       "costumeIconSha256": "b39111e957041bbd270dc4ba112875c9b3c0e4cbb22eaed41977ef98c973fb3f",
       "pedestalPath": "pedestals/10003/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "73b738d54dafad71b9d86862e38b83354aa9fd2d426a38ee6efaf6ee152fce57"
     },
     {
       "memberMstId": 10003104,
@@ -344,13 +365,14 @@
       "personalName": "西木野 真姫",
       "costumeName": "Snow halation",
       "modelPath": "models/10003104/scene.glb",
-      "modelSha256": "fc6eef78d47eb4a4b96760f71160a1314e53bef5ba65cdc95f76faddd40311ae",
-      "artPath": "models/10003104/character-art.png",
+      "modelSha256": "1df955e3f6c28b767bc3f0a4b6b45762d669a745453e25698b67a3e0b544c7eb",
+      "artPath": "images/10003104/character-art.png",
       "artSha256": "1367a1f52a8dc04f65484b24d2bb4d0979e4e7492b37561674d1f4dc5656307b",
-      "costumeIconPath": "costume-icons/costume-10003.png",
+      "costumeIconPath": "images/costumes/10003/costume-icon.png",
       "costumeIconSha256": "b39111e957041bbd270dc4ba112875c9b3c0e4cbb22eaed41977ef98c973fb3f",
       "pedestalPath": "pedestals/10003/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "73b738d54dafad71b9d86862e38b83354aa9fd2d426a38ee6efaf6ee152fce57"
     },
     {
       "memberMstId": 10003105,
@@ -360,13 +382,14 @@
       "personalName": "星空 凛",
       "costumeName": "Snow halation",
       "modelPath": "models/10003105/scene.glb",
-      "modelSha256": "f8eea8d97c25decd1ca77759a6494d29f1c0b26682b12538d74e325b13947c8b",
-      "artPath": "models/10003105/character-art.png",
+      "modelSha256": "8fca5ed0f35455e5d861d76afcb2ea8a92b88f077820a38b494c1cb53e49dafc",
+      "artPath": "images/10003105/character-art.png",
       "artSha256": "784c29ed3edffc2fd2999c5cc422a6eee60df4779c373ac0dbec04550a390cc2",
-      "costumeIconPath": "costume-icons/costume-10003.png",
+      "costumeIconPath": "images/costumes/10003/costume-icon.png",
       "costumeIconSha256": "b39111e957041bbd270dc4ba112875c9b3c0e4cbb22eaed41977ef98c973fb3f",
       "pedestalPath": "pedestals/10003/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "73b738d54dafad71b9d86862e38b83354aa9fd2d426a38ee6efaf6ee152fce57"
     },
     {
       "memberMstId": 10003106,
@@ -376,13 +399,14 @@
       "personalName": "小泉 花陽",
       "costumeName": "Snow halation",
       "modelPath": "models/10003106/scene.glb",
-      "modelSha256": "2fd4c7f573bf1213fe3d687ad0cb722b4cdef8c3ce36a9abc219a1d9fea142fd",
-      "artPath": "models/10003106/character-art.png",
+      "modelSha256": "cc44702916c2d71fc2336b37b68111c3c0266b58dff3669ef40ddd39265c9e03",
+      "artPath": "images/10003106/character-art.png",
       "artSha256": "505d7698384c65f34a177e4e56ca829d2df7dfa22bd2d4747a96fe6eb52e29ee",
-      "costumeIconPath": "costume-icons/costume-10003.png",
+      "costumeIconPath": "images/costumes/10003/costume-icon.png",
       "costumeIconSha256": "b39111e957041bbd270dc4ba112875c9b3c0e4cbb22eaed41977ef98c973fb3f",
       "pedestalPath": "pedestals/10003/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "73b738d54dafad71b9d86862e38b83354aa9fd2d426a38ee6efaf6ee152fce57"
     },
     {
       "memberMstId": 10003107,
@@ -392,13 +416,14 @@
       "personalName": "矢澤 にこ",
       "costumeName": "Snow halation",
       "modelPath": "models/10003107/scene.glb",
-      "modelSha256": "ee0b9653750ec7218dada1b10fb87ea629335a3573178d4de4b896bcf4a8283d",
-      "artPath": "models/10003107/character-art.png",
+      "modelSha256": "b661d75548ab69f01f87be755977b0d112749b071774dd7b70120d51c709cf7a",
+      "artPath": "images/10003107/character-art.png",
       "artSha256": "c15369d131c1a8bb3bce65d1bbb2a0418b9305ef52772942e30616feb201fe0a",
-      "costumeIconPath": "costume-icons/costume-10003.png",
+      "costumeIconPath": "images/costumes/10003/costume-icon.png",
       "costumeIconSha256": "b39111e957041bbd270dc4ba112875c9b3c0e4cbb22eaed41977ef98c973fb3f",
       "pedestalPath": "pedestals/10003/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "73b738d54dafad71b9d86862e38b83354aa9fd2d426a38ee6efaf6ee152fce57"
     },
     {
       "memberMstId": 10003108,
@@ -408,13 +433,14 @@
       "personalName": "東條 希",
       "costumeName": "Snow halation",
       "modelPath": "models/10003108/scene.glb",
-      "modelSha256": "57ab030a46470cb5c80c56ce42ca1515cd9b03659a994ceb4a85d871d6a19fe2",
-      "artPath": "models/10003108/character-art.png",
+      "modelSha256": "a107c99425ddddb4f78cd6fed7acd59125ffc5545b3478833869bf0761704d8b",
+      "artPath": "images/10003108/character-art.png",
       "artSha256": "b828ff1a21b1cb5e86f2091eef5a208e7c7d810fb89b627b6a068c84bad933f2",
-      "costumeIconPath": "costume-icons/costume-10003.png",
+      "costumeIconPath": "images/costumes/10003/costume-icon.png",
       "costumeIconSha256": "b39111e957041bbd270dc4ba112875c9b3c0e4cbb22eaed41977ef98c973fb3f",
       "pedestalPath": "pedestals/10003/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "73b738d54dafad71b9d86862e38b83354aa9fd2d426a38ee6efaf6ee152fce57"
     },
     {
       "memberMstId": 10003109,
@@ -424,13 +450,14 @@
       "personalName": "絢瀬 絵里",
       "costumeName": "Snow halation",
       "modelPath": "models/10003109/scene.glb",
-      "modelSha256": "370d46efa46fc3a5514c9304f6ab4e9d912216ee33cd9d21b6d141d4bab40069",
-      "artPath": "models/10003109/character-art.png",
+      "modelSha256": "81b9a12104450762572cfb7bb1f25b06dc27df0b65acdc2ef40a2c7ba2e692ee",
+      "artPath": "images/10003109/character-art.png",
       "artSha256": "3ca38171e2c33fa2fa51fd47cca8f0a8b52b2e75c21ebe358a2860c0e0bd144a",
-      "costumeIconPath": "costume-icons/costume-10003.png",
+      "costumeIconPath": "images/costumes/10003/costume-icon.png",
       "costumeIconSha256": "b39111e957041bbd270dc4ba112875c9b3c0e4cbb22eaed41977ef98c973fb3f",
       "pedestalPath": "pedestals/10003/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "73b738d54dafad71b9d86862e38b83354aa9fd2d426a38ee6efaf6ee152fce57"
     },
     {
       "memberMstId": 10004101,
@@ -440,13 +467,14 @@
       "personalName": "高坂 穂乃果",
       "costumeName": "それは僕たちの奇跡",
       "modelPath": "models/10004101/scene.glb",
-      "modelSha256": "5bc75bfa00cebefa4c982f34ff31736c977ff80088ec755b69ca5bde073065e7",
-      "artPath": "models/10004101/character-art.png",
+      "modelSha256": "3da8f2e0d172e17c440afdf270e74c1f68fe820c1500761bd89e4656fb4842c3",
+      "artPath": "images/10004101/character-art.png",
       "artSha256": "0fc11111f13dc37a4a9c21f3b0c192f669d1220eb3bb4103fb6589a6130b373d",
-      "costumeIconPath": "costume-icons/costume-10004.png",
+      "costumeIconPath": "images/costumes/10004/costume-icon.png",
       "costumeIconSha256": "def9d43235e879baa63b42e1d1efb18f7d8c1d10640900d423ef422088845a6a",
       "pedestalPath": "pedestals/10004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "59441a2f0e551ad7dcd0a03cd46e5127283b6a0b4b08fab331272962d06348ed"
     },
     {
       "memberMstId": 10004102,
@@ -456,13 +484,14 @@
       "personalName": "南 ことり",
       "costumeName": "それは僕たちの奇跡",
       "modelPath": "models/10004102/scene.glb",
-      "modelSha256": "a0091d60b296d11026f6e9d1cf7c510f73376f89218ed1ef6aca7b51b3269d92",
-      "artPath": "models/10004102/character-art.png",
+      "modelSha256": "69f2a203645cda01f62a40a714e02189cb8c1e80d8a31aecc56f654c196f307d",
+      "artPath": "images/10004102/character-art.png",
       "artSha256": "1d3d3ab18b87e1742d65303d053e7179b9ea39dda083e167d9925f0ee461eac6",
-      "costumeIconPath": "costume-icons/costume-10004.png",
+      "costumeIconPath": "images/costumes/10004/costume-icon.png",
       "costumeIconSha256": "def9d43235e879baa63b42e1d1efb18f7d8c1d10640900d423ef422088845a6a",
       "pedestalPath": "pedestals/10004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "59441a2f0e551ad7dcd0a03cd46e5127283b6a0b4b08fab331272962d06348ed"
     },
     {
       "memberMstId": 10004103,
@@ -472,13 +501,14 @@
       "personalName": "園田 海未",
       "costumeName": "それは僕たちの奇跡",
       "modelPath": "models/10004103/scene.glb",
-      "modelSha256": "b4765e72464b09d07696ad23507184d419f6f4e3a6a615ac940e8e6477f19dd0",
-      "artPath": "models/10004103/character-art.png",
+      "modelSha256": "a8ac4afd5b3ada1e8baae5f18caef91df974d458ad43fa302218cd5cdb97b579",
+      "artPath": "images/10004103/character-art.png",
       "artSha256": "638283b90f96c38b6dcfd34acad556540b8d9a86106b47e005a4642cdd94e444",
-      "costumeIconPath": "costume-icons/costume-10004.png",
+      "costumeIconPath": "images/costumes/10004/costume-icon.png",
       "costumeIconSha256": "def9d43235e879baa63b42e1d1efb18f7d8c1d10640900d423ef422088845a6a",
       "pedestalPath": "pedestals/10004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "59441a2f0e551ad7dcd0a03cd46e5127283b6a0b4b08fab331272962d06348ed"
     },
     {
       "memberMstId": 10004104,
@@ -488,13 +518,14 @@
       "personalName": "西木野 真姫",
       "costumeName": "それは僕たちの奇跡",
       "modelPath": "models/10004104/scene.glb",
-      "modelSha256": "5b5d40b1c80727203d3378a8e92fc9afb5cf158d96325e93bd655d21b2c06823",
-      "artPath": "models/10004104/character-art.png",
+      "modelSha256": "159a2b8f0e57ed3a75d5d35ddafc906d70f5df71c50c755130ba89deea5397c7",
+      "artPath": "images/10004104/character-art.png",
       "artSha256": "d105dc20dcb45f38044fdc4cb3537f06b8e24c564b869831545e5caa1a4a54e3",
-      "costumeIconPath": "costume-icons/costume-10004.png",
+      "costumeIconPath": "images/costumes/10004/costume-icon.png",
       "costumeIconSha256": "def9d43235e879baa63b42e1d1efb18f7d8c1d10640900d423ef422088845a6a",
       "pedestalPath": "pedestals/10004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "59441a2f0e551ad7dcd0a03cd46e5127283b6a0b4b08fab331272962d06348ed"
     },
     {
       "memberMstId": 10004105,
@@ -504,13 +535,14 @@
       "personalName": "星空 凛",
       "costumeName": "それは僕たちの奇跡",
       "modelPath": "models/10004105/scene.glb",
-      "modelSha256": "cf076e9df26a01e335a9d0e3c6fb1fc9152dd46cda02cfed0db5a281d0139c24",
-      "artPath": "models/10004105/character-art.png",
+      "modelSha256": "518711dd7c31d4097c610520432e2842b9e745aa3532daec8dc5f90306e3e178",
+      "artPath": "images/10004105/character-art.png",
       "artSha256": "ec2c555e4da943fd7693d7b26cbdfc2686014e9ccaf368a9fc5b98d8f839e06d",
-      "costumeIconPath": "costume-icons/costume-10004.png",
+      "costumeIconPath": "images/costumes/10004/costume-icon.png",
       "costumeIconSha256": "def9d43235e879baa63b42e1d1efb18f7d8c1d10640900d423ef422088845a6a",
       "pedestalPath": "pedestals/10004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "59441a2f0e551ad7dcd0a03cd46e5127283b6a0b4b08fab331272962d06348ed"
     },
     {
       "memberMstId": 10004106,
@@ -520,13 +552,14 @@
       "personalName": "小泉 花陽",
       "costumeName": "それは僕たちの奇跡",
       "modelPath": "models/10004106/scene.glb",
-      "modelSha256": "95a701211b29c8c30906bee1b64c29ed3fa4a49ae073520d35c2c767bea39793",
-      "artPath": "models/10004106/character-art.png",
+      "modelSha256": "2d76ad917ef3dc93e099a96fa8dc6f261a682e7be251a4e9e39c8011901c3cef",
+      "artPath": "images/10004106/character-art.png",
       "artSha256": "a6eec81fcaffe6c37cc65ded8a67cbb73a250fcfc147625408903226f5c9b4bd",
-      "costumeIconPath": "costume-icons/costume-10004.png",
+      "costumeIconPath": "images/costumes/10004/costume-icon.png",
       "costumeIconSha256": "def9d43235e879baa63b42e1d1efb18f7d8c1d10640900d423ef422088845a6a",
       "pedestalPath": "pedestals/10004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "59441a2f0e551ad7dcd0a03cd46e5127283b6a0b4b08fab331272962d06348ed"
     },
     {
       "memberMstId": 10004107,
@@ -536,13 +569,14 @@
       "personalName": "矢澤 にこ",
       "costumeName": "それは僕たちの奇跡",
       "modelPath": "models/10004107/scene.glb",
-      "modelSha256": "2c02ff2954f8992f9ecb5c6d6fa74f224f961b1e9262ddbd654fc8a1c6b903d3",
-      "artPath": "models/10004107/character-art.png",
+      "modelSha256": "f63ef2fb3dea07c3099f4f77bad271c4e88ccf4c6da89a2618467b5c9ba447d6",
+      "artPath": "images/10004107/character-art.png",
       "artSha256": "76424beeb9cb6be2479f8d720d57302e6873523c4ed2d58860278e169afd3517",
-      "costumeIconPath": "costume-icons/costume-10004.png",
+      "costumeIconPath": "images/costumes/10004/costume-icon.png",
       "costumeIconSha256": "def9d43235e879baa63b42e1d1efb18f7d8c1d10640900d423ef422088845a6a",
       "pedestalPath": "pedestals/10004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "59441a2f0e551ad7dcd0a03cd46e5127283b6a0b4b08fab331272962d06348ed"
     },
     {
       "memberMstId": 10004108,
@@ -552,13 +586,14 @@
       "personalName": "東條 希",
       "costumeName": "それは僕たちの奇跡",
       "modelPath": "models/10004108/scene.glb",
-      "modelSha256": "b18d273b3e009010835bccfb8f072673f9a65c938ddb2fffd17e70182fa71ac3",
-      "artPath": "models/10004108/character-art.png",
+      "modelSha256": "f6a1ae489593d16cf53ffa7441d6b05f2edf3f89ab7396a0d4530734c1632754",
+      "artPath": "images/10004108/character-art.png",
       "artSha256": "b61f6ae0c6614f39d22743481e5be9cc858fea8aea2d3720ce43363ea581d602",
-      "costumeIconPath": "costume-icons/costume-10004.png",
+      "costumeIconPath": "images/costumes/10004/costume-icon.png",
       "costumeIconSha256": "def9d43235e879baa63b42e1d1efb18f7d8c1d10640900d423ef422088845a6a",
       "pedestalPath": "pedestals/10004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "59441a2f0e551ad7dcd0a03cd46e5127283b6a0b4b08fab331272962d06348ed"
     },
     {
       "memberMstId": 10004109,
@@ -568,13 +603,14 @@
       "personalName": "絢瀬 絵里",
       "costumeName": "それは僕たちの奇跡",
       "modelPath": "models/10004109/scene.glb",
-      "modelSha256": "5a40b7edbc66da487d2a1990d2aaa229b2c7adc88427ad0d1d83cf492fc0ca1b",
-      "artPath": "models/10004109/character-art.png",
+      "modelSha256": "c2ea60cdb875108116a43ee886db0ca0a157f9630cb3bca15aa5efae2d0f4823",
+      "artPath": "images/10004109/character-art.png",
       "artSha256": "39abb154805b2e007a79b586c6164b6860568a449e54785d47a76d55552ee1ce",
-      "costumeIconPath": "costume-icons/costume-10004.png",
+      "costumeIconPath": "images/costumes/10004/costume-icon.png",
       "costumeIconSha256": "def9d43235e879baa63b42e1d1efb18f7d8c1d10640900d423ef422088845a6a",
       "pedestalPath": "pedestals/10004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "59441a2f0e551ad7dcd0a03cd46e5127283b6a0b4b08fab331272962d06348ed"
     },
     {
       "memberMstId": 10005101,
@@ -584,13 +620,14 @@
       "personalName": "高坂 穂乃果",
       "costumeName": "僕らのLIVE 君とのLIFE",
       "modelPath": "models/10005101/scene.glb",
-      "modelSha256": "10090676b0ad13deda71e4b980058d9255dc3540d8c504cc2a5306fbaa387e3e",
-      "artPath": "models/10005101/character-art.png",
+      "modelSha256": "fa04475b02cca9fd3ff09b28305506f1ea2c63110b4c1a3f65765c8319716310",
+      "artPath": "images/10005101/character-art.png",
       "artSha256": "21379ae7f1e495a5ad6be3abaf652ecf645e5210ebac14a3d268fdad4be32dbf",
-      "costumeIconPath": "costume-icons/costume-10005.png",
+      "costumeIconPath": "images/costumes/10005/costume-icon.png",
       "costumeIconSha256": "4cde3933d289b7b48fa7516346c92453a5f491b0575725c82790d959a65edf1d",
       "pedestalPath": "pedestals/10005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "f23203f9c960c0a4b6c226d98c94f9046a24ad12b68eade1b9d47c86996e3bed"
     },
     {
       "memberMstId": 10005102,
@@ -600,13 +637,14 @@
       "personalName": "南 ことり",
       "costumeName": "僕らのLIVE 君とのLIFE",
       "modelPath": "models/10005102/scene.glb",
-      "modelSha256": "8b83c0d82aa3464d872664f548b4aa3eda5ba17c11365f16b0961bb8d6f5539a",
-      "artPath": "models/10005102/character-art.png",
+      "modelSha256": "9b4e940062b622a4ad74c901275a9fa19f5d8c9d24dbdc1ffbaa9720afee06ba",
+      "artPath": "images/10005102/character-art.png",
       "artSha256": "95c0e55a6573d9a9820188283fc13472de31976032cf4e4e36da468510143710",
-      "costumeIconPath": "costume-icons/costume-10005.png",
+      "costumeIconPath": "images/costumes/10005/costume-icon.png",
       "costumeIconSha256": "4cde3933d289b7b48fa7516346c92453a5f491b0575725c82790d959a65edf1d",
       "pedestalPath": "pedestals/10005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "f23203f9c960c0a4b6c226d98c94f9046a24ad12b68eade1b9d47c86996e3bed"
     },
     {
       "memberMstId": 10005103,
@@ -616,13 +654,14 @@
       "personalName": "園田 海未",
       "costumeName": "僕らのLIVE 君とのLIFE",
       "modelPath": "models/10005103/scene.glb",
-      "modelSha256": "bbebb4c1c29bda1d46d600bbfdca589c611fe4b2beee248102e1ae6753be3134",
-      "artPath": "models/10005103/character-art.png",
+      "modelSha256": "4fccb912126afc28499800683e8ecc52f2f5c9af3a11b065dcdc3167c55f6091",
+      "artPath": "images/10005103/character-art.png",
       "artSha256": "3b9c7efc1333ff0264ed0921f23b9a071f6606c00188060df8e780e55d46f0ea",
-      "costumeIconPath": "costume-icons/costume-10005.png",
+      "costumeIconPath": "images/costumes/10005/costume-icon.png",
       "costumeIconSha256": "4cde3933d289b7b48fa7516346c92453a5f491b0575725c82790d959a65edf1d",
       "pedestalPath": "pedestals/10005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "f23203f9c960c0a4b6c226d98c94f9046a24ad12b68eade1b9d47c86996e3bed"
     },
     {
       "memberMstId": 10005104,
@@ -632,13 +671,14 @@
       "personalName": "西木野 真姫",
       "costumeName": "僕らのLIVE 君とのLIFE",
       "modelPath": "models/10005104/scene.glb",
-      "modelSha256": "0eeb83e4783da15241035815a04e28ddb397daae977b92dd72133715018833ce",
-      "artPath": "models/10005104/character-art.png",
+      "modelSha256": "2b453e807334e472495e74f06135566ff20e8b54ce6884482f6b86823c78f9ed",
+      "artPath": "images/10005104/character-art.png",
       "artSha256": "bd95ab812fabc8882f1af8b449be30d49e2c29230c9a1b93c34ca24b712d1695",
-      "costumeIconPath": "costume-icons/costume-10005.png",
+      "costumeIconPath": "images/costumes/10005/costume-icon.png",
       "costumeIconSha256": "4cde3933d289b7b48fa7516346c92453a5f491b0575725c82790d959a65edf1d",
       "pedestalPath": "pedestals/10005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "f23203f9c960c0a4b6c226d98c94f9046a24ad12b68eade1b9d47c86996e3bed"
     },
     {
       "memberMstId": 10005105,
@@ -648,13 +688,14 @@
       "personalName": "星空 凛",
       "costumeName": "僕らのLIVE 君とのLIFE",
       "modelPath": "models/10005105/scene.glb",
-      "modelSha256": "6dc26a080213ac1958cbbe612f0830e17e4424c8f50851e3ee9cc64de52993eb",
-      "artPath": "models/10005105/character-art.png",
+      "modelSha256": "29c005694332ee7b4294b485030462c45b9f324ad6861fe2b0206262e683670f",
+      "artPath": "images/10005105/character-art.png",
       "artSha256": "c21a03674da54aed677a1591597da583477170705e82ea2881a877ab2f992073",
-      "costumeIconPath": "costume-icons/costume-10005.png",
+      "costumeIconPath": "images/costumes/10005/costume-icon.png",
       "costumeIconSha256": "4cde3933d289b7b48fa7516346c92453a5f491b0575725c82790d959a65edf1d",
       "pedestalPath": "pedestals/10005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "f23203f9c960c0a4b6c226d98c94f9046a24ad12b68eade1b9d47c86996e3bed"
     },
     {
       "memberMstId": 10005106,
@@ -664,13 +705,14 @@
       "personalName": "小泉 花陽",
       "costumeName": "僕らのLIVE 君とのLIFE",
       "modelPath": "models/10005106/scene.glb",
-      "modelSha256": "5902c1225151ad237801951ac5195cd9a1409b8b9f58607b1ea34008e60a143d",
-      "artPath": "models/10005106/character-art.png",
+      "modelSha256": "91b4034891170cb7d5e0120cbb2108a1361e2a666ea574dd702ac71be939a882",
+      "artPath": "images/10005106/character-art.png",
       "artSha256": "76bf90e021d6519c32da856c73162a05c01c467f28a5986e072a3322df7683a8",
-      "costumeIconPath": "costume-icons/costume-10005.png",
+      "costumeIconPath": "images/costumes/10005/costume-icon.png",
       "costumeIconSha256": "4cde3933d289b7b48fa7516346c92453a5f491b0575725c82790d959a65edf1d",
       "pedestalPath": "pedestals/10005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "f23203f9c960c0a4b6c226d98c94f9046a24ad12b68eade1b9d47c86996e3bed"
     },
     {
       "memberMstId": 10005107,
@@ -680,13 +722,14 @@
       "personalName": "矢澤 にこ",
       "costumeName": "僕らのLIVE 君とのLIFE",
       "modelPath": "models/10005107/scene.glb",
-      "modelSha256": "d617b04666e22713592c923951f10dcacf31893768760f05700eee3f3f1766ca",
-      "artPath": "models/10005107/character-art.png",
+      "modelSha256": "9e3eba7f54a6da666c7743a87b5879a8117629b340241448535e7926c687bf25",
+      "artPath": "images/10005107/character-art.png",
       "artSha256": "7ce380338a01caef8d4d9e011067f1dd1144f362abf67c8afb3aca87cf2acef2",
-      "costumeIconPath": "costume-icons/costume-10005.png",
+      "costumeIconPath": "images/costumes/10005/costume-icon.png",
       "costumeIconSha256": "4cde3933d289b7b48fa7516346c92453a5f491b0575725c82790d959a65edf1d",
       "pedestalPath": "pedestals/10005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "f23203f9c960c0a4b6c226d98c94f9046a24ad12b68eade1b9d47c86996e3bed"
     },
     {
       "memberMstId": 10005108,
@@ -696,13 +739,14 @@
       "personalName": "東條 希",
       "costumeName": "僕らのLIVE 君とのLIFE",
       "modelPath": "models/10005108/scene.glb",
-      "modelSha256": "b700c52873cdf68908f602f9fd9d7b8b9a68ddff4463d746fada1acc1e65277b",
-      "artPath": "models/10005108/character-art.png",
+      "modelSha256": "8b442b9b7078bd09c54deb21a0113cfd70c4acf35f11fa75d199a01515b3981e",
+      "artPath": "images/10005108/character-art.png",
       "artSha256": "580bce500e4978a97af5f33e5ec1227375605c682fac2f28acd4def2b4496b1c",
-      "costumeIconPath": "costume-icons/costume-10005.png",
+      "costumeIconPath": "images/costumes/10005/costume-icon.png",
       "costumeIconSha256": "4cde3933d289b7b48fa7516346c92453a5f491b0575725c82790d959a65edf1d",
       "pedestalPath": "pedestals/10005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "f23203f9c960c0a4b6c226d98c94f9046a24ad12b68eade1b9d47c86996e3bed"
     },
     {
       "memberMstId": 10005109,
@@ -712,13 +756,14 @@
       "personalName": "絢瀬 絵里",
       "costumeName": "僕らのLIVE 君とのLIFE",
       "modelPath": "models/10005109/scene.glb",
-      "modelSha256": "b17ee8d3380704fe5ae15073e3091f54372a25b64518f70f7278a9f10d4945a2",
-      "artPath": "models/10005109/character-art.png",
+      "modelSha256": "fee17c45fc421c6a77204a478fbf8af5aed3498234d4f75bf5dbf1ba2f1fd12e",
+      "artPath": "images/10005109/character-art.png",
       "artSha256": "81b3e99066c840db1f2091c04fae49b110758588d74e9701ab12843a08a0fddf",
-      "costumeIconPath": "costume-icons/costume-10005.png",
+      "costumeIconPath": "images/costumes/10005/costume-icon.png",
       "costumeIconSha256": "4cde3933d289b7b48fa7516346c92453a5f491b0575725c82790d959a65edf1d",
       "pedestalPath": "pedestals/10005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "f23203f9c960c0a4b6c226d98c94f9046a24ad12b68eade1b9d47c86996e3bed"
     },
     {
       "memberMstId": 10006101,
@@ -728,13 +773,14 @@
       "personalName": "高坂 穂乃果",
       "costumeName": "夏色えがおで1,2,Jump!",
       "modelPath": "models/10006101/scene.glb",
-      "modelSha256": "60334e2a5d167f1dc7193ab19e388e9edcc5b070b64df53bb27356149a01b1ab",
-      "artPath": "models/10006101/character-art.png",
+      "modelSha256": "32b4f662153bb1e31553fcad412d6ac160396fab1141f9de67ae0659baaed131",
+      "artPath": "images/10006101/character-art.png",
       "artSha256": "5b9eff68cc37bb6661bee7e20d063cdf60f8cfc5a5c1707e7b8efba87903f8c2",
-      "costumeIconPath": "costume-icons/costume-10006.png",
+      "costumeIconPath": "images/costumes/10006/costume-icon.png",
       "costumeIconSha256": "2029f5f4530f62548010baf23842e6b1224c02cacb2619cf128804ddbcda5fa4",
       "pedestalPath": "pedestals/10006/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "d55a14fc7f721ef293aa14b2595cde0d9dd00110138daab712af4d56bb6a80ac"
     },
     {
       "memberMstId": 10006102,
@@ -744,13 +790,14 @@
       "personalName": "南 ことり",
       "costumeName": "夏色えがおで1,2,Jump!",
       "modelPath": "models/10006102/scene.glb",
-      "modelSha256": "a94d76fc38bee43e6c9423ffd9144479d327ad1199019a26189e8434d4551f2f",
-      "artPath": "models/10006102/character-art.png",
+      "modelSha256": "a42543bb232e2c21cf6524ee0ea936ec41fd053f3389e8a73dd5073927f59b70",
+      "artPath": "images/10006102/character-art.png",
       "artSha256": "fc340eaee19bb68b10bed5094ceced1b581ca51f3e567cdf5af2886a2d953326",
-      "costumeIconPath": "costume-icons/costume-10006.png",
+      "costumeIconPath": "images/costumes/10006/costume-icon.png",
       "costumeIconSha256": "2029f5f4530f62548010baf23842e6b1224c02cacb2619cf128804ddbcda5fa4",
       "pedestalPath": "pedestals/10006/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "d55a14fc7f721ef293aa14b2595cde0d9dd00110138daab712af4d56bb6a80ac"
     },
     {
       "memberMstId": 10006103,
@@ -760,13 +807,14 @@
       "personalName": "園田 海未",
       "costumeName": "夏色えがおで1,2,Jump!",
       "modelPath": "models/10006103/scene.glb",
-      "modelSha256": "aea4af216d5d6d73b151136ad71657dd51ac4ed0c1a580b96fbbc30d7c916fc4",
-      "artPath": "models/10006103/character-art.png",
+      "modelSha256": "e64022ebd32d530db26cc7ba66ae2354b47ec105fb41ef250cb1e3162f91da30",
+      "artPath": "images/10006103/character-art.png",
       "artSha256": "c507ad0e0b41efe50e91b12b18c55af1bfb59efa29b29f34a314be846aa43cb7",
-      "costumeIconPath": "costume-icons/costume-10006.png",
+      "costumeIconPath": "images/costumes/10006/costume-icon.png",
       "costumeIconSha256": "2029f5f4530f62548010baf23842e6b1224c02cacb2619cf128804ddbcda5fa4",
       "pedestalPath": "pedestals/10006/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "d55a14fc7f721ef293aa14b2595cde0d9dd00110138daab712af4d56bb6a80ac"
     },
     {
       "memberMstId": 10006104,
@@ -776,13 +824,14 @@
       "personalName": "西木野 真姫",
       "costumeName": "夏色えがおで1,2,Jump!",
       "modelPath": "models/10006104/scene.glb",
-      "modelSha256": "9331d24595c91ee0bf324aed93af98a75f8618bef988e4aaff1574938e3193f3",
-      "artPath": "models/10006104/character-art.png",
+      "modelSha256": "deebc3f9a5fa6c4b7f50405080664e1cfbf841bb9fa8e7979612f0c3e773c551",
+      "artPath": "images/10006104/character-art.png",
       "artSha256": "7b23cc3a468972d11bb838431dac9d340d11df9ded6a7cb57cbfb2686b2b45ae",
-      "costumeIconPath": "costume-icons/costume-10006.png",
+      "costumeIconPath": "images/costumes/10006/costume-icon.png",
       "costumeIconSha256": "2029f5f4530f62548010baf23842e6b1224c02cacb2619cf128804ddbcda5fa4",
       "pedestalPath": "pedestals/10006/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "d55a14fc7f721ef293aa14b2595cde0d9dd00110138daab712af4d56bb6a80ac"
     },
     {
       "memberMstId": 10006105,
@@ -792,13 +841,14 @@
       "personalName": "星空 凛",
       "costumeName": "夏色えがおで1,2,Jump!",
       "modelPath": "models/10006105/scene.glb",
-      "modelSha256": "93509dab0dc07b52143c107e6d4eb6ed6cb62c1d1a8ef6a449974159dd142752",
-      "artPath": "models/10006105/character-art.png",
+      "modelSha256": "6e6626382dfa3ee6c0cb6cc35d29c13f9af287153234041b2e7c14813bb2605b",
+      "artPath": "images/10006105/character-art.png",
       "artSha256": "ace31c0806c078f403e31a907a1235f931ecf3f00ec79efa41fc69d7d8f16410",
-      "costumeIconPath": "costume-icons/costume-10006.png",
+      "costumeIconPath": "images/costumes/10006/costume-icon.png",
       "costumeIconSha256": "2029f5f4530f62548010baf23842e6b1224c02cacb2619cf128804ddbcda5fa4",
       "pedestalPath": "pedestals/10006/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "d55a14fc7f721ef293aa14b2595cde0d9dd00110138daab712af4d56bb6a80ac"
     },
     {
       "memberMstId": 10006106,
@@ -808,13 +858,14 @@
       "personalName": "小泉 花陽",
       "costumeName": "夏色えがおで1,2,Jump!",
       "modelPath": "models/10006106/scene.glb",
-      "modelSha256": "0e6c48a2d98936bd274ec4bbecf7f9dbe57487347f3e2eba57e9cad0bc887660",
-      "artPath": "models/10006106/character-art.png",
+      "modelSha256": "8d342e1ed261ee8e1676fecaccb2daf0f1bc1cedc986f6504ad051b5f87c0d19",
+      "artPath": "images/10006106/character-art.png",
       "artSha256": "4e78a55d276530c539031c0718083ec1b056c4b79b464d5eb4434da82646ee43",
-      "costumeIconPath": "costume-icons/costume-10006.png",
+      "costumeIconPath": "images/costumes/10006/costume-icon.png",
       "costumeIconSha256": "2029f5f4530f62548010baf23842e6b1224c02cacb2619cf128804ddbcda5fa4",
       "pedestalPath": "pedestals/10006/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "d55a14fc7f721ef293aa14b2595cde0d9dd00110138daab712af4d56bb6a80ac"
     },
     {
       "memberMstId": 10006107,
@@ -824,13 +875,14 @@
       "personalName": "矢澤 にこ",
       "costumeName": "夏色えがおで1,2,Jump!",
       "modelPath": "models/10006107/scene.glb",
-      "modelSha256": "aa6e4f5963448f9539c3b491cd462df49a05771b66417d879e5e99fd6737a5ec",
-      "artPath": "models/10006107/character-art.png",
+      "modelSha256": "a40eb66bcbb3089fc1909f011aabf7daf56cfc4f5fa56627c4e280c8f92a1021",
+      "artPath": "images/10006107/character-art.png",
       "artSha256": "96c04ae53d61d371b5a70ddf475cadef11c29d00f1701a3912e6f3551ba6a9a6",
-      "costumeIconPath": "costume-icons/costume-10006.png",
+      "costumeIconPath": "images/costumes/10006/costume-icon.png",
       "costumeIconSha256": "2029f5f4530f62548010baf23842e6b1224c02cacb2619cf128804ddbcda5fa4",
       "pedestalPath": "pedestals/10006/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "d55a14fc7f721ef293aa14b2595cde0d9dd00110138daab712af4d56bb6a80ac"
     },
     {
       "memberMstId": 10006108,
@@ -840,13 +892,14 @@
       "personalName": "東條 希",
       "costumeName": "夏色えがおで1,2,Jump!",
       "modelPath": "models/10006108/scene.glb",
-      "modelSha256": "4b48fd9697348f0363b6b2abf0f07d50cd475ffbe57b162f75d43969685af231",
-      "artPath": "models/10006108/character-art.png",
+      "modelSha256": "84e1729f4016b84ea1b612cd673a0fb1c858151ac64f9e060266fcb3b99cd1ac",
+      "artPath": "images/10006108/character-art.png",
       "artSha256": "3e27945624cbb0ed4ff9703ae01728183d7873828c48dfe17ba01ff1ec09b9a5",
-      "costumeIconPath": "costume-icons/costume-10006.png",
+      "costumeIconPath": "images/costumes/10006/costume-icon.png",
       "costumeIconSha256": "2029f5f4530f62548010baf23842e6b1224c02cacb2619cf128804ddbcda5fa4",
       "pedestalPath": "pedestals/10006/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "d55a14fc7f721ef293aa14b2595cde0d9dd00110138daab712af4d56bb6a80ac"
     },
     {
       "memberMstId": 10006109,
@@ -856,13 +909,14 @@
       "personalName": "絢瀬 絵里",
       "costumeName": "夏色えがおで1,2,Jump!",
       "modelPath": "models/10006109/scene.glb",
-      "modelSha256": "80d99a4daf5aca78fa936150fe337645c179df7a19d4d5bf61ef918eb77771ef",
-      "artPath": "models/10006109/character-art.png",
+      "modelSha256": "b8e4e8d86333991ae9ce4f1281a584977e68a2fa85651a0699d68876dfeb82e2",
+      "artPath": "images/10006109/character-art.png",
       "artSha256": "bb9c48f57280c15c001069338c21a4a8f5785f0792b405adb3cfdeda3639f56c",
-      "costumeIconPath": "costume-icons/costume-10006.png",
+      "costumeIconPath": "images/costumes/10006/costume-icon.png",
       "costumeIconSha256": "2029f5f4530f62548010baf23842e6b1224c02cacb2619cf128804ddbcda5fa4",
       "pedestalPath": "pedestals/10006/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "d55a14fc7f721ef293aa14b2595cde0d9dd00110138daab712af4d56bb6a80ac"
     },
     {
       "memberMstId": 10007101,
@@ -872,13 +926,14 @@
       "personalName": "高坂 穂乃果",
       "costumeName": "Dancing stars on me!",
       "modelPath": "models/10007101/scene.glb",
-      "modelSha256": "38b92a1f52e52cb892864193d38616e3a4c5e266711b271450d765a2eda95ab0",
-      "artPath": "models/10007101/character-art.png",
+      "modelSha256": "6553eadb2fd027e125ba2f82df01566176f82217723c7503bd0c5ac699bf889b",
+      "artPath": "images/10007101/character-art.png",
       "artSha256": "43621732c902bce8095b91e41aa86410ad7fdf242e3cdb9475b1723f1686fa37",
-      "costumeIconPath": "costume-icons/costume-10007.png",
+      "costumeIconPath": "images/costumes/10007/costume-icon.png",
       "costumeIconSha256": "291252d5d2d9fc6d035e7dc1493af1e2169967aba6cf8bcfd6a076384c5696ed",
       "pedestalPath": "pedestals/10007/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "12b9494cd8e7c608b3d549645b0368361f67e0a886ed9080652e2610a6b3674a"
     },
     {
       "memberMstId": 10007102,
@@ -888,13 +943,14 @@
       "personalName": "南 ことり",
       "costumeName": "Dancing stars on me!",
       "modelPath": "models/10007102/scene.glb",
-      "modelSha256": "2aef5774ced0aaf38a10e6c41ddfb3eb4a1ff62113dec906498505de694791fd",
-      "artPath": "models/10007102/character-art.png",
+      "modelSha256": "93f6daf9d451f4258327bff4e535d2a9a6d6e6dd94e278f0f53f74b10c233775",
+      "artPath": "images/10007102/character-art.png",
       "artSha256": "7d52c9cc11b14674f4271c2547facd6b1438fd89b9403a0d89ae92df5e75f31d",
-      "costumeIconPath": "costume-icons/costume-10007.png",
+      "costumeIconPath": "images/costumes/10007/costume-icon.png",
       "costumeIconSha256": "291252d5d2d9fc6d035e7dc1493af1e2169967aba6cf8bcfd6a076384c5696ed",
       "pedestalPath": "pedestals/10007/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "12b9494cd8e7c608b3d549645b0368361f67e0a886ed9080652e2610a6b3674a"
     },
     {
       "memberMstId": 10007103,
@@ -904,13 +960,14 @@
       "personalName": "園田 海未",
       "costumeName": "Dancing stars on me!",
       "modelPath": "models/10007103/scene.glb",
-      "modelSha256": "1920d6d7f7c01b779c4234bdc97af4c347b7f1c32c46d25aa116cf9f95045064",
-      "artPath": "models/10007103/character-art.png",
+      "modelSha256": "d624734b4bbce5b2287081e5046801bba04dd1f8099cc4dff7b316540c57fe98",
+      "artPath": "images/10007103/character-art.png",
       "artSha256": "a8adfc5835f6cd05d154cf8cf43b77f70377b82262936421fc5c7a6945d82010",
-      "costumeIconPath": "costume-icons/costume-10007.png",
+      "costumeIconPath": "images/costumes/10007/costume-icon.png",
       "costumeIconSha256": "291252d5d2d9fc6d035e7dc1493af1e2169967aba6cf8bcfd6a076384c5696ed",
       "pedestalPath": "pedestals/10007/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "12b9494cd8e7c608b3d549645b0368361f67e0a886ed9080652e2610a6b3674a"
     },
     {
       "memberMstId": 10007104,
@@ -920,13 +977,14 @@
       "personalName": "西木野 真姫",
       "costumeName": "Dancing stars on me!",
       "modelPath": "models/10007104/scene.glb",
-      "modelSha256": "2a12ffb76db9a572ea08e066a0a6e8d821d02605dd5c039477da4841170fde05",
-      "artPath": "models/10007104/character-art.png",
+      "modelSha256": "17460c715d0dcc2bb4a2f78f14cf0ee5da11c07c52ee5add72e804e2d46390d1",
+      "artPath": "images/10007104/character-art.png",
       "artSha256": "35bd7a4b134882aecf07f0b03b17a223ac6019ff4fd31af54ea42d4608fd87a5",
-      "costumeIconPath": "costume-icons/costume-10007.png",
+      "costumeIconPath": "images/costumes/10007/costume-icon.png",
       "costumeIconSha256": "291252d5d2d9fc6d035e7dc1493af1e2169967aba6cf8bcfd6a076384c5696ed",
       "pedestalPath": "pedestals/10007/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "12b9494cd8e7c608b3d549645b0368361f67e0a886ed9080652e2610a6b3674a"
     },
     {
       "memberMstId": 10007105,
@@ -936,13 +994,14 @@
       "personalName": "星空 凛",
       "costumeName": "Dancing stars on me!",
       "modelPath": "models/10007105/scene.glb",
-      "modelSha256": "8418a276a96a1d2d1ed506ab73caf8d2c1ba5949cb078d50c081d9f9a0b1a7a6",
-      "artPath": "models/10007105/character-art.png",
+      "modelSha256": "7fb923941e33d4a867d7d4e339e68e6b9f83ca4bb7d1dbe14d3880f527752d5e",
+      "artPath": "images/10007105/character-art.png",
       "artSha256": "1f5edf4d4b2b3459bada06f08a2c00c0b67d69bd59d27b5c25fbd59f8550fa03",
-      "costumeIconPath": "costume-icons/costume-10007.png",
+      "costumeIconPath": "images/costumes/10007/costume-icon.png",
       "costumeIconSha256": "291252d5d2d9fc6d035e7dc1493af1e2169967aba6cf8bcfd6a076384c5696ed",
       "pedestalPath": "pedestals/10007/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "12b9494cd8e7c608b3d549645b0368361f67e0a886ed9080652e2610a6b3674a"
     },
     {
       "memberMstId": 10007106,
@@ -952,13 +1011,14 @@
       "personalName": "小泉 花陽",
       "costumeName": "Dancing stars on me!",
       "modelPath": "models/10007106/scene.glb",
-      "modelSha256": "2782ad0ed06b4807bbfc08dc61f3ee601807b0f83a55767e4297747f8272b199",
-      "artPath": "models/10007106/character-art.png",
+      "modelSha256": "666a2a34516df71fc98ce1c9f7ad06185de538016c56ece830f649c570005f7f",
+      "artPath": "images/10007106/character-art.png",
       "artSha256": "59678f9c5fe4261581956ad71dbae117b62626fe64f785828e9f4194ac2be479",
-      "costumeIconPath": "costume-icons/costume-10007.png",
+      "costumeIconPath": "images/costumes/10007/costume-icon.png",
       "costumeIconSha256": "291252d5d2d9fc6d035e7dc1493af1e2169967aba6cf8bcfd6a076384c5696ed",
       "pedestalPath": "pedestals/10007/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "12b9494cd8e7c608b3d549645b0368361f67e0a886ed9080652e2610a6b3674a"
     },
     {
       "memberMstId": 10007107,
@@ -968,13 +1028,14 @@
       "personalName": "矢澤 にこ",
       "costumeName": "Dancing stars on me!",
       "modelPath": "models/10007107/scene.glb",
-      "modelSha256": "799f9b305d3ac03ca00d0c5c3d25dd7f1538147becec960f58057b1b0a904de8",
-      "artPath": "models/10007107/character-art.png",
+      "modelSha256": "7ddb6c3515e7e0c044f55e2d5189c34167ff60b3f55c737f294847cfccc4928d",
+      "artPath": "images/10007107/character-art.png",
       "artSha256": "be437c699af42a4d36b3f585fbe9ccb9f7418596fa5921484767d5cf937366f1",
-      "costumeIconPath": "costume-icons/costume-10007.png",
+      "costumeIconPath": "images/costumes/10007/costume-icon.png",
       "costumeIconSha256": "291252d5d2d9fc6d035e7dc1493af1e2169967aba6cf8bcfd6a076384c5696ed",
       "pedestalPath": "pedestals/10007/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "12b9494cd8e7c608b3d549645b0368361f67e0a886ed9080652e2610a6b3674a"
     },
     {
       "memberMstId": 10007108,
@@ -984,13 +1045,14 @@
       "personalName": "東條 希",
       "costumeName": "Dancing stars on me!",
       "modelPath": "models/10007108/scene.glb",
-      "modelSha256": "7f26fd4e3a4040ad5ee7186d20dc2481022acade3d1a7d9e2c22a91bddb5cc10",
-      "artPath": "models/10007108/character-art.png",
+      "modelSha256": "4476dfcaea782a3c08b735eba0b517f811f186bc9ef12eecdd01a1c86e69f5d1",
+      "artPath": "images/10007108/character-art.png",
       "artSha256": "b921b8985de429da75321b5c47b9d125c343bd505c1a4405c326a8126b995943",
-      "costumeIconPath": "costume-icons/costume-10007.png",
+      "costumeIconPath": "images/costumes/10007/costume-icon.png",
       "costumeIconSha256": "291252d5d2d9fc6d035e7dc1493af1e2169967aba6cf8bcfd6a076384c5696ed",
       "pedestalPath": "pedestals/10007/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "12b9494cd8e7c608b3d549645b0368361f67e0a886ed9080652e2610a6b3674a"
     },
     {
       "memberMstId": 10007109,
@@ -1000,13 +1062,14 @@
       "personalName": "絢瀬 絵里",
       "costumeName": "Dancing stars on me!",
       "modelPath": "models/10007109/scene.glb",
-      "modelSha256": "c31c59382169273e3b1b243427023ebd279d9491dbbc36f5de4e08861043eaba",
-      "artPath": "models/10007109/character-art.png",
+      "modelSha256": "ae510e050808d99e448f7be7c5df23839b476ddad3198237054a52e8d5c9503e",
+      "artPath": "images/10007109/character-art.png",
       "artSha256": "b51890049bda7421225aa05ee921517268c91688088cfe91913e10f9461681d9",
-      "costumeIconPath": "costume-icons/costume-10007.png",
+      "costumeIconPath": "images/costumes/10007/costume-icon.png",
       "costumeIconSha256": "291252d5d2d9fc6d035e7dc1493af1e2169967aba6cf8bcfd6a076384c5696ed",
       "pedestalPath": "pedestals/10007/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "12b9494cd8e7c608b3d549645b0368361f67e0a886ed9080652e2610a6b3674a"
     },
     {
       "memberMstId": 10009101,
@@ -1016,13 +1079,14 @@
       "personalName": "高坂 穂乃果",
       "costumeName": "SUNNY DAY SONG",
       "modelPath": "models/10009101/scene.glb",
-      "modelSha256": "0c6dc54b178a4df39d587d935f7cb12faddced9ed04a91254720719e8ab8dab7",
-      "artPath": "models/10009101/character-art.png",
+      "modelSha256": "c574d7c344761c8b8792f96b7480f4a69184639e3c174b2023907cf2d02bd7d3",
+      "artPath": "images/10009101/character-art.png",
       "artSha256": "94b3c67481f21559888e49a9ef7fa0444bc0aeff3369150f9f0700cbea29fa7e",
-      "costumeIconPath": "costume-icons/costume-10009.png",
+      "costumeIconPath": "images/costumes/10009/costume-icon.png",
       "costumeIconSha256": "39924aeb1379ffb2316213d2378af9e080eced9da0473f3d936e9faab9b9dc2d",
       "pedestalPath": "pedestals/10009/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "623d3a9ff5954817556a1db8dd4613eb5cc7694b720dd5df5e22eabb8c6398b6"
     },
     {
       "memberMstId": 10009102,
@@ -1032,13 +1096,14 @@
       "personalName": "南 ことり",
       "costumeName": "SUNNY DAY SONG",
       "modelPath": "models/10009102/scene.glb",
-      "modelSha256": "439c6eff013f8178e789d2737fbd7f4a8ec7fe04c8f34e89b0b7945dba565ce6",
-      "artPath": "models/10009102/character-art.png",
+      "modelSha256": "208ee328f2d4ef5058f58d61b4940d4d6dfedb85a9a4a53eecc763a8ee63cf44",
+      "artPath": "images/10009102/character-art.png",
       "artSha256": "4cce07552a8b2e9b95da16f8b1e2aed8f8dfc76405e6f29ea3f0d74c250e5a69",
-      "costumeIconPath": "costume-icons/costume-10009.png",
+      "costumeIconPath": "images/costumes/10009/costume-icon.png",
       "costumeIconSha256": "39924aeb1379ffb2316213d2378af9e080eced9da0473f3d936e9faab9b9dc2d",
       "pedestalPath": "pedestals/10009/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "623d3a9ff5954817556a1db8dd4613eb5cc7694b720dd5df5e22eabb8c6398b6"
     },
     {
       "memberMstId": 10009103,
@@ -1048,13 +1113,14 @@
       "personalName": "園田 海未",
       "costumeName": "SUNNY DAY SONG",
       "modelPath": "models/10009103/scene.glb",
-      "modelSha256": "4170eeb3a5800b3c2ff7a8a6d8ddecc9027baca770e9dafe2b68d693f5087e64",
-      "artPath": "models/10009103/character-art.png",
+      "modelSha256": "873cbfa19770ef8e10ec778929269a9db647928152ace274e4e508edfef12dd8",
+      "artPath": "images/10009103/character-art.png",
       "artSha256": "888b44049ccc5edd41ef2b597be3965cb1cce403358eca69d9e3042ae22d2209",
-      "costumeIconPath": "costume-icons/costume-10009.png",
+      "costumeIconPath": "images/costumes/10009/costume-icon.png",
       "costumeIconSha256": "39924aeb1379ffb2316213d2378af9e080eced9da0473f3d936e9faab9b9dc2d",
       "pedestalPath": "pedestals/10009/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "623d3a9ff5954817556a1db8dd4613eb5cc7694b720dd5df5e22eabb8c6398b6"
     },
     {
       "memberMstId": 10009104,
@@ -1064,13 +1130,14 @@
       "personalName": "西木野 真姫",
       "costumeName": "SUNNY DAY SONG",
       "modelPath": "models/10009104/scene.glb",
-      "modelSha256": "c8634a508e689ebb0e6b90b12d8e9cda5a1eac9aa9815a4738dd203bf0011fbd",
-      "artPath": "models/10009104/character-art.png",
+      "modelSha256": "7b9e7923f5ec582dd615c8b58f8f7c4887eef25a5a32302a44a9ea7fedc4a7f6",
+      "artPath": "images/10009104/character-art.png",
       "artSha256": "a40471c8bfc8fb702eb3c64a15ec1f72a0e758be5375e8baeb8b44556a7b9483",
-      "costumeIconPath": "costume-icons/costume-10009.png",
+      "costumeIconPath": "images/costumes/10009/costume-icon.png",
       "costumeIconSha256": "39924aeb1379ffb2316213d2378af9e080eced9da0473f3d936e9faab9b9dc2d",
       "pedestalPath": "pedestals/10009/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "623d3a9ff5954817556a1db8dd4613eb5cc7694b720dd5df5e22eabb8c6398b6"
     },
     {
       "memberMstId": 10009105,
@@ -1080,13 +1147,14 @@
       "personalName": "星空 凛",
       "costumeName": "SUNNY DAY SONG",
       "modelPath": "models/10009105/scene.glb",
-      "modelSha256": "a590b78d8421e13fe7b4fe01b7671e253c828be9d03fae5dd212cc4a1853cc63",
-      "artPath": "models/10009105/character-art.png",
+      "modelSha256": "770783b57b4927b43b6dea4b798a4c676d06d50c30a5ec4fb6accf586e0fdfd8",
+      "artPath": "images/10009105/character-art.png",
       "artSha256": "3da745a593bff14dc6b0ce7116341ff32def15034833dd10d4d7d6de1d997cab",
-      "costumeIconPath": "costume-icons/costume-10009.png",
+      "costumeIconPath": "images/costumes/10009/costume-icon.png",
       "costumeIconSha256": "39924aeb1379ffb2316213d2378af9e080eced9da0473f3d936e9faab9b9dc2d",
       "pedestalPath": "pedestals/10009/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "623d3a9ff5954817556a1db8dd4613eb5cc7694b720dd5df5e22eabb8c6398b6"
     },
     {
       "memberMstId": 10009106,
@@ -1096,13 +1164,14 @@
       "personalName": "小泉 花陽",
       "costumeName": "SUNNY DAY SONG",
       "modelPath": "models/10009106/scene.glb",
-      "modelSha256": "b8f90d9feff94d342d17e40a17047c82b7c02b69a51d56e0449de41a11960a60",
-      "artPath": "models/10009106/character-art.png",
+      "modelSha256": "9405635b22b5e51d086f04935d834efa9d5cc6ab82364528c73431a82570d11e",
+      "artPath": "images/10009106/character-art.png",
       "artSha256": "e1e1565e45e56be7057bce2a618c3dcae926c19b44a5ae49aee5a24f8dfc9d3b",
-      "costumeIconPath": "costume-icons/costume-10009.png",
+      "costumeIconPath": "images/costumes/10009/costume-icon.png",
       "costumeIconSha256": "39924aeb1379ffb2316213d2378af9e080eced9da0473f3d936e9faab9b9dc2d",
       "pedestalPath": "pedestals/10009/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "623d3a9ff5954817556a1db8dd4613eb5cc7694b720dd5df5e22eabb8c6398b6"
     },
     {
       "memberMstId": 10009107,
@@ -1112,13 +1181,14 @@
       "personalName": "矢澤 にこ",
       "costumeName": "SUNNY DAY SONG",
       "modelPath": "models/10009107/scene.glb",
-      "modelSha256": "a52c81530a7672a7918e3791e576823c8b9bdbaff74fb3554325e5b5495ba75f",
-      "artPath": "models/10009107/character-art.png",
+      "modelSha256": "27994871dafb8822537a4c4514596fed53829afe27d5d071c2067245f4b78b4a",
+      "artPath": "images/10009107/character-art.png",
       "artSha256": "9938adfe16fa2df7d017483d1636ed3b774edd2005c51d20584e224afd516663",
-      "costumeIconPath": "costume-icons/costume-10009.png",
+      "costumeIconPath": "images/costumes/10009/costume-icon.png",
       "costumeIconSha256": "39924aeb1379ffb2316213d2378af9e080eced9da0473f3d936e9faab9b9dc2d",
       "pedestalPath": "pedestals/10009/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "623d3a9ff5954817556a1db8dd4613eb5cc7694b720dd5df5e22eabb8c6398b6"
     },
     {
       "memberMstId": 10009108,
@@ -1128,13 +1198,14 @@
       "personalName": "東條 希",
       "costumeName": "SUNNY DAY SONG",
       "modelPath": "models/10009108/scene.glb",
-      "modelSha256": "20e8a9db49e3388d4a84d2b8be011d06a1862dc7e351f2b752ee73402ca644b9",
-      "artPath": "models/10009108/character-art.png",
+      "modelSha256": "cf67af3ece5c7fea73dff7a9c3afea82b191469614cf8a2dc27b55720a664d01",
+      "artPath": "images/10009108/character-art.png",
       "artSha256": "fb0c7846e48dff0417d9f261b43fc7e5077608fa39941a7d4af07f7464d8df51",
-      "costumeIconPath": "costume-icons/costume-10009.png",
+      "costumeIconPath": "images/costumes/10009/costume-icon.png",
       "costumeIconSha256": "39924aeb1379ffb2316213d2378af9e080eced9da0473f3d936e9faab9b9dc2d",
       "pedestalPath": "pedestals/10009/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "623d3a9ff5954817556a1db8dd4613eb5cc7694b720dd5df5e22eabb8c6398b6"
     },
     {
       "memberMstId": 10009109,
@@ -1144,13 +1215,14 @@
       "personalName": "絢瀬 絵里",
       "costumeName": "SUNNY DAY SONG",
       "modelPath": "models/10009109/scene.glb",
-      "modelSha256": "b2734a33e21c77ac030290a4fbaa0f4b01f445b5b68a5559e3b3948450e2ae6c",
-      "artPath": "models/10009109/character-art.png",
+      "modelSha256": "7845a3235dce189cd91c736875ff6e709a98ade0e410701619f64a426fa37127",
+      "artPath": "images/10009109/character-art.png",
       "artSha256": "539d944124ea16f04d1e31844a701cefd3edca0dc83a5116118e474a42cc073e",
-      "costumeIconPath": "costume-icons/costume-10009.png",
+      "costumeIconPath": "images/costumes/10009/costume-icon.png",
       "costumeIconSha256": "39924aeb1379ffb2316213d2378af9e080eced9da0473f3d936e9faab9b9dc2d",
       "pedestalPath": "pedestals/10009/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "623d3a9ff5954817556a1db8dd4613eb5cc7694b720dd5df5e22eabb8c6398b6"
     },
     {
       "memberMstId": 11003101,
@@ -1160,13 +1232,14 @@
       "personalName": "高坂 穂乃果",
       "costumeName": "うきうきピクニック",
       "modelPath": "models/11003101/scene.glb",
-      "modelSha256": "7cb6d4acc76f5d208e9c0366c9d1dc29299a65d916533a8da4bac138702fef08",
-      "artPath": "models/11003101/character-art.png",
+      "modelSha256": "b10db2bf3cae0a81b733ee25a9f8d50415f721289890eec7f3b0180e5ec91abc",
+      "artPath": "images/11003101/character-art.png",
       "artSha256": "5811e10e2e25ffd5809cbc62960df4d8762731f98ec8cd06dfe4d9e865d3090e",
-      "costumeIconPath": "costume-icons/costume-11003.png",
+      "costumeIconPath": "images/costumes/11003/costume-icon.png",
       "costumeIconSha256": "3c66147650490b25e9800225cf99bc02960c92766aa7d78bac37b89bdf725a8e",
       "pedestalPath": "pedestals/11003/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "d30270ee3c155e7310fb8771a4e4dbc62ad6c375693087842a4f1fab7d534aea"
     },
     {
       "memberMstId": 11003102,
@@ -1176,13 +1249,14 @@
       "personalName": "南 ことり",
       "costumeName": "うきうきピクニック",
       "modelPath": "models/11003102/scene.glb",
-      "modelSha256": "1c51c04c3ffe8b97aaa3f38b823c70ac402c98fe8bb49734575ede81f6c310f1",
-      "artPath": "models/11003102/character-art.png",
+      "modelSha256": "19da0410020b90b28e2a76c5959db4f60a85e0837f963a80c211b6d781036266",
+      "artPath": "images/11003102/character-art.png",
       "artSha256": "8c76afbe23dc7245bab008dbba899b67562e47d22e3729fdd0f2c079dddc0ce8",
-      "costumeIconPath": "costume-icons/costume-11003.png",
+      "costumeIconPath": "images/costumes/11003/costume-icon.png",
       "costumeIconSha256": "3c66147650490b25e9800225cf99bc02960c92766aa7d78bac37b89bdf725a8e",
       "pedestalPath": "pedestals/11003/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "d30270ee3c155e7310fb8771a4e4dbc62ad6c375693087842a4f1fab7d534aea"
     },
     {
       "memberMstId": 11003103,
@@ -1192,13 +1266,14 @@
       "personalName": "園田 海未",
       "costumeName": "うきうきピクニック",
       "modelPath": "models/11003103/scene.glb",
-      "modelSha256": "6eb1986f3a8f01b752ae80ac21e6220d2c28393bb075d51f6e81603c4b00ffbb",
-      "artPath": "models/11003103/character-art.png",
+      "modelSha256": "68683cb84692dd2c7baceab3c70568cbe518df4d82a3878e1b52096cbf4e47df",
+      "artPath": "images/11003103/character-art.png",
       "artSha256": "a43546c2a438dce6d209de71332b07e02a0ba252442a0bee7930a4625477e29d",
-      "costumeIconPath": "costume-icons/costume-11003.png",
+      "costumeIconPath": "images/costumes/11003/costume-icon.png",
       "costumeIconSha256": "3c66147650490b25e9800225cf99bc02960c92766aa7d78bac37b89bdf725a8e",
       "pedestalPath": "pedestals/11003/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "d30270ee3c155e7310fb8771a4e4dbc62ad6c375693087842a4f1fab7d534aea"
     },
     {
       "memberMstId": 11004104,
@@ -1208,13 +1283,14 @@
       "personalName": "西木野 真姫",
       "costumeName": "まきりんぱな海賊団",
       "modelPath": "models/11004104/scene.glb",
-      "modelSha256": "62214ba6d17b765e94ab35d7ac501301fff1658a71e99a42f6823b23df121fa6",
-      "artPath": "models/11004104/character-art.png",
+      "modelSha256": "80113c05a53cef20239b7bb8a2722b7214dbdd8d1825a48d707e3189365b11d1",
+      "artPath": "images/11004104/character-art.png",
       "artSha256": "a7e55e84f97493bdeaa1c3e75267453769081747d398fb83f852c5fb130d0139",
-      "costumeIconPath": "costume-icons/costume-11004.png",
+      "costumeIconPath": "images/costumes/11004/costume-icon.png",
       "costumeIconSha256": "f149f7e553c83e58bb3f584e0996535d3fd0344891797d428c4fe31fcd01d41a",
       "pedestalPath": "pedestals/11004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "52942637ae5a05e323d2fc087cb0be38a389d9f3edecb3ee6332a2b9c4b2dc5f"
     },
     {
       "memberMstId": 11004105,
@@ -1224,13 +1300,14 @@
       "personalName": "星空 凛",
       "costumeName": "まきりんぱな海賊団",
       "modelPath": "models/11004105/scene.glb",
-      "modelSha256": "e199a5f6f0fdf7ab3b4639b701008d2d9b2be55654581c669d6233302e58a144",
-      "artPath": "models/11004105/character-art.png",
+      "modelSha256": "94537497f5361667e43684eb76bbbb9e659ff97d10a210864ab4f7f1a73ea0f5",
+      "artPath": "images/11004105/character-art.png",
       "artSha256": "00c3f3048f0afda3f35820d729a14d84c6fd0dc771472f023e62f048ec86642a",
-      "costumeIconPath": "costume-icons/costume-11004.png",
+      "costumeIconPath": "images/costumes/11004/costume-icon.png",
       "costumeIconSha256": "f149f7e553c83e58bb3f584e0996535d3fd0344891797d428c4fe31fcd01d41a",
       "pedestalPath": "pedestals/11004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "52942637ae5a05e323d2fc087cb0be38a389d9f3edecb3ee6332a2b9c4b2dc5f"
     },
     {
       "memberMstId": 11004106,
@@ -1240,13 +1317,14 @@
       "personalName": "小泉 花陽",
       "costumeName": "まきりんぱな海賊団",
       "modelPath": "models/11004106/scene.glb",
-      "modelSha256": "0cc4842fbbd633e7721086cabea44a6802a34385e8e6fddeb0fdc2f97464dec5",
-      "artPath": "models/11004106/character-art.png",
+      "modelSha256": "394cbb5f270aab406d5bf1b65295db3f6b8b05aec8d5097f62b346a947a31b51",
+      "artPath": "images/11004106/character-art.png",
       "artSha256": "1218f670aec315b2cbda0fe87c01073f75360c8d84044050c320bae013379b03",
-      "costumeIconPath": "costume-icons/costume-11004.png",
+      "costumeIconPath": "images/costumes/11004/costume-icon.png",
       "costumeIconSha256": "f149f7e553c83e58bb3f584e0996535d3fd0344891797d428c4fe31fcd01d41a",
       "pedestalPath": "pedestals/11004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "52942637ae5a05e323d2fc087cb0be38a389d9f3edecb3ee6332a2b9c4b2dc5f"
     },
     {
       "memberMstId": 11005101,
@@ -1256,13 +1334,14 @@
       "personalName": "高坂 穂乃果",
       "costumeName": "サンリオキャラコラボ",
       "modelPath": "models/11005101/scene.glb",
-      "modelSha256": "90e74373b3a6789de3eb9319df40c94f497ea5f5c5b95a4f5ba3fe3d34189cf3",
-      "artPath": "models/11005101/character-art.png",
+      "modelSha256": "a9a16c2db336fe73b92a070a8236fea42489ec277ce4880429809ab22f6fbf03",
+      "artPath": "images/11005101/character-art.png",
       "artSha256": "5b3f8ef8b9358931552a653d259122ed288cdee45c419ba0c1ee4f5646466c83",
-      "costumeIconPath": "costume-icons/costume-11005.png",
+      "costumeIconPath": "images/costumes/11005/costume-icon.png",
       "costumeIconSha256": "4f77836c908b5e3629cf1d85577fe5df80952bd5fbbeb0d9f35bbb714210cb4a",
       "pedestalPath": "pedestals/11005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "1e01691bfa5d0166f19c1993b84e745f56bf9936bbc42bec43856e1b3445ed93"
     },
     {
       "memberMstId": 11005102,
@@ -1272,13 +1351,14 @@
       "personalName": "南 ことり",
       "costumeName": "サンリオキャラコラボ",
       "modelPath": "models/11005102/scene.glb",
-      "modelSha256": "f470b5d85f0e22a736eecf8ebda0d7100fcf54ef2cd4a3930fb39ea9736de90f",
-      "artPath": "models/11005102/character-art.png",
+      "modelSha256": "77e66e38c688825e74c06e6526f87b9c56aa8aec455c1ab5d3ff6500a04c78b3",
+      "artPath": "images/11005102/character-art.png",
       "artSha256": "62784bf40e34422fab8faec1ba08c6256420277fb50e320f1205371a01d78f2e",
-      "costumeIconPath": "costume-icons/costume-11005.png",
+      "costumeIconPath": "images/costumes/11005/costume-icon.png",
       "costumeIconSha256": "4f77836c908b5e3629cf1d85577fe5df80952bd5fbbeb0d9f35bbb714210cb4a",
       "pedestalPath": "pedestals/11005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "1e01691bfa5d0166f19c1993b84e745f56bf9936bbc42bec43856e1b3445ed93"
     },
     {
       "memberMstId": 11005103,
@@ -1288,13 +1368,14 @@
       "personalName": "園田 海未",
       "costumeName": "サンリオキャラコラボ",
       "modelPath": "models/11005103/scene.glb",
-      "modelSha256": "17980c672b764b77aabaedc12cb5a9db186e20b1e8bde13920cbb731d29870f1",
-      "artPath": "models/11005103/character-art.png",
+      "modelSha256": "0b5c7d9dd4d02285278c6d95badff0f1637d9b2df843965fd53eeb71e104a38d",
+      "artPath": "images/11005103/character-art.png",
       "artSha256": "ab550d90ea0fb99213885b28efe6bc100901e2ae9ad8818b0df9f3c327e64c87",
-      "costumeIconPath": "costume-icons/costume-11005.png",
+      "costumeIconPath": "images/costumes/11005/costume-icon.png",
       "costumeIconSha256": "4f77836c908b5e3629cf1d85577fe5df80952bd5fbbeb0d9f35bbb714210cb4a",
       "pedestalPath": "pedestals/11005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "1e01691bfa5d0166f19c1993b84e745f56bf9936bbc42bec43856e1b3445ed93"
     },
     {
       "memberMstId": 11005104,
@@ -1304,13 +1385,14 @@
       "personalName": "西木野 真姫",
       "costumeName": "サンリオキャラコラボ",
       "modelPath": "models/11005104/scene.glb",
-      "modelSha256": "0ca8070bb4e244991faee8c0f259baf4d3dc3c9ece6bd439e892cf10aa94d274",
-      "artPath": "models/11005104/character-art.png",
+      "modelSha256": "43e9d58c3d3c65063c3e004982488719c09062157ec7cf838c7bd6112357b3c6",
+      "artPath": "images/11005104/character-art.png",
       "artSha256": "b32b6ba9644a3d9b9b4917b113db05869b78aad435595d21ac2b4db368a4e2fa",
-      "costumeIconPath": "costume-icons/costume-11005.png",
+      "costumeIconPath": "images/costumes/11005/costume-icon.png",
       "costumeIconSha256": "4f77836c908b5e3629cf1d85577fe5df80952bd5fbbeb0d9f35bbb714210cb4a",
       "pedestalPath": "pedestals/11005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "1e01691bfa5d0166f19c1993b84e745f56bf9936bbc42bec43856e1b3445ed93"
     },
     {
       "memberMstId": 11005105,
@@ -1320,13 +1402,14 @@
       "personalName": "星空 凛",
       "costumeName": "サンリオキャラコラボ",
       "modelPath": "models/11005105/scene.glb",
-      "modelSha256": "8167f0064afa4359fcb9160edd3d5dff4cbd498597dfffa1992c76c04de796a0",
-      "artPath": "models/11005105/character-art.png",
+      "modelSha256": "75f7f04ce7715316436c95e2ba09ad053fcdc425526cf1d676061d5078ee4972",
+      "artPath": "images/11005105/character-art.png",
       "artSha256": "f0f6af0429b8604392162df79f4efc6af75fea67e1b11d37c0d9b8da809d85c9",
-      "costumeIconPath": "costume-icons/costume-11005.png",
+      "costumeIconPath": "images/costumes/11005/costume-icon.png",
       "costumeIconSha256": "4f77836c908b5e3629cf1d85577fe5df80952bd5fbbeb0d9f35bbb714210cb4a",
       "pedestalPath": "pedestals/11005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "1e01691bfa5d0166f19c1993b84e745f56bf9936bbc42bec43856e1b3445ed93"
     },
     {
       "memberMstId": 11005106,
@@ -1336,13 +1419,14 @@
       "personalName": "小泉 花陽",
       "costumeName": "サンリオキャラコラボ",
       "modelPath": "models/11005106/scene.glb",
-      "modelSha256": "8f0123a5b5213e76048ba7f805595549be34f46aa7ce2b8c1b170e463571af64",
-      "artPath": "models/11005106/character-art.png",
+      "modelSha256": "0018e14e9ba652d8d4f48071eaee7102cc72c14b28e20c1c4d40dab06112819a",
+      "artPath": "images/11005106/character-art.png",
       "artSha256": "914c274bd06607a0654fb353d5721607566364f60268173a4bbced69b279e183",
-      "costumeIconPath": "costume-icons/costume-11005.png",
+      "costumeIconPath": "images/costumes/11005/costume-icon.png",
       "costumeIconSha256": "4f77836c908b5e3629cf1d85577fe5df80952bd5fbbeb0d9f35bbb714210cb4a",
       "pedestalPath": "pedestals/11005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "1e01691bfa5d0166f19c1993b84e745f56bf9936bbc42bec43856e1b3445ed93"
     },
     {
       "memberMstId": 11005107,
@@ -1352,13 +1436,14 @@
       "personalName": "矢澤 にこ",
       "costumeName": "サンリオキャラコラボ",
       "modelPath": "models/11005107/scene.glb",
-      "modelSha256": "7efbec13f04d062e12a45d96faca27002083fdcd1db1b5e6baa1d39850ce5935",
-      "artPath": "models/11005107/character-art.png",
+      "modelSha256": "540aa8ec351867c043f8c7ce6495bb8962fe57829e6a2433ecc574b6fbd4ed3c",
+      "artPath": "images/11005107/character-art.png",
       "artSha256": "a373cf1d7318bdbb54ea01caec7dcc6c365176445bf0060f2346d64180ac0651",
-      "costumeIconPath": "costume-icons/costume-11005.png",
+      "costumeIconPath": "images/costumes/11005/costume-icon.png",
       "costumeIconSha256": "4f77836c908b5e3629cf1d85577fe5df80952bd5fbbeb0d9f35bbb714210cb4a",
       "pedestalPath": "pedestals/11005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "1e01691bfa5d0166f19c1993b84e745f56bf9936bbc42bec43856e1b3445ed93"
     },
     {
       "memberMstId": 11005108,
@@ -1368,13 +1453,14 @@
       "personalName": "東條 希",
       "costumeName": "サンリオキャラコラボ",
       "modelPath": "models/11005108/scene.glb",
-      "modelSha256": "de2a7bda9ca2b00b819de8468b65db9a64f599511f72caeb3ce50fa2e2b2f24f",
-      "artPath": "models/11005108/character-art.png",
+      "modelSha256": "d2b3f84208cf6c30f4900a1afe8b8e06e654c61fa99d3a7ea2eec1c1842f1410",
+      "artPath": "images/11005108/character-art.png",
       "artSha256": "324f84f354d876b99d6f7ba64a26598d34c310a5e6ec43fac8e9a76fcc3ca693",
-      "costumeIconPath": "costume-icons/costume-11005.png",
+      "costumeIconPath": "images/costumes/11005/costume-icon.png",
       "costumeIconSha256": "4f77836c908b5e3629cf1d85577fe5df80952bd5fbbeb0d9f35bbb714210cb4a",
       "pedestalPath": "pedestals/11005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "1e01691bfa5d0166f19c1993b84e745f56bf9936bbc42bec43856e1b3445ed93"
     },
     {
       "memberMstId": 11005109,
@@ -1384,13 +1470,14 @@
       "personalName": "絢瀬 絵里",
       "costumeName": "サンリオキャラコラボ",
       "modelPath": "models/11005109/scene.glb",
-      "modelSha256": "cd29af1dc20c5fd6a29d24be5a1a6ec893d58c4776c560c9bc8faa766ac256ae",
-      "artPath": "models/11005109/character-art.png",
+      "modelSha256": "a87775b836ec69a313b8f917170cdce0f5f2103173998d890215ef497d145911",
+      "artPath": "images/11005109/character-art.png",
       "artSha256": "835b5bd949fa2239d2100a5b07aa539927ef96075ff818d1a04e20eb0bc5c834",
-      "costumeIconPath": "costume-icons/costume-11005.png",
+      "costumeIconPath": "images/costumes/11005/costume-icon.png",
       "costumeIconSha256": "4f77836c908b5e3629cf1d85577fe5df80952bd5fbbeb0d9f35bbb714210cb4a",
       "pedestalPath": "pedestals/11005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "1e01691bfa5d0166f19c1993b84e745f56bf9936bbc42bec43856e1b3445ed93"
     },
     {
       "memberMstId": 11006107,
@@ -1400,13 +1487,14 @@
       "personalName": "矢澤 にこ",
       "costumeName": "秋空アクティビティ",
       "modelPath": "models/11006107/scene.glb",
-      "modelSha256": "e8ebef68dcd44fd5ac4962cd2adf9ab71b48157addb4295b119ccd17e9a8fa00",
-      "artPath": "models/11006107/character-art.png",
+      "modelSha256": "1a90cf3901acbd1d585bff44a649c6c47524ada462656f5643c86e89f9bfd8f4",
+      "artPath": "images/11006107/character-art.png",
       "artSha256": "96ac325ac8ef2c75fe77f9df3c6dfb3d20be3473b86ce153ec6584135abb76fa",
-      "costumeIconPath": "costume-icons/costume-11006.png",
+      "costumeIconPath": "images/costumes/11006/costume-icon.png",
       "costumeIconSha256": "0430e242e713ed4addb32e71edaadf60e414625744c9eccbe40dea9b987ad8b2",
       "pedestalPath": "pedestals/11006/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "84a8ed8fd4fccae50a550cfa00ef489dcd634fb2b46682c7df9438f1e5bb3bca"
     },
     {
       "memberMstId": 11006108,
@@ -1416,13 +1504,14 @@
       "personalName": "東條 希",
       "costumeName": "秋空アクティビティ",
       "modelPath": "models/11006108/scene.glb",
-      "modelSha256": "82e2b4a238bd62ffd53e890c6aafbed7e8f607358aaf414bd83c25b04f56c5e7",
-      "artPath": "models/11006108/character-art.png",
+      "modelSha256": "e6ab5db77c4143669d95401822c46f910402d44dc89ee763cbde33ef05e2b484",
+      "artPath": "images/11006108/character-art.png",
       "artSha256": "d07270d244946e1aaf6588b6a1a3e32868240123556a0879aaa664472e27c8c6",
-      "costumeIconPath": "costume-icons/costume-11006.png",
+      "costumeIconPath": "images/costumes/11006/costume-icon.png",
       "costumeIconSha256": "0430e242e713ed4addb32e71edaadf60e414625744c9eccbe40dea9b987ad8b2",
       "pedestalPath": "pedestals/11006/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "84a8ed8fd4fccae50a550cfa00ef489dcd634fb2b46682c7df9438f1e5bb3bca"
     },
     {
       "memberMstId": 11006109,
@@ -1432,13 +1521,14 @@
       "personalName": "絢瀬 絵里",
       "costumeName": "秋空アクティビティ",
       "modelPath": "models/11006109/scene.glb",
-      "modelSha256": "057d3db2875ca6ed363e3fd35a4ec760a5453e826ccc2a08c06e8a89015a5c60",
-      "artPath": "models/11006109/character-art.png",
+      "modelSha256": "e2eb588a5d212e22d0afabcb9cfb3f5a11f9c3790f5ff5d8bc46525de9654619",
+      "artPath": "images/11006109/character-art.png",
       "artSha256": "017ced23e14faa96f50df3eecfb13aec567ec53d2c0dec78b24cc4f2e3fd1baf",
-      "costumeIconPath": "costume-icons/costume-11006.png",
+      "costumeIconPath": "images/costumes/11006/costume-icon.png",
       "costumeIconSha256": "0430e242e713ed4addb32e71edaadf60e414625744c9eccbe40dea9b987ad8b2",
       "pedestalPath": "pedestals/11006/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "84a8ed8fd4fccae50a550cfa00ef489dcd634fb2b46682c7df9438f1e5bb3bca"
     },
     {
       "memberMstId": 11007104,
@@ -1448,13 +1538,14 @@
       "personalName": "西木野 真姫",
       "costumeName": "スパークリングプリンセス",
       "modelPath": "models/11007104/scene.glb",
-      "modelSha256": "643a487b264953d791e340cafe5a17572a86aa5bdda0f81f59eebc445553a877",
-      "artPath": "models/11007104/character-art.png",
+      "modelSha256": "63e04235440de9d79c607ba3aff37da052f9c512c3876997ed11dcf2ada69534",
+      "artPath": "images/11007104/character-art.png",
       "artSha256": "e6382058e21bd85b284731415141da8c7985bd1730f6fb5fb4adc4b61703217f",
-      "costumeIconPath": "costume-icons/costume-11007.png",
+      "costumeIconPath": "images/costumes/11007/costume-icon.png",
       "costumeIconSha256": "c16d5045e73bfc50dc1b28573888e48ef4c189f4e3ccd8a2468df8782bc1aa16",
       "pedestalPath": "pedestals/11007/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "690a60f371eb08df0bb2528f585ae18f91db0af746ca48eb341b5566c485ca07"
     },
     {
       "memberMstId": 11007107,
@@ -1464,13 +1555,14 @@
       "personalName": "矢澤 にこ",
       "costumeName": "スパークリングプリンセス",
       "modelPath": "models/11007107/scene.glb",
-      "modelSha256": "2b940867dec3fb82b2e8512336a367eb2acbc02836bebc77f19081d109c7050b",
-      "artPath": "models/11007107/character-art.png",
+      "modelSha256": "006c831ab72356088410cac0ee84d8b69b1d1639f4109c90d35813361880b68e",
+      "artPath": "images/11007107/character-art.png",
       "artSha256": "95f218f2d658e7294d55f061461025da23acea5d3359634a383f4a9cd68d8b83",
-      "costumeIconPath": "costume-icons/costume-11007.png",
+      "costumeIconPath": "images/costumes/11007/costume-icon.png",
       "costumeIconSha256": "c16d5045e73bfc50dc1b28573888e48ef4c189f4e3ccd8a2468df8782bc1aa16",
       "pedestalPath": "pedestals/11007/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "690a60f371eb08df0bb2528f585ae18f91db0af746ca48eb341b5566c485ca07"
     },
     {
       "memberMstId": 11007109,
@@ -1480,13 +1572,14 @@
       "personalName": "絢瀬 絵里",
       "costumeName": "スパークリングプリンセス",
       "modelPath": "models/11007109/scene.glb",
-      "modelSha256": "a963454ebccb6dbeaeb0f0552475bdf5b1eba252489c97b63b8fadca823e1253",
-      "artPath": "models/11007109/character-art.png",
+      "modelSha256": "410f3d18eb0312b97c76288c4d1002a51a2ea007c475d98ee06d25a650f01978",
+      "artPath": "images/11007109/character-art.png",
       "artSha256": "d9ea5425252796ef526c686f8aa176f87be7f80ec8b881770f1aa0fb701bc111",
-      "costumeIconPath": "costume-icons/costume-11007.png",
+      "costumeIconPath": "images/costumes/11007/costume-icon.png",
       "costumeIconSha256": "c16d5045e73bfc50dc1b28573888e48ef4c189f4e3ccd8a2468df8782bc1aa16",
       "pedestalPath": "pedestals/11007/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "690a60f371eb08df0bb2528f585ae18f91db0af746ca48eb341b5566c485ca07"
     },
     {
       "memberMstId": 20001201,
@@ -1496,13 +1589,14 @@
       "personalName": "高海 千歌",
       "costumeName": "浦の星女学院 冬制服",
       "modelPath": "models/20001201/scene.glb",
-      "modelSha256": "75c33057c92a46901f27009cbe920a10c68d67506b05228113da9ffb68fb1382",
-      "artPath": "models/20001201/character-art.png",
+      "modelSha256": "326d6c74b7517087696e6aec692c5c87c8aee3fb800c8766f5e3578207119471",
+      "artPath": "images/20001201/character-art.png",
       "artSha256": "992a88643b4989c55651793c65f43b7dcee114d0f9ee936e5ad50bedf07050a5",
-      "costumeIconPath": "costume-icons/costume-20001.png",
+      "costumeIconPath": "images/costumes/20001/costume-icon.png",
       "costumeIconSha256": "f902ae97d07f704a7c34b34f4e994357581a74e128cdc2db52b94dba4d08d85f",
       "pedestalPath": "pedestals/20001/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "f8205804e1e551e1540aa06c0624f2ebc7aff50709a15cdfdee0c1aec009faff"
     },
     {
       "memberMstId": 20001202,
@@ -1512,13 +1606,14 @@
       "personalName": "渡辺 曜",
       "costumeName": "浦の星女学院 冬制服",
       "modelPath": "models/20001202/scene.glb",
-      "modelSha256": "e187bbd98eade4b1484729b7eb06093623bf1338c79672cb31d15db7a771b0f3",
-      "artPath": "models/20001202/character-art.png",
+      "modelSha256": "e88198610365d8f2a5cfde2d49ccbb32a2cb0db3d7627e28ac17aa171bb85600",
+      "artPath": "images/20001202/character-art.png",
       "artSha256": "5bb8afc7cb5f8d3030d82677f1be46883d215daa91b05d81f869d7d9f4576f5d",
-      "costumeIconPath": "costume-icons/costume-20001.png",
+      "costumeIconPath": "images/costumes/20001/costume-icon.png",
       "costumeIconSha256": "f902ae97d07f704a7c34b34f4e994357581a74e128cdc2db52b94dba4d08d85f",
       "pedestalPath": "pedestals/20001/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "f8205804e1e551e1540aa06c0624f2ebc7aff50709a15cdfdee0c1aec009faff"
     },
     {
       "memberMstId": 20001203,
@@ -1528,13 +1623,14 @@
       "personalName": "桜内 梨子",
       "costumeName": "浦の星女学院 冬制服",
       "modelPath": "models/20001203/scene.glb",
-      "modelSha256": "25abb7c42c3944d6b35126fca4a900f0b5ee5af0cf5eaaa5392fa5004d5c40a8",
-      "artPath": "models/20001203/character-art.png",
+      "modelSha256": "7327793e405b26175f394bc81c015bde69add7bca7611e96d07954a04c7545d6",
+      "artPath": "images/20001203/character-art.png",
       "artSha256": "6bd3c95f054964afad06ac221485309830c5f4dcf55c5131969ff1e79ad85889",
-      "costumeIconPath": "costume-icons/costume-20001.png",
+      "costumeIconPath": "images/costumes/20001/costume-icon.png",
       "costumeIconSha256": "f902ae97d07f704a7c34b34f4e994357581a74e128cdc2db52b94dba4d08d85f",
       "pedestalPath": "pedestals/20001/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "f8205804e1e551e1540aa06c0624f2ebc7aff50709a15cdfdee0c1aec009faff"
     },
     {
       "memberMstId": 20001204,
@@ -1544,13 +1640,14 @@
       "personalName": "国木田 花丸",
       "costumeName": "浦の星女学院 冬制服",
       "modelPath": "models/20001204/scene.glb",
-      "modelSha256": "530b9d5f90c341b1566cadf4624b6ea870b8c7a48e6635a506fdc2f6c0157d3d",
-      "artPath": "models/20001204/character-art.png",
+      "modelSha256": "885b550ad6444290bbebb6c8a44bd4021e372ce51f8a45978687ddddb5e720ce",
+      "artPath": "images/20001204/character-art.png",
       "artSha256": "86fce9570df4fba9dffe1cffd750506f472304e59742a3deff8e2daecf201094",
-      "costumeIconPath": "costume-icons/costume-20001.png",
+      "costumeIconPath": "images/costumes/20001/costume-icon.png",
       "costumeIconSha256": "f902ae97d07f704a7c34b34f4e994357581a74e128cdc2db52b94dba4d08d85f",
       "pedestalPath": "pedestals/20001/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "f8205804e1e551e1540aa06c0624f2ebc7aff50709a15cdfdee0c1aec009faff"
     },
     {
       "memberMstId": 20001205,
@@ -1560,13 +1657,14 @@
       "personalName": "黒澤 ルビィ",
       "costumeName": "浦の星女学院 冬制服",
       "modelPath": "models/20001205/scene.glb",
-      "modelSha256": "7b24737f5d952b56bfc8028a8bd558a3e23fe52aa6277e2b303c5fbae785656e",
-      "artPath": "models/20001205/character-art.png",
+      "modelSha256": "77ef331b95e00de0e5b62ba80185577a8ca72886f5e501fb7fda534e8b620e60",
+      "artPath": "images/20001205/character-art.png",
       "artSha256": "f79e54a10206d043c8ada33b02202f8f83ca71edd925b67c886b63bea9b7f19e",
-      "costumeIconPath": "costume-icons/costume-20001.png",
+      "costumeIconPath": "images/costumes/20001/costume-icon.png",
       "costumeIconSha256": "f902ae97d07f704a7c34b34f4e994357581a74e128cdc2db52b94dba4d08d85f",
       "pedestalPath": "pedestals/20001/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "f8205804e1e551e1540aa06c0624f2ebc7aff50709a15cdfdee0c1aec009faff"
     },
     {
       "memberMstId": 20001206,
@@ -1576,13 +1674,14 @@
       "personalName": "津島 善子",
       "costumeName": "浦の星女学院 冬制服",
       "modelPath": "models/20001206/scene.glb",
-      "modelSha256": "8a27612f05de24880bc8af4529ab5d146d0c50af16d806e3e4159b2b061125e7",
-      "artPath": "models/20001206/character-art.png",
+      "modelSha256": "9d1aba99493d44662f70622f9a4036a3870c92a785d6dffd9c6872c1638d63a1",
+      "artPath": "images/20001206/character-art.png",
       "artSha256": "83bbf993c5b1590330fdda172006a82e65da73b507cbf5e68ac89e9c653a8f82",
-      "costumeIconPath": "costume-icons/costume-20001.png",
+      "costumeIconPath": "images/costumes/20001/costume-icon.png",
       "costumeIconSha256": "f902ae97d07f704a7c34b34f4e994357581a74e128cdc2db52b94dba4d08d85f",
       "pedestalPath": "pedestals/20001/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "f8205804e1e551e1540aa06c0624f2ebc7aff50709a15cdfdee0c1aec009faff"
     },
     {
       "memberMstId": 20001207,
@@ -1592,13 +1691,14 @@
       "personalName": "黒澤 ダイヤ",
       "costumeName": "浦の星女学院 冬制服",
       "modelPath": "models/20001207/scene.glb",
-      "modelSha256": "128fedf84e9cf684e7ba865a0be7e084dedd532f7be9c09baa43581a6d73d676",
-      "artPath": "models/20001207/character-art.png",
+      "modelSha256": "7dc65a8a7dd09377522834ed67729a297e5ae1a59331dd66e8ac4fbf2be428d7",
+      "artPath": "images/20001207/character-art.png",
       "artSha256": "ae9e5e54e42d3cbe3a7d143891d0944b711a5b3c349e25d4dfc039227d7237da",
-      "costumeIconPath": "costume-icons/costume-20001.png",
+      "costumeIconPath": "images/costumes/20001/costume-icon.png",
       "costumeIconSha256": "f902ae97d07f704a7c34b34f4e994357581a74e128cdc2db52b94dba4d08d85f",
       "pedestalPath": "pedestals/20001/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "f8205804e1e551e1540aa06c0624f2ebc7aff50709a15cdfdee0c1aec009faff"
     },
     {
       "memberMstId": 20001208,
@@ -1608,13 +1708,14 @@
       "personalName": "松浦 果南",
       "costumeName": "浦の星女学院 冬制服",
       "modelPath": "models/20001208/scene.glb",
-      "modelSha256": "e7ad212bbad357e938b7712453b9921d692fcc45b6e6df7e5ee4f198fa75a195",
-      "artPath": "models/20001208/character-art.png",
+      "modelSha256": "fd98488ce2805823fed6f49b9a3d9caad2609bfe15e1a5ad3c9ba97fb3f28099",
+      "artPath": "images/20001208/character-art.png",
       "artSha256": "9c18d38655b41a6d83c1fae14437e52c95d447fc8aeaf363074b4077889109fa",
-      "costumeIconPath": "costume-icons/costume-20001.png",
+      "costumeIconPath": "images/costumes/20001/costume-icon.png",
       "costumeIconSha256": "f902ae97d07f704a7c34b34f4e994357581a74e128cdc2db52b94dba4d08d85f",
       "pedestalPath": "pedestals/20001/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "f8205804e1e551e1540aa06c0624f2ebc7aff50709a15cdfdee0c1aec009faff"
     },
     {
       "memberMstId": 20001209,
@@ -1624,13 +1725,14 @@
       "personalName": "小原 鞠莉",
       "costumeName": "浦の星女学院 冬制服",
       "modelPath": "models/20001209/scene.glb",
-      "modelSha256": "b055faa8b6697b59558cdcaebc39dce5784c9f1be8f87cfab600b0fdda1b268a",
-      "artPath": "models/20001209/character-art.png",
+      "modelSha256": "4eacf4adf907761d8b619ce4881e5bbd3ad831a5a363dae45d715873bb8aa86d",
+      "artPath": "images/20001209/character-art.png",
       "artSha256": "53292a4e67ac32c651451514674d2ac629fcacfeea69ccfa54090d7d3f779da2",
-      "costumeIconPath": "costume-icons/costume-20001.png",
+      "costumeIconPath": "images/costumes/20001/costume-icon.png",
       "costumeIconSha256": "f902ae97d07f704a7c34b34f4e994357581a74e128cdc2db52b94dba4d08d85f",
       "pedestalPath": "pedestals/20001/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "f8205804e1e551e1540aa06c0624f2ebc7aff50709a15cdfdee0c1aec009faff"
     },
     {
       "memberMstId": 20002201,
@@ -1640,13 +1742,14 @@
       "personalName": "高海 千歌",
       "costumeName": "青空Jumping Heart",
       "modelPath": "models/20002201/scene.glb",
-      "modelSha256": "b4cf67023b034fd4778962d09a02f6d70b0b4bf3d6d17aff86f634024cb18432",
-      "artPath": "models/20002201/character-art.png",
+      "modelSha256": "5e83fdfe54d69c3c1cd8c3ef90c015dd2f270b41e07a0bc4a1805e167554778c",
+      "artPath": "images/20002201/character-art.png",
       "artSha256": "8a452667b4e9ef7deab38c480c5cab82b32c388e24413e738d3ab4c9301c0ad6",
-      "costumeIconPath": "costume-icons/costume-20002.png",
+      "costumeIconPath": "images/costumes/20002/costume-icon.png",
       "costumeIconSha256": "c6420cbcf933788c16e518e14fa1c8888b5fef222f9ed7dc0aa4b55671eb2f8e",
       "pedestalPath": "pedestals/20002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "95c0ad510e8d772c7349db65891783af37406077dfdae37fb57879c942203306"
     },
     {
       "memberMstId": 20002202,
@@ -1656,13 +1759,14 @@
       "personalName": "渡辺 曜",
       "costumeName": "青空Jumping Heart",
       "modelPath": "models/20002202/scene.glb",
-      "modelSha256": "36298f532f3f5b4a2096086b973ac9de8388c4c612dd61fcabba46c2a5e39d65",
-      "artPath": "models/20002202/character-art.png",
+      "modelSha256": "fc26a651308ac98e7cad0b7fbdcfd7187128072a2327cd4c254724a8eacc989f",
+      "artPath": "images/20002202/character-art.png",
       "artSha256": "3b059a3c002fec061b0ce3e7c7a0f360ee0c7bbc36c4e39260e9bc4816207fb0",
-      "costumeIconPath": "costume-icons/costume-20002.png",
+      "costumeIconPath": "images/costumes/20002/costume-icon.png",
       "costumeIconSha256": "c6420cbcf933788c16e518e14fa1c8888b5fef222f9ed7dc0aa4b55671eb2f8e",
       "pedestalPath": "pedestals/20002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "95c0ad510e8d772c7349db65891783af37406077dfdae37fb57879c942203306"
     },
     {
       "memberMstId": 20002203,
@@ -1672,13 +1776,14 @@
       "personalName": "桜内 梨子",
       "costumeName": "青空Jumping Heart",
       "modelPath": "models/20002203/scene.glb",
-      "modelSha256": "8029788d86574ebf1b9f7fee504233971ec4c70b2e73f479ef0a17a3e667d530",
-      "artPath": "models/20002203/character-art.png",
+      "modelSha256": "752fd5e1b843c3521be2759b8dbf442369faa6b85f2a8a0d67fe8d8cb744aa72",
+      "artPath": "images/20002203/character-art.png",
       "artSha256": "a88e201bab2efc14c5488be368f6b0430fb0238ca704d6cd2119f854dc67a8c4",
-      "costumeIconPath": "costume-icons/costume-20002.png",
+      "costumeIconPath": "images/costumes/20002/costume-icon.png",
       "costumeIconSha256": "c6420cbcf933788c16e518e14fa1c8888b5fef222f9ed7dc0aa4b55671eb2f8e",
       "pedestalPath": "pedestals/20002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "95c0ad510e8d772c7349db65891783af37406077dfdae37fb57879c942203306"
     },
     {
       "memberMstId": 20002204,
@@ -1688,13 +1793,14 @@
       "personalName": "国木田 花丸",
       "costumeName": "青空Jumping Heart",
       "modelPath": "models/20002204/scene.glb",
-      "modelSha256": "2cf2808e7cc690c1e7dfb8e48c37d2a8ba411c9e25a7b1ae21ae979fee3e991f",
-      "artPath": "models/20002204/character-art.png",
+      "modelSha256": "26797af9f51541342c5ed064115e7fda169ec9f02c216bac7430c3d30b466b7f",
+      "artPath": "images/20002204/character-art.png",
       "artSha256": "1145e8698786dbc172175b8730606c151b2e00b0638a80fada3619ba35033940",
-      "costumeIconPath": "costume-icons/costume-20002.png",
+      "costumeIconPath": "images/costumes/20002/costume-icon.png",
       "costumeIconSha256": "c6420cbcf933788c16e518e14fa1c8888b5fef222f9ed7dc0aa4b55671eb2f8e",
       "pedestalPath": "pedestals/20002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "95c0ad510e8d772c7349db65891783af37406077dfdae37fb57879c942203306"
     },
     {
       "memberMstId": 20002205,
@@ -1704,13 +1810,14 @@
       "personalName": "黒澤 ルビィ",
       "costumeName": "青空Jumping Heart",
       "modelPath": "models/20002205/scene.glb",
-      "modelSha256": "0c81f017cfff4315ba1ad3042695f321bf354ed991699ccfc5a3d893dd7bca5a",
-      "artPath": "models/20002205/character-art.png",
+      "modelSha256": "aa14fe90827dc2c7753d95ac043734d1421f50d56cc4dfe61fe5995af2be68a1",
+      "artPath": "images/20002205/character-art.png",
       "artSha256": "f9f119178cb7f5ca79892567559f77e2b3f30237ae80db3a55ebdeca8ca02985",
-      "costumeIconPath": "costume-icons/costume-20002.png",
+      "costumeIconPath": "images/costumes/20002/costume-icon.png",
       "costumeIconSha256": "c6420cbcf933788c16e518e14fa1c8888b5fef222f9ed7dc0aa4b55671eb2f8e",
       "pedestalPath": "pedestals/20002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "95c0ad510e8d772c7349db65891783af37406077dfdae37fb57879c942203306"
     },
     {
       "memberMstId": 20002206,
@@ -1720,13 +1827,14 @@
       "personalName": "津島 善子",
       "costumeName": "青空Jumping Heart",
       "modelPath": "models/20002206/scene.glb",
-      "modelSha256": "6e46d17e77f4a6885933e4a4f412718a74b003d7fa91472902d97158b5ed5dec",
-      "artPath": "models/20002206/character-art.png",
+      "modelSha256": "fb7896ad3ba91f806de73026b16bf67fb3afa42a4d287c1abdaad23025ff53cb",
+      "artPath": "images/20002206/character-art.png",
       "artSha256": "9be9a3d7d3edffdbf80d2915c896a1c1d02bb01130f9099c6ffa6283cea17caf",
-      "costumeIconPath": "costume-icons/costume-20002.png",
+      "costumeIconPath": "images/costumes/20002/costume-icon.png",
       "costumeIconSha256": "c6420cbcf933788c16e518e14fa1c8888b5fef222f9ed7dc0aa4b55671eb2f8e",
       "pedestalPath": "pedestals/20002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "95c0ad510e8d772c7349db65891783af37406077dfdae37fb57879c942203306"
     },
     {
       "memberMstId": 20002207,
@@ -1736,13 +1844,14 @@
       "personalName": "黒澤 ダイヤ",
       "costumeName": "青空Jumping Heart",
       "modelPath": "models/20002207/scene.glb",
-      "modelSha256": "0ff65092f959ab25504174ff8379fafa9b00d2870ecd413bb31336cf5d4044e8",
-      "artPath": "models/20002207/character-art.png",
+      "modelSha256": "66d61d3d37290f5b22337f8e8c308abf73ecaa93c26a1ef17c509bc2d63cb24f",
+      "artPath": "images/20002207/character-art.png",
       "artSha256": "061968402a150ad19eb96773c25447a2b4a80ded50f0158f0b469bc01f6f8efe",
-      "costumeIconPath": "costume-icons/costume-20002.png",
+      "costumeIconPath": "images/costumes/20002/costume-icon.png",
       "costumeIconSha256": "c6420cbcf933788c16e518e14fa1c8888b5fef222f9ed7dc0aa4b55671eb2f8e",
       "pedestalPath": "pedestals/20002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "95c0ad510e8d772c7349db65891783af37406077dfdae37fb57879c942203306"
     },
     {
       "memberMstId": 20002208,
@@ -1752,13 +1861,14 @@
       "personalName": "松浦 果南",
       "costumeName": "青空Jumping Heart",
       "modelPath": "models/20002208/scene.glb",
-      "modelSha256": "f55714b35855ec9e9640cfff392d9d8d731f673d64c38ba714eec86f24de14c0",
-      "artPath": "models/20002208/character-art.png",
+      "modelSha256": "3c7f9f53eade64df5f09c25db5cef95b4b2ed7d4ac4974fdc1270f734dac85ef",
+      "artPath": "images/20002208/character-art.png",
       "artSha256": "84c3a1f315ec1a982728001a07f0962911cc5fb8d74c45420cfc291076efa37a",
-      "costumeIconPath": "costume-icons/costume-20002.png",
+      "costumeIconPath": "images/costumes/20002/costume-icon.png",
       "costumeIconSha256": "c6420cbcf933788c16e518e14fa1c8888b5fef222f9ed7dc0aa4b55671eb2f8e",
       "pedestalPath": "pedestals/20002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "95c0ad510e8d772c7349db65891783af37406077dfdae37fb57879c942203306"
     },
     {
       "memberMstId": 20002209,
@@ -1768,13 +1878,14 @@
       "personalName": "小原 鞠莉",
       "costumeName": "青空Jumping Heart",
       "modelPath": "models/20002209/scene.glb",
-      "modelSha256": "063db690d7ae2f9664769d016ce2e804525cd16cad0b6c789e299dbac5249171",
-      "artPath": "models/20002209/character-art.png",
+      "modelSha256": "3f4de813f4e23adc4e935f04d35f177912bb8cecfb57e9e0e5ca5d6a1e8dfe5f",
+      "artPath": "images/20002209/character-art.png",
       "artSha256": "466ffd6656a93d94fb6c7f274f1e751a59c2bbaeddca21810b132f10cb98e50c",
-      "costumeIconPath": "costume-icons/costume-20002.png",
+      "costumeIconPath": "images/costumes/20002/costume-icon.png",
       "costumeIconSha256": "c6420cbcf933788c16e518e14fa1c8888b5fef222f9ed7dc0aa4b55671eb2f8e",
       "pedestalPath": "pedestals/20002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "95c0ad510e8d772c7349db65891783af37406077dfdae37fb57879c942203306"
     },
     {
       "memberMstId": 20003201,
@@ -1784,13 +1895,14 @@
       "personalName": "高海 千歌",
       "costumeName": "HAPPY PARTY TRAIN",
       "modelPath": "models/20003201/scene.glb",
-      "modelSha256": "5b4d982173b77f9213ae2325de528d50b8d7b7e366e5472d768e89d74302713c",
-      "artPath": "models/20003201/character-art.png",
+      "modelSha256": "01eb19030d4a422e229793e8a5dc71fe228f51d2baf540d599bfdcd21bd11ebc",
+      "artPath": "images/20003201/character-art.png",
       "artSha256": "46e4744d447c8d749e2b7cbe45ef6295db901dbadf2381966a502a9219600d28",
-      "costumeIconPath": "costume-icons/costume-20003.png",
+      "costumeIconPath": "images/costumes/20003/costume-icon.png",
       "costumeIconSha256": "03fce63a0c55a795d3b63733fd4053da8d0f87c2251fdc6b08e96117d7c8d3de",
       "pedestalPath": "pedestals/20003/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "0410c0db38ab2ff58413886ddbd80abebfa086c2de8d8a9519f0386a24d03194"
     },
     {
       "memberMstId": 20003202,
@@ -1800,13 +1912,14 @@
       "personalName": "渡辺 曜",
       "costumeName": "HAPPY PARTY TRAIN",
       "modelPath": "models/20003202/scene.glb",
-      "modelSha256": "f12a55d749caca5ed85b57cefeb736fa59c14bff0e806250cb3a8dc4342cdf57",
-      "artPath": "models/20003202/character-art.png",
+      "modelSha256": "ef09ffcd123ef3f117235c35a095218ba0465ac97da78730356287d57c55b0a9",
+      "artPath": "images/20003202/character-art.png",
       "artSha256": "ef1607bc92cfb388a8467cd45f29bb6a5b1307e887443dd62f9b49d504ce1873",
-      "costumeIconPath": "costume-icons/costume-20003.png",
+      "costumeIconPath": "images/costumes/20003/costume-icon.png",
       "costumeIconSha256": "03fce63a0c55a795d3b63733fd4053da8d0f87c2251fdc6b08e96117d7c8d3de",
       "pedestalPath": "pedestals/20003/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "0410c0db38ab2ff58413886ddbd80abebfa086c2de8d8a9519f0386a24d03194"
     },
     {
       "memberMstId": 20003203,
@@ -1816,13 +1929,14 @@
       "personalName": "桜内 梨子",
       "costumeName": "HAPPY PARTY TRAIN",
       "modelPath": "models/20003203/scene.glb",
-      "modelSha256": "8f6e683c17fbf21f14b00668e3489622dd2c919f2304ab15b742c976ef33751e",
-      "artPath": "models/20003203/character-art.png",
+      "modelSha256": "728eaa6bf78f3c4b797ec75e169a44f786d20ad897896f700adc7962d5efb1f4",
+      "artPath": "images/20003203/character-art.png",
       "artSha256": "38305ddb05955fc81d37526cd59a01c8635e69e8a1b974afd180ac4ae19e4664",
-      "costumeIconPath": "costume-icons/costume-20003.png",
+      "costumeIconPath": "images/costumes/20003/costume-icon.png",
       "costumeIconSha256": "03fce63a0c55a795d3b63733fd4053da8d0f87c2251fdc6b08e96117d7c8d3de",
       "pedestalPath": "pedestals/20003/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "0410c0db38ab2ff58413886ddbd80abebfa086c2de8d8a9519f0386a24d03194"
     },
     {
       "memberMstId": 20003204,
@@ -1832,13 +1946,14 @@
       "personalName": "国木田 花丸",
       "costumeName": "HAPPY PARTY TRAIN",
       "modelPath": "models/20003204/scene.glb",
-      "modelSha256": "038c9b814e3a81f44adc9a608ab1c4afff97c1caa412a0419c4c6e4f20b0a44b",
-      "artPath": "models/20003204/character-art.png",
+      "modelSha256": "3c30456608ea0bf172912ec27f3ed0361acf7e2f6f44189d5eee8f538b896795",
+      "artPath": "images/20003204/character-art.png",
       "artSha256": "c2adc956af3f6c6bd34953092a0d4e6cd6fc31030677e125947ea6b68731d4bf",
-      "costumeIconPath": "costume-icons/costume-20003.png",
+      "costumeIconPath": "images/costumes/20003/costume-icon.png",
       "costumeIconSha256": "03fce63a0c55a795d3b63733fd4053da8d0f87c2251fdc6b08e96117d7c8d3de",
       "pedestalPath": "pedestals/20003/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "0410c0db38ab2ff58413886ddbd80abebfa086c2de8d8a9519f0386a24d03194"
     },
     {
       "memberMstId": 20003205,
@@ -1848,13 +1963,14 @@
       "personalName": "黒澤 ルビィ",
       "costumeName": "HAPPY PARTY TRAIN",
       "modelPath": "models/20003205/scene.glb",
-      "modelSha256": "d8f2fb9f965ddd9c55ca6f8276d04ac321808b41f611b598f3052bd2d7cf4707",
-      "artPath": "models/20003205/character-art.png",
+      "modelSha256": "c8063ac763e18c1b4edfd65e2380a7b4aabd3bc107bf145be1e34f0062298b32",
+      "artPath": "images/20003205/character-art.png",
       "artSha256": "260d258e42c97d74dc8d86543b2529e0712555c2e83a3630215276bfc2006894",
-      "costumeIconPath": "costume-icons/costume-20003.png",
+      "costumeIconPath": "images/costumes/20003/costume-icon.png",
       "costumeIconSha256": "03fce63a0c55a795d3b63733fd4053da8d0f87c2251fdc6b08e96117d7c8d3de",
       "pedestalPath": "pedestals/20003/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "0410c0db38ab2ff58413886ddbd80abebfa086c2de8d8a9519f0386a24d03194"
     },
     {
       "memberMstId": 20003206,
@@ -1864,13 +1980,14 @@
       "personalName": "津島 善子",
       "costumeName": "HAPPY PARTY TRAIN",
       "modelPath": "models/20003206/scene.glb",
-      "modelSha256": "09f6ff553d294a446367819dd6dc5e38bffcc54d9492e243dcc414ce4983587a",
-      "artPath": "models/20003206/character-art.png",
+      "modelSha256": "ef0df4bae0d5092ad3a8acfc66f09ea8602ea51a4ccf7e7da982401d7d3d00a7",
+      "artPath": "images/20003206/character-art.png",
       "artSha256": "db74367e4e50e888fcaa27902f34a0fc8c3c4daa9a170b96aded55cb14606901",
-      "costumeIconPath": "costume-icons/costume-20003.png",
+      "costumeIconPath": "images/costumes/20003/costume-icon.png",
       "costumeIconSha256": "03fce63a0c55a795d3b63733fd4053da8d0f87c2251fdc6b08e96117d7c8d3de",
       "pedestalPath": "pedestals/20003/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "0410c0db38ab2ff58413886ddbd80abebfa086c2de8d8a9519f0386a24d03194"
     },
     {
       "memberMstId": 20003207,
@@ -1880,13 +1997,14 @@
       "personalName": "黒澤 ダイヤ",
       "costumeName": "HAPPY PARTY TRAIN",
       "modelPath": "models/20003207/scene.glb",
-      "modelSha256": "c04fcb895bb9c21f71fd0d207c2410976a28d2161dcf2af4cf98da897397a9bc",
-      "artPath": "models/20003207/character-art.png",
+      "modelSha256": "f8cfc75ef9465472242eb7955711c456743c8b793e860f8e267a9759385f10e0",
+      "artPath": "images/20003207/character-art.png",
       "artSha256": "6497dc4a5b870a2218706b6e05965e401b5fc7ed87f049cf04d378b28809850b",
-      "costumeIconPath": "costume-icons/costume-20003.png",
+      "costumeIconPath": "images/costumes/20003/costume-icon.png",
       "costumeIconSha256": "03fce63a0c55a795d3b63733fd4053da8d0f87c2251fdc6b08e96117d7c8d3de",
       "pedestalPath": "pedestals/20003/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "0410c0db38ab2ff58413886ddbd80abebfa086c2de8d8a9519f0386a24d03194"
     },
     {
       "memberMstId": 20003208,
@@ -1896,13 +2014,14 @@
       "personalName": "松浦 果南",
       "costumeName": "HAPPY PARTY TRAIN",
       "modelPath": "models/20003208/scene.glb",
-      "modelSha256": "31eeb3ce09f5c620c73256682ec35750b6406018115271f488a598942c68310a",
-      "artPath": "models/20003208/character-art.png",
+      "modelSha256": "f9ca37d38fe0c05f1550c00f9958d9037aa9ae0521088ab2bf1800699fed3f2b",
+      "artPath": "images/20003208/character-art.png",
       "artSha256": "ed1f63f4a43e169f0b6c14bc88aa92502087b4688a31d97bae60eb7df08319a2",
-      "costumeIconPath": "costume-icons/costume-20003.png",
+      "costumeIconPath": "images/costumes/20003/costume-icon.png",
       "costumeIconSha256": "03fce63a0c55a795d3b63733fd4053da8d0f87c2251fdc6b08e96117d7c8d3de",
       "pedestalPath": "pedestals/20003/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "0410c0db38ab2ff58413886ddbd80abebfa086c2de8d8a9519f0386a24d03194"
     },
     {
       "memberMstId": 20003209,
@@ -1912,13 +2031,14 @@
       "personalName": "小原 鞠莉",
       "costumeName": "HAPPY PARTY TRAIN",
       "modelPath": "models/20003209/scene.glb",
-      "modelSha256": "b359f5df4b456fe9dfcd4695d5cd58257115cb70a4de7ddc3f426ff238175539",
-      "artPath": "models/20003209/character-art.png",
+      "modelSha256": "f64a1718adcd957012879c45fb2562dbb60871d38ae1d3e7626ff2d0b07dd43d",
+      "artPath": "images/20003209/character-art.png",
       "artSha256": "c86d775e2855341acb770d279e5bb9f698b2a61f419938d0952ec53cadd92348",
-      "costumeIconPath": "costume-icons/costume-20003.png",
+      "costumeIconPath": "images/costumes/20003/costume-icon.png",
       "costumeIconSha256": "03fce63a0c55a795d3b63733fd4053da8d0f87c2251fdc6b08e96117d7c8d3de",
       "pedestalPath": "pedestals/20003/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "0410c0db38ab2ff58413886ddbd80abebfa086c2de8d8a9519f0386a24d03194"
     },
     {
       "memberMstId": 20004201,
@@ -1928,13 +2048,14 @@
       "personalName": "高海 千歌",
       "costumeName": "未来の僕らは知ってるよ",
       "modelPath": "models/20004201/scene.glb",
-      "modelSha256": "5f3a04b881bfdd5f371a67b05ad14af5849bea2d4c4b92811fa4f6baca60aed1",
-      "artPath": "models/20004201/character-art.png",
+      "modelSha256": "e7f0c28f8c221b322516822b236f447040cd6321bd74dcf56fef8c511d268a1b",
+      "artPath": "images/20004201/character-art.png",
       "artSha256": "54ea5a6da4e67f98651e4a02b9173bb2c27f048763b28cbc71624f61a8a846b2",
-      "costumeIconPath": "costume-icons/costume-20004.png",
+      "costumeIconPath": "images/costumes/20004/costume-icon.png",
       "costumeIconSha256": "6a8eb9224c379b949ce285b279dfde7ade63c6179814e8619605b5957f6c4848",
       "pedestalPath": "pedestals/20004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "e8dec322dabd0f36041030e2bb9831a7b94e39462c9029884903c6eed5c9e596"
     },
     {
       "memberMstId": 20004202,
@@ -1944,13 +2065,14 @@
       "personalName": "渡辺 曜",
       "costumeName": "未来の僕らは知ってるよ",
       "modelPath": "models/20004202/scene.glb",
-      "modelSha256": "43d404e2b7a16341e3f0d6de74a8e59adeb0361191e511653cca7aaa81eae8e6",
-      "artPath": "models/20004202/character-art.png",
+      "modelSha256": "0f55064f61cfdeaa91a329870fab0329d26f73a76bf96e43b40b00ee925e5e25",
+      "artPath": "images/20004202/character-art.png",
       "artSha256": "ba54ccd05e4737bb24946cf48b8d28746e858a1c2b98164cbcd1d058e0dd91bc",
-      "costumeIconPath": "costume-icons/costume-20004.png",
+      "costumeIconPath": "images/costumes/20004/costume-icon.png",
       "costumeIconSha256": "6a8eb9224c379b949ce285b279dfde7ade63c6179814e8619605b5957f6c4848",
       "pedestalPath": "pedestals/20004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "e8dec322dabd0f36041030e2bb9831a7b94e39462c9029884903c6eed5c9e596"
     },
     {
       "memberMstId": 20004203,
@@ -1960,13 +2082,14 @@
       "personalName": "桜内 梨子",
       "costumeName": "未来の僕らは知ってるよ",
       "modelPath": "models/20004203/scene.glb",
-      "modelSha256": "09fb1309e0ab932a5e402e5874679f81799307d0da18a303e5fd2935a942bff5",
-      "artPath": "models/20004203/character-art.png",
+      "modelSha256": "58eb04604693a3a245753ce37c29da5ae527ca137ee921eb16d7e17c5e8cecd7",
+      "artPath": "images/20004203/character-art.png",
       "artSha256": "35ee857fe3d7c45bb71dde972e0ff252d2eeb453b09ba1f577b2c34078f7b7f8",
-      "costumeIconPath": "costume-icons/costume-20004.png",
+      "costumeIconPath": "images/costumes/20004/costume-icon.png",
       "costumeIconSha256": "6a8eb9224c379b949ce285b279dfde7ade63c6179814e8619605b5957f6c4848",
       "pedestalPath": "pedestals/20004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "e8dec322dabd0f36041030e2bb9831a7b94e39462c9029884903c6eed5c9e596"
     },
     {
       "memberMstId": 20004204,
@@ -1976,13 +2099,14 @@
       "personalName": "国木田 花丸",
       "costumeName": "未来の僕らは知ってるよ",
       "modelPath": "models/20004204/scene.glb",
-      "modelSha256": "64995b1a631c798bee060caa90fcb2a1744acad8e1d6e2450f13ed16a7cf239c",
-      "artPath": "models/20004204/character-art.png",
+      "modelSha256": "e570117c89b47d34c5fdd2f622b2543c0ec919c7d150e1dc324d2ef045dd21b8",
+      "artPath": "images/20004204/character-art.png",
       "artSha256": "9c0a691ea972fa6be36b36dfd37ffb8f8d283c91f0c0b0046885ebe5176b9648",
-      "costumeIconPath": "costume-icons/costume-20004.png",
+      "costumeIconPath": "images/costumes/20004/costume-icon.png",
       "costumeIconSha256": "6a8eb9224c379b949ce285b279dfde7ade63c6179814e8619605b5957f6c4848",
       "pedestalPath": "pedestals/20004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "e8dec322dabd0f36041030e2bb9831a7b94e39462c9029884903c6eed5c9e596"
     },
     {
       "memberMstId": 20004205,
@@ -1992,13 +2116,14 @@
       "personalName": "黒澤 ルビィ",
       "costumeName": "未来の僕らは知ってるよ",
       "modelPath": "models/20004205/scene.glb",
-      "modelSha256": "d6407b3df6d8680d7d7ffa9e44b0ae07d6ef35e64a320cbf3cf242625b31650e",
-      "artPath": "models/20004205/character-art.png",
+      "modelSha256": "473b17c4d7fe04d35e8962e58ae5c79b0c6c0e5e4ef953fdad5c149dabdfd945",
+      "artPath": "images/20004205/character-art.png",
       "artSha256": "9abcdde6900cac87c8ef09836b799972680c06a758297a145fd781f054ff712c",
-      "costumeIconPath": "costume-icons/costume-20004.png",
+      "costumeIconPath": "images/costumes/20004/costume-icon.png",
       "costumeIconSha256": "6a8eb9224c379b949ce285b279dfde7ade63c6179814e8619605b5957f6c4848",
       "pedestalPath": "pedestals/20004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "e8dec322dabd0f36041030e2bb9831a7b94e39462c9029884903c6eed5c9e596"
     },
     {
       "memberMstId": 20004206,
@@ -2008,13 +2133,14 @@
       "personalName": "津島 善子",
       "costumeName": "未来の僕らは知ってるよ",
       "modelPath": "models/20004206/scene.glb",
-      "modelSha256": "b2987e2f7af9400184276b0465837f5bb207904a28923c8d6953ca4287ca66c3",
-      "artPath": "models/20004206/character-art.png",
+      "modelSha256": "4848596254ece67e3ce9e04d7371453f2abcb3575f1e7eee6543f96610efb62c",
+      "artPath": "images/20004206/character-art.png",
       "artSha256": "463bcd0bbd4a5b9bc0e38ae215517c3cac4069d441c73d0edb91b6e14bee31df",
-      "costumeIconPath": "costume-icons/costume-20004.png",
+      "costumeIconPath": "images/costumes/20004/costume-icon.png",
       "costumeIconSha256": "6a8eb9224c379b949ce285b279dfde7ade63c6179814e8619605b5957f6c4848",
       "pedestalPath": "pedestals/20004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "e8dec322dabd0f36041030e2bb9831a7b94e39462c9029884903c6eed5c9e596"
     },
     {
       "memberMstId": 20004207,
@@ -2024,13 +2150,14 @@
       "personalName": "黒澤 ダイヤ",
       "costumeName": "未来の僕らは知ってるよ",
       "modelPath": "models/20004207/scene.glb",
-      "modelSha256": "60cd69882f664fabe761301e4734e67544130af7d4a581d3de5ba9fff299d8fc",
-      "artPath": "models/20004207/character-art.png",
+      "modelSha256": "ba40a7fabe8f86b6262ebb9a6224bd5617ec8dca4b45b67a0379ebf28719da6a",
+      "artPath": "images/20004207/character-art.png",
       "artSha256": "60f19e7a5851d2604900e6e4ff0d5388b562bde150dc3d928c259f6b3497d009",
-      "costumeIconPath": "costume-icons/costume-20004.png",
+      "costumeIconPath": "images/costumes/20004/costume-icon.png",
       "costumeIconSha256": "6a8eb9224c379b949ce285b279dfde7ade63c6179814e8619605b5957f6c4848",
       "pedestalPath": "pedestals/20004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "e8dec322dabd0f36041030e2bb9831a7b94e39462c9029884903c6eed5c9e596"
     },
     {
       "memberMstId": 20004208,
@@ -2040,14 +2167,15 @@
       "personalName": "松浦 果南",
       "costumeName": "未来の僕らは知ってるよ",
       "modelPath": "models/20004208/scene.glb",
-      "modelSha256": "4d95992676f2bcc41356ff5f011aef528ce09f79ba971005803eaa274ef9ad1a",
-      "artPath": "models/20004208/character-art.png",
+      "modelSha256": "cab28f9ebbfbb08de2cfa02b0650840e13c1e255afcee07107de083126675640",
+      "artPath": "images/20004208/character-art.png",
       "artSha256": "4ee98378ef61d5957f0290783bab6a8ce7bc9590e322595ad8691231b486587e",
-      "costumeIconPath": "costume-icons/costume-20004.png",
+      "costumeIconPath": "images/costumes/20004/costume-icon.png",
       "costumeIconSha256": "6a8eb9224c379b949ce285b279dfde7ade63c6179814e8619605b5957f6c4848",
       "pedestalPath": "pedestals/20004/pedestal.glb",
       "hasVerifiedStage": true,
-      "materialStatus": "partial"
+      "materialStatus": "partial",
+      "pedestalSha256": "e8dec322dabd0f36041030e2bb9831a7b94e39462c9029884903c6eed5c9e596"
     },
     {
       "memberMstId": 20004209,
@@ -2057,13 +2185,14 @@
       "personalName": "小原 鞠莉",
       "costumeName": "未来の僕らは知ってるよ",
       "modelPath": "models/20004209/scene.glb",
-      "modelSha256": "4925000914915d3f17b1b75c64b250ed97fb4352adda4c66970fc0a73bdb984a",
-      "artPath": "models/20004209/character-art.png",
+      "modelSha256": "bc7882c31b35cad41d10bfc3839a629487196e62bd337ea0f4121e034566da60",
+      "artPath": "images/20004209/character-art.png",
       "artSha256": "b236b57774886988aee307f3e503019b2d49b8fe982d5e92c9d196d8ba335be8",
-      "costumeIconPath": "costume-icons/costume-20004.png",
+      "costumeIconPath": "images/costumes/20004/costume-icon.png",
       "costumeIconSha256": "6a8eb9224c379b949ce285b279dfde7ade63c6179814e8619605b5957f6c4848",
       "pedestalPath": "pedestals/20004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "e8dec322dabd0f36041030e2bb9831a7b94e39462c9029884903c6eed5c9e596"
     },
     {
       "memberMstId": 20005201,
@@ -2073,13 +2202,14 @@
       "personalName": "高海 千歌",
       "costumeName": "WATER BLUE NEW WORLD",
       "modelPath": "models/20005201/scene.glb",
-      "modelSha256": "54571213da2ad377c95a961326ca039a8e55293edef6009d4d9aebaee61c89a1",
-      "artPath": "models/20005201/character-art.png",
+      "modelSha256": "ccd2848d50356362c1e3e648cd3081ddc658a2c5be9ba4a747db89b512185c5b",
+      "artPath": "images/20005201/character-art.png",
       "artSha256": "9a857e149ab2c656e096ad96f04798deca5f4ad9bf017115ff21b76483e99578",
-      "costumeIconPath": "costume-icons/costume-20005.png",
+      "costumeIconPath": "images/costumes/20005/costume-icon.png",
       "costumeIconSha256": "38846b78830695e02f6e48837ffd2f212bdda0c430720545eb22f5bb93e2fc64",
       "pedestalPath": "pedestals/20005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "bd9e36b003c7108c88d1601503ec54e72bdb5614283df7c6784d070444613feb"
     },
     {
       "memberMstId": 20005202,
@@ -2089,13 +2219,14 @@
       "personalName": "渡辺 曜",
       "costumeName": "WATER BLUE NEW WORLD",
       "modelPath": "models/20005202/scene.glb",
-      "modelSha256": "dcfce353fc4328deeb55726925c24f6933c750b57eed2b3b5a0d049e77247f65",
-      "artPath": "models/20005202/character-art.png",
+      "modelSha256": "7513b9e5222dea4ee899b5e12f92a2c68c400706bed373c4f2287fc240eda4bd",
+      "artPath": "images/20005202/character-art.png",
       "artSha256": "47e16f8a4e450a026d42717e7117c4dbc875e96e5e33c0e4152cadc823478a97",
-      "costumeIconPath": "costume-icons/costume-20005.png",
+      "costumeIconPath": "images/costumes/20005/costume-icon.png",
       "costumeIconSha256": "38846b78830695e02f6e48837ffd2f212bdda0c430720545eb22f5bb93e2fc64",
       "pedestalPath": "pedestals/20005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "bd9e36b003c7108c88d1601503ec54e72bdb5614283df7c6784d070444613feb"
     },
     {
       "memberMstId": 20005203,
@@ -2105,13 +2236,14 @@
       "personalName": "桜内 梨子",
       "costumeName": "WATER BLUE NEW WORLD",
       "modelPath": "models/20005203/scene.glb",
-      "modelSha256": "d2e48438f98cd8b0aaf39748584144499be2a4cc1a4deb8d42528378db246e8f",
-      "artPath": "models/20005203/character-art.png",
+      "modelSha256": "cbf7f27a784f541dfcc67bfd0542b66196793d96035c4ff7e496c34a6648ad17",
+      "artPath": "images/20005203/character-art.png",
       "artSha256": "a47c27a278099b0b39d5fa86833df37022e361c53e9b732b846c48452e6beaa8",
-      "costumeIconPath": "costume-icons/costume-20005.png",
+      "costumeIconPath": "images/costumes/20005/costume-icon.png",
       "costumeIconSha256": "38846b78830695e02f6e48837ffd2f212bdda0c430720545eb22f5bb93e2fc64",
       "pedestalPath": "pedestals/20005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "bd9e36b003c7108c88d1601503ec54e72bdb5614283df7c6784d070444613feb"
     },
     {
       "memberMstId": 20005204,
@@ -2121,13 +2253,14 @@
       "personalName": "国木田 花丸",
       "costumeName": "WATER BLUE NEW WORLD",
       "modelPath": "models/20005204/scene.glb",
-      "modelSha256": "ea71d40833e6a24ae0c22e102f64f44a9d38dc21c6545339e8a5ab3ed76f59dd",
-      "artPath": "models/20005204/character-art.png",
+      "modelSha256": "34ce17c3a2e7c6ace1e6e9b741b17441b52c8671d3a500d9eadf20ec851141fd",
+      "artPath": "images/20005204/character-art.png",
       "artSha256": "d5314fb348f4940643203abf7dcad57177ed1186073969f17accf097e207cf01",
-      "costumeIconPath": "costume-icons/costume-20005.png",
+      "costumeIconPath": "images/costumes/20005/costume-icon.png",
       "costumeIconSha256": "38846b78830695e02f6e48837ffd2f212bdda0c430720545eb22f5bb93e2fc64",
       "pedestalPath": "pedestals/20005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "bd9e36b003c7108c88d1601503ec54e72bdb5614283df7c6784d070444613feb"
     },
     {
       "memberMstId": 20005205,
@@ -2137,13 +2270,14 @@
       "personalName": "黒澤 ルビィ",
       "costumeName": "WATER BLUE NEW WORLD",
       "modelPath": "models/20005205/scene.glb",
-      "modelSha256": "1aa68dba83e3a87c1328e0f586ca6bb4749ef51ef4d6107a6011b9b0796a59b5",
-      "artPath": "models/20005205/character-art.png",
+      "modelSha256": "eee85deeb5994b218695a4f236d816f67701694400fe487042f8952562f488a2",
+      "artPath": "images/20005205/character-art.png",
       "artSha256": "67feca61a598adb26c3c0ecdbe6272252cf82b5262f8e8584fb87e879548387f",
-      "costumeIconPath": "costume-icons/costume-20005.png",
+      "costumeIconPath": "images/costumes/20005/costume-icon.png",
       "costumeIconSha256": "38846b78830695e02f6e48837ffd2f212bdda0c430720545eb22f5bb93e2fc64",
       "pedestalPath": "pedestals/20005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "bd9e36b003c7108c88d1601503ec54e72bdb5614283df7c6784d070444613feb"
     },
     {
       "memberMstId": 20005206,
@@ -2153,13 +2287,14 @@
       "personalName": "津島 善子",
       "costumeName": "WATER BLUE NEW WORLD",
       "modelPath": "models/20005206/scene.glb",
-      "modelSha256": "048fdb109b62d059b5b91f8c2ae8c0330c33400687b2510ff4f8b83bec30c407",
-      "artPath": "models/20005206/character-art.png",
+      "modelSha256": "c140d93588676ded380693f7937726a876331920b895c798c89905dc2b14bd87",
+      "artPath": "images/20005206/character-art.png",
       "artSha256": "1ad026a53f424bfa3c7210c3efbef53a986c3e61ff267177539a90ce967d529a",
-      "costumeIconPath": "costume-icons/costume-20005.png",
+      "costumeIconPath": "images/costumes/20005/costume-icon.png",
       "costumeIconSha256": "38846b78830695e02f6e48837ffd2f212bdda0c430720545eb22f5bb93e2fc64",
       "pedestalPath": "pedestals/20005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "bd9e36b003c7108c88d1601503ec54e72bdb5614283df7c6784d070444613feb"
     },
     {
       "memberMstId": 20005207,
@@ -2169,13 +2304,14 @@
       "personalName": "黒澤 ダイヤ",
       "costumeName": "WATER BLUE NEW WORLD",
       "modelPath": "models/20005207/scene.glb",
-      "modelSha256": "0e4920845c19ab1295681c17cfa694f1fc650756d2587b0105184ee06425aa63",
-      "artPath": "models/20005207/character-art.png",
+      "modelSha256": "e1ebf4e75b3d5ed39d32c232bd4eeebebd1da1e6e26e99deb8341686249d8a5d",
+      "artPath": "images/20005207/character-art.png",
       "artSha256": "a1e29bc404223e41694fb19fdd570a7a4ba939f882c0b0468a3b7242fba4c737",
-      "costumeIconPath": "costume-icons/costume-20005.png",
+      "costumeIconPath": "images/costumes/20005/costume-icon.png",
       "costumeIconSha256": "38846b78830695e02f6e48837ffd2f212bdda0c430720545eb22f5bb93e2fc64",
       "pedestalPath": "pedestals/20005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "bd9e36b003c7108c88d1601503ec54e72bdb5614283df7c6784d070444613feb"
     },
     {
       "memberMstId": 20005208,
@@ -2185,13 +2321,14 @@
       "personalName": "松浦 果南",
       "costumeName": "WATER BLUE NEW WORLD",
       "modelPath": "models/20005208/scene.glb",
-      "modelSha256": "36165bc5645c4bfc038bb613b4c0cf61c941596e36b0e0cf94460121048384a9",
-      "artPath": "models/20005208/character-art.png",
+      "modelSha256": "e3ed426016e9916c327845fe4cda1876c4b02cbfa125e6a26efd09b2abb2ad17",
+      "artPath": "images/20005208/character-art.png",
       "artSha256": "b9ebdc687459a5cb4e7659c3784960482e33123c3ac509aa7665c88fb516f0b4",
-      "costumeIconPath": "costume-icons/costume-20005.png",
+      "costumeIconPath": "images/costumes/20005/costume-icon.png",
       "costumeIconSha256": "38846b78830695e02f6e48837ffd2f212bdda0c430720545eb22f5bb93e2fc64",
       "pedestalPath": "pedestals/20005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "bd9e36b003c7108c88d1601503ec54e72bdb5614283df7c6784d070444613feb"
     },
     {
       "memberMstId": 20005209,
@@ -2201,13 +2338,14 @@
       "personalName": "小原 鞠莉",
       "costumeName": "WATER BLUE NEW WORLD",
       "modelPath": "models/20005209/scene.glb",
-      "modelSha256": "cc493ea6055f353bb9bf0f9e551df6c051ef6d370460ef06e7b4dbcf74f482ad",
-      "artPath": "models/20005209/character-art.png",
+      "modelSha256": "e7f82dc771588cff60794b465d9fced3f3306999a7c9682944316a60e52c437d",
+      "artPath": "images/20005209/character-art.png",
       "artSha256": "50894834ed6000306fcda2d784ce3b80a2b340c21d5e2c0aca929e3d1c496dfa",
-      "costumeIconPath": "costume-icons/costume-20005.png",
+      "costumeIconPath": "images/costumes/20005/costume-icon.png",
       "costumeIconSha256": "38846b78830695e02f6e48837ffd2f212bdda0c430720545eb22f5bb93e2fc64",
       "pedestalPath": "pedestals/20005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "bd9e36b003c7108c88d1601503ec54e72bdb5614283df7c6784d070444613feb"
     },
     {
       "memberMstId": 20006201,
@@ -2217,13 +2355,14 @@
       "personalName": "高海 千歌",
       "costumeName": "Thank you, FRIENDS!!",
       "modelPath": "models/20006201/scene.glb",
-      "modelSha256": "3af985f0bc2e2a624ecfed842333b8ad34f60a3d48cee0fb12e29e0ae176e3e0",
-      "artPath": "models/20006201/character-art.png",
+      "modelSha256": "123a25b0b18643503e05683825d910d89fa83b2006fd9d179c41dc774c4a5484",
+      "artPath": "images/20006201/character-art.png",
       "artSha256": "390712bc79c5fcbf8af8175b17a98b26ffff78491dd16a4ab40f6235a75b1d1c",
-      "costumeIconPath": "costume-icons/costume-20006.png",
+      "costumeIconPath": "images/costumes/20006/costume-icon.png",
       "costumeIconSha256": "2290217fe6fa365f6d43da1d67078ab73542eec2a48216c338d7dc057f3d8535",
       "pedestalPath": "pedestals/20006/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "be961a1e2f017f24b50a9790839dc5de478d96bd1557f041e971eabd0f8dae07"
     },
     {
       "memberMstId": 20006202,
@@ -2233,13 +2372,14 @@
       "personalName": "渡辺 曜",
       "costumeName": "Thank you, FRIENDS!!",
       "modelPath": "models/20006202/scene.glb",
-      "modelSha256": "e349be3001ff35e97b361768fb83f2d92cd5047ebb41146bc8c456745f35d954",
-      "artPath": "models/20006202/character-art.png",
+      "modelSha256": "5b96f24059ec3db015fa8a15edef96d681df61c56c234acca329ad00340b8bee",
+      "artPath": "images/20006202/character-art.png",
       "artSha256": "9d50f8ad010cd2026ff3f53c1e8248417867ee7b33682da078e65e4802e01473",
-      "costumeIconPath": "costume-icons/costume-20006.png",
+      "costumeIconPath": "images/costumes/20006/costume-icon.png",
       "costumeIconSha256": "2290217fe6fa365f6d43da1d67078ab73542eec2a48216c338d7dc057f3d8535",
       "pedestalPath": "pedestals/20006/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "be961a1e2f017f24b50a9790839dc5de478d96bd1557f041e971eabd0f8dae07"
     },
     {
       "memberMstId": 20006203,
@@ -2249,13 +2389,14 @@
       "personalName": "桜内 梨子",
       "costumeName": "Thank you, FRIENDS!!",
       "modelPath": "models/20006203/scene.glb",
-      "modelSha256": "fef827b446c5759bed427bcc2e8b1d71fc57c5be5cd33e610cf992d931cd0462",
-      "artPath": "models/20006203/character-art.png",
+      "modelSha256": "309027e3e16cd59a3c2ec8a4611abd11d173ef78a534a9e3f72ccf4f32bc85f9",
+      "artPath": "images/20006203/character-art.png",
       "artSha256": "68c52156feb744235fa0131cfd66b1e91234befcd2a7dda928aa36092a106a78",
-      "costumeIconPath": "costume-icons/costume-20006.png",
+      "costumeIconPath": "images/costumes/20006/costume-icon.png",
       "costumeIconSha256": "2290217fe6fa365f6d43da1d67078ab73542eec2a48216c338d7dc057f3d8535",
       "pedestalPath": "pedestals/20006/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "be961a1e2f017f24b50a9790839dc5de478d96bd1557f041e971eabd0f8dae07"
     },
     {
       "memberMstId": 20006204,
@@ -2265,13 +2406,14 @@
       "personalName": "国木田 花丸",
       "costumeName": "Thank you, FRIENDS!!",
       "modelPath": "models/20006204/scene.glb",
-      "modelSha256": "23ff512b828f4b763e0bd4b02baef453aef40265e95ffbdc36a0dea6f77320cb",
-      "artPath": "models/20006204/character-art.png",
+      "modelSha256": "3ee5d4dffd741f2fe95199da5eccd6b211ed13dfd17c763b53185968fd95aa84",
+      "artPath": "images/20006204/character-art.png",
       "artSha256": "2354c2108858be131d8bf288799a23cbb81d3e8efd851aec841aca2762bb8b22",
-      "costumeIconPath": "costume-icons/costume-20006.png",
+      "costumeIconPath": "images/costumes/20006/costume-icon.png",
       "costumeIconSha256": "2290217fe6fa365f6d43da1d67078ab73542eec2a48216c338d7dc057f3d8535",
       "pedestalPath": "pedestals/20006/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "be961a1e2f017f24b50a9790839dc5de478d96bd1557f041e971eabd0f8dae07"
     },
     {
       "memberMstId": 20006205,
@@ -2281,13 +2423,14 @@
       "personalName": "黒澤 ルビィ",
       "costumeName": "Thank you, FRIENDS!!",
       "modelPath": "models/20006205/scene.glb",
-      "modelSha256": "57ba749cec402f3440595e99ddb3c43d014de4f22e3514c85db512ae92b6a8e7",
-      "artPath": "models/20006205/character-art.png",
+      "modelSha256": "933b4f568558087a8f494cddca8efd87e4285a9bf7afb66d110e9a8a7077aa6b",
+      "artPath": "images/20006205/character-art.png",
       "artSha256": "7f7b2923ea490ff91f094bfc3a0da8eb6b3719652d5345b4ed2b1071ee3e4ca4",
-      "costumeIconPath": "costume-icons/costume-20006.png",
+      "costumeIconPath": "images/costumes/20006/costume-icon.png",
       "costumeIconSha256": "2290217fe6fa365f6d43da1d67078ab73542eec2a48216c338d7dc057f3d8535",
       "pedestalPath": "pedestals/20006/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "be961a1e2f017f24b50a9790839dc5de478d96bd1557f041e971eabd0f8dae07"
     },
     {
       "memberMstId": 20006206,
@@ -2297,13 +2440,14 @@
       "personalName": "津島 善子",
       "costumeName": "Thank you, FRIENDS!!",
       "modelPath": "models/20006206/scene.glb",
-      "modelSha256": "66ef391498afd9683c4b612458548c752f998f38666c9b0a56206fb750eca574",
-      "artPath": "models/20006206/character-art.png",
+      "modelSha256": "3efcfd2ebefdd06585f95608e2eb4fedd66b9801f0ce9aa8aef1f4a9c8694e91",
+      "artPath": "images/20006206/character-art.png",
       "artSha256": "9b5e00d4ca1b7ea2e256879d7d2ebfaea9ea4452f115f18b957c89def9d5a7cd",
-      "costumeIconPath": "costume-icons/costume-20006.png",
+      "costumeIconPath": "images/costumes/20006/costume-icon.png",
       "costumeIconSha256": "2290217fe6fa365f6d43da1d67078ab73542eec2a48216c338d7dc057f3d8535",
       "pedestalPath": "pedestals/20006/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "be961a1e2f017f24b50a9790839dc5de478d96bd1557f041e971eabd0f8dae07"
     },
     {
       "memberMstId": 20006207,
@@ -2313,13 +2457,14 @@
       "personalName": "黒澤 ダイヤ",
       "costumeName": "Thank you, FRIENDS!!",
       "modelPath": "models/20006207/scene.glb",
-      "modelSha256": "93ba4d7cef138aefddc2696501e602628df4166b307d5ef60174b3238c1c7cab",
-      "artPath": "models/20006207/character-art.png",
+      "modelSha256": "e8d02dba52762adf40b2852036796dc2e2815e8d7a1aec10c986c1da97174d94",
+      "artPath": "images/20006207/character-art.png",
       "artSha256": "6ad36e16e665780b33870a4e60fc6f7c0538214a44381b596e7dfa5fcb49475a",
-      "costumeIconPath": "costume-icons/costume-20006.png",
+      "costumeIconPath": "images/costumes/20006/costume-icon.png",
       "costumeIconSha256": "2290217fe6fa365f6d43da1d67078ab73542eec2a48216c338d7dc057f3d8535",
       "pedestalPath": "pedestals/20006/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "be961a1e2f017f24b50a9790839dc5de478d96bd1557f041e971eabd0f8dae07"
     },
     {
       "memberMstId": 20006208,
@@ -2329,13 +2474,14 @@
       "personalName": "松浦 果南",
       "costumeName": "Thank you, FRIENDS!!",
       "modelPath": "models/20006208/scene.glb",
-      "modelSha256": "28004577267e11efbb571d8f9e22df966ed4544fcfc7bd809c980f3a1747a8ac",
-      "artPath": "models/20006208/character-art.png",
+      "modelSha256": "87cf1800686d9385ba6f91ec5824b77f15c1f73db95cbaad68b02618b30ce716",
+      "artPath": "images/20006208/character-art.png",
       "artSha256": "7c848b723aa1923b154b496956b1fa196e45f3ee5e68ab4677ff607418ae8f6d",
-      "costumeIconPath": "costume-icons/costume-20006.png",
+      "costumeIconPath": "images/costumes/20006/costume-icon.png",
       "costumeIconSha256": "2290217fe6fa365f6d43da1d67078ab73542eec2a48216c338d7dc057f3d8535",
       "pedestalPath": "pedestals/20006/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "be961a1e2f017f24b50a9790839dc5de478d96bd1557f041e971eabd0f8dae07"
     },
     {
       "memberMstId": 20006209,
@@ -2345,13 +2491,14 @@
       "personalName": "小原 鞠莉",
       "costumeName": "Thank you, FRIENDS!!",
       "modelPath": "models/20006209/scene.glb",
-      "modelSha256": "6ff439643686d9dfa44d16e8100d9badf5104a63dde30fec22941f23ea19def3",
-      "artPath": "models/20006209/character-art.png",
+      "modelSha256": "11888e3c5a83b55f9230595cd4c1d54e02f71f78ea69e169681d157e4c4ae671",
+      "artPath": "images/20006209/character-art.png",
       "artSha256": "757348361e77cbf8a7b233c634db68b77135673202b1a94c7cf0d5d1aa9f64f6",
-      "costumeIconPath": "costume-icons/costume-20006.png",
+      "costumeIconPath": "images/costumes/20006/costume-icon.png",
       "costumeIconSha256": "2290217fe6fa365f6d43da1d67078ab73542eec2a48216c338d7dc057f3d8535",
       "pedestalPath": "pedestals/20006/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "be961a1e2f017f24b50a9790839dc5de478d96bd1557f041e971eabd0f8dae07"
     },
     {
       "memberMstId": 20008201,
@@ -2361,13 +2508,14 @@
       "personalName": "高海 千歌",
       "costumeName": "Hop? Stop? Nonstop!",
       "modelPath": "models/20008201/scene.glb",
-      "modelSha256": "f918a9ad3bf7ce0a20395556161b292cba407f86498eb1132a0b55eed158364a",
-      "artPath": "models/20008201/character-art.png",
+      "modelSha256": "adfc2c0b9cdb8eb2a562d41eaac3775a63551274db2a830c5161c333258c6c68",
+      "artPath": "images/20008201/character-art.png",
       "artSha256": "eda4fa5af50a174616ef4d0b43bfaedefeb74c2f920742fc5b3a415a1d22db83",
-      "costumeIconPath": "costume-icons/costume-20008.png",
+      "costumeIconPath": "images/costumes/20008/costume-icon.png",
       "costumeIconSha256": "f373fca6bbd33f5de2a1d5fc39fa92ea870da6c188297fdf33fe4ff2afad41af",
       "pedestalPath": "pedestals/20008/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "6620a4dbce3d05506bfb63b3296acf716935eeea21289c1924ba310c5fea4d71"
     },
     {
       "memberMstId": 20008202,
@@ -2377,13 +2525,14 @@
       "personalName": "渡辺 曜",
       "costumeName": "Hop? Stop? Nonstop!",
       "modelPath": "models/20008202/scene.glb",
-      "modelSha256": "ad40289758767533e530b130cf8a31c66b51af5418c314267af89d9f384c28dd",
-      "artPath": "models/20008202/character-art.png",
+      "modelSha256": "610b223c26be8540f4b3e008254ac576bf639ebd88c6a943da28549843157591",
+      "artPath": "images/20008202/character-art.png",
       "artSha256": "b3731a8fc1e5957aa51e013e06ae80626aa864c5c47a2c905a700bef116ca8cc",
-      "costumeIconPath": "costume-icons/costume-20008.png",
+      "costumeIconPath": "images/costumes/20008/costume-icon.png",
       "costumeIconSha256": "f373fca6bbd33f5de2a1d5fc39fa92ea870da6c188297fdf33fe4ff2afad41af",
       "pedestalPath": "pedestals/20008/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "6620a4dbce3d05506bfb63b3296acf716935eeea21289c1924ba310c5fea4d71"
     },
     {
       "memberMstId": 20008203,
@@ -2393,13 +2542,14 @@
       "personalName": "桜内 梨子",
       "costumeName": "Hop? Stop? Nonstop!",
       "modelPath": "models/20008203/scene.glb",
-      "modelSha256": "425b827f4923494c4bae98ead7e787fae5b8186ca2990d4df5f9681357dfc077",
-      "artPath": "models/20008203/character-art.png",
+      "modelSha256": "bec5dd39c451fe65988ae8bc90452dfbdd9620f1bd16ad9c7c2550adc2d67f39",
+      "artPath": "images/20008203/character-art.png",
       "artSha256": "5e21a71c69dd9225f26eecdaaba506f469e0e21c924b715a03015d0c20dbb7b9",
-      "costumeIconPath": "costume-icons/costume-20008.png",
+      "costumeIconPath": "images/costumes/20008/costume-icon.png",
       "costumeIconSha256": "f373fca6bbd33f5de2a1d5fc39fa92ea870da6c188297fdf33fe4ff2afad41af",
       "pedestalPath": "pedestals/20008/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "6620a4dbce3d05506bfb63b3296acf716935eeea21289c1924ba310c5fea4d71"
     },
     {
       "memberMstId": 20008204,
@@ -2409,13 +2559,14 @@
       "personalName": "国木田 花丸",
       "costumeName": "Hop? Stop? Nonstop!",
       "modelPath": "models/20008204/scene.glb",
-      "modelSha256": "d73020f21dda473c2a444a8d223c3a5eace03dabbfa729c8f58ec8b9f19fa961",
-      "artPath": "models/20008204/character-art.png",
+      "modelSha256": "37a4e93734931a595416257d4337096e087a3185a236da80a7f492378827a1d0",
+      "artPath": "images/20008204/character-art.png",
       "artSha256": "21f937b78e36ea35564bfaefede22b65592525702fe40d609d5275bec3f24176",
-      "costumeIconPath": "costume-icons/costume-20008.png",
+      "costumeIconPath": "images/costumes/20008/costume-icon.png",
       "costumeIconSha256": "f373fca6bbd33f5de2a1d5fc39fa92ea870da6c188297fdf33fe4ff2afad41af",
       "pedestalPath": "pedestals/20008/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "6620a4dbce3d05506bfb63b3296acf716935eeea21289c1924ba310c5fea4d71"
     },
     {
       "memberMstId": 20008205,
@@ -2425,13 +2576,14 @@
       "personalName": "黒澤 ルビィ",
       "costumeName": "Hop? Stop? Nonstop!",
       "modelPath": "models/20008205/scene.glb",
-      "modelSha256": "a0ab37d49a4dd2ec6e2ed2f1e74cf0097e2da6a58e1bf2381f981bd9f1b2b3d3",
-      "artPath": "models/20008205/character-art.png",
+      "modelSha256": "9e9cc4e7162921c6ea6f9047e20695dd13a56d69ae40e4e240875dc4a17194ed",
+      "artPath": "images/20008205/character-art.png",
       "artSha256": "1f4029f5d4bf38a61318a1d80105c87adf0dba42cfd980f474fe9bb41bd26251",
-      "costumeIconPath": "costume-icons/costume-20008.png",
+      "costumeIconPath": "images/costumes/20008/costume-icon.png",
       "costumeIconSha256": "f373fca6bbd33f5de2a1d5fc39fa92ea870da6c188297fdf33fe4ff2afad41af",
       "pedestalPath": "pedestals/20008/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "6620a4dbce3d05506bfb63b3296acf716935eeea21289c1924ba310c5fea4d71"
     },
     {
       "memberMstId": 20008206,
@@ -2441,13 +2593,14 @@
       "personalName": "津島 善子",
       "costumeName": "Hop? Stop? Nonstop!",
       "modelPath": "models/20008206/scene.glb",
-      "modelSha256": "d1bb817aaa1ccd2fdb452ea7d3dd12b4be5cdb578662559eccbf05ee9a60e96a",
-      "artPath": "models/20008206/character-art.png",
+      "modelSha256": "58493cb91c547421d40fe456fa9e4ef7cc41b5dd86a2e983ba3228b5c32f7dfa",
+      "artPath": "images/20008206/character-art.png",
       "artSha256": "b0f68f4508db5f462d582ece97000a8e602e36afe11797ed4b22d01afd14c2a6",
-      "costumeIconPath": "costume-icons/costume-20008.png",
+      "costumeIconPath": "images/costumes/20008/costume-icon.png",
       "costumeIconSha256": "f373fca6bbd33f5de2a1d5fc39fa92ea870da6c188297fdf33fe4ff2afad41af",
       "pedestalPath": "pedestals/20008/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "6620a4dbce3d05506bfb63b3296acf716935eeea21289c1924ba310c5fea4d71"
     },
     {
       "memberMstId": 20008207,
@@ -2457,13 +2610,14 @@
       "personalName": "黒澤 ダイヤ",
       "costumeName": "Hop? Stop? Nonstop!",
       "modelPath": "models/20008207/scene.glb",
-      "modelSha256": "9c66caee96bf42a4c9f34e40a02e68fb796821dafd98fe74e08b11e47a0268e2",
-      "artPath": "models/20008207/character-art.png",
+      "modelSha256": "a8122e19c959184087acb8177203defc09591f4e5ece406588166e51aa57e3b5",
+      "artPath": "images/20008207/character-art.png",
       "artSha256": "6caa52ecbe46320c2c649dc64fc93aac28af13d255acd93270e2ba8ab9c1d58f",
-      "costumeIconPath": "costume-icons/costume-20008.png",
+      "costumeIconPath": "images/costumes/20008/costume-icon.png",
       "costumeIconSha256": "f373fca6bbd33f5de2a1d5fc39fa92ea870da6c188297fdf33fe4ff2afad41af",
       "pedestalPath": "pedestals/20008/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "6620a4dbce3d05506bfb63b3296acf716935eeea21289c1924ba310c5fea4d71"
     },
     {
       "memberMstId": 20008208,
@@ -2473,13 +2627,14 @@
       "personalName": "松浦 果南",
       "costumeName": "Hop? Stop? Nonstop!",
       "modelPath": "models/20008208/scene.glb",
-      "modelSha256": "ae56c3adb8a6c29fc3e6925262b7a43bc1a0507a9e044a13e2b2009e655fc3d9",
-      "artPath": "models/20008208/character-art.png",
+      "modelSha256": "ff093d59c3f6a9f81f68f3fb8c65674998b770b20c391c417287fcb7c1146d4b",
+      "artPath": "images/20008208/character-art.png",
       "artSha256": "25cf676addb154944459930d2b3abbbee433b55bce6aea30a3b45c2d4f1ac914",
-      "costumeIconPath": "costume-icons/costume-20008.png",
+      "costumeIconPath": "images/costumes/20008/costume-icon.png",
       "costumeIconSha256": "f373fca6bbd33f5de2a1d5fc39fa92ea870da6c188297fdf33fe4ff2afad41af",
       "pedestalPath": "pedestals/20008/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "6620a4dbce3d05506bfb63b3296acf716935eeea21289c1924ba310c5fea4d71"
     },
     {
       "memberMstId": 20008209,
@@ -2489,13 +2644,14 @@
       "personalName": "小原 鞠莉",
       "costumeName": "Hop? Stop? Nonstop!",
       "modelPath": "models/20008209/scene.glb",
-      "modelSha256": "890ce5ba398cda5b4df8cfe7786ee3251a3a218b0970d67239fa7cf701057b86",
-      "artPath": "models/20008209/character-art.png",
+      "modelSha256": "937ac9cea46e81618e61a2be38a82e5d118efd07defdd0694fbd8d8225982c8b",
+      "artPath": "images/20008209/character-art.png",
       "artSha256": "fbbfa29ae8c8a60b90ebe08f06d3d6a93c7c9a513a4b883a59304d056d534e08",
-      "costumeIconPath": "costume-icons/costume-20008.png",
+      "costumeIconPath": "images/costumes/20008/costume-icon.png",
       "costumeIconSha256": "f373fca6bbd33f5de2a1d5fc39fa92ea870da6c188297fdf33fe4ff2afad41af",
       "pedestalPath": "pedestals/20008/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "6620a4dbce3d05506bfb63b3296acf716935eeea21289c1924ba310c5fea4d71"
     },
     {
       "memberMstId": 20009201,
@@ -2505,13 +2661,14 @@
       "personalName": "高海 千歌",
       "costumeName": "Brightest Melody",
       "modelPath": "models/20009201/scene.glb",
-      "modelSha256": "1ec5522d3578ce3f8362d9bf8ded393643060fde41d1aee864b0fe79408e8b06",
-      "artPath": "models/20009201/character-art.png",
+      "modelSha256": "022075fc72697fdb50cfe98c47a66a3cc94b8a5277840690d8ce7c77b9488671",
+      "artPath": "images/20009201/character-art.png",
       "artSha256": "413d8e6ac4637d3ef35d079c97d4673c93ab82eee39afba84d495514d110aca6",
-      "costumeIconPath": "costume-icons/costume-20009.png",
+      "costumeIconPath": "images/costumes/20009/costume-icon.png",
       "costumeIconSha256": "5dfd579f4d8ea0e321355ddec57ca713d015d41d9043e8cae37b238d479b854f",
       "pedestalPath": "pedestals/20009/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "b4530465be5e652ef42170edf4f3eb470a9d00f379e20b5f45380103cad87767"
     },
     {
       "memberMstId": 20009202,
@@ -2521,13 +2678,14 @@
       "personalName": "渡辺 曜",
       "costumeName": "Brightest Melody",
       "modelPath": "models/20009202/scene.glb",
-      "modelSha256": "91b27b7cd21d65342aa80a4c9e29eee3711e97daed3e7c7cb5b1cb5466014181",
-      "artPath": "models/20009202/character-art.png",
+      "modelSha256": "2d18daac7a076647739aba751b39699298124877a609e31df5826546671a9588",
+      "artPath": "images/20009202/character-art.png",
       "artSha256": "ec1262c0b15319e5679e357ff4e09b9f74b67b10975705940fbaaeece359160e",
-      "costumeIconPath": "costume-icons/costume-20009.png",
+      "costumeIconPath": "images/costumes/20009/costume-icon.png",
       "costumeIconSha256": "5dfd579f4d8ea0e321355ddec57ca713d015d41d9043e8cae37b238d479b854f",
       "pedestalPath": "pedestals/20009/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "b4530465be5e652ef42170edf4f3eb470a9d00f379e20b5f45380103cad87767"
     },
     {
       "memberMstId": 20009203,
@@ -2537,13 +2695,14 @@
       "personalName": "桜内 梨子",
       "costumeName": "Brightest Melody",
       "modelPath": "models/20009203/scene.glb",
-      "modelSha256": "9a6714725295c13567dc3d2f8f5e2d4f266c8c7d3734bd63818400a3f31d6c27",
-      "artPath": "models/20009203/character-art.png",
+      "modelSha256": "a707ad19fca7e1c4ae9bdd91759598d3545647dcec3a2a40b54f279f094c4816",
+      "artPath": "images/20009203/character-art.png",
       "artSha256": "6bb592c5d252c33ba25c8c156adbe7d753022dded48485f98cf95470c3deb21a",
-      "costumeIconPath": "costume-icons/costume-20009.png",
+      "costumeIconPath": "images/costumes/20009/costume-icon.png",
       "costumeIconSha256": "5dfd579f4d8ea0e321355ddec57ca713d015d41d9043e8cae37b238d479b854f",
       "pedestalPath": "pedestals/20009/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "b4530465be5e652ef42170edf4f3eb470a9d00f379e20b5f45380103cad87767"
     },
     {
       "memberMstId": 20009204,
@@ -2553,13 +2712,14 @@
       "personalName": "国木田 花丸",
       "costumeName": "Brightest Melody",
       "modelPath": "models/20009204/scene.glb",
-      "modelSha256": "a17444279876997dd39bce36fcf5e4b74b04a928ba43d77d5518a988a6a3c114",
-      "artPath": "models/20009204/character-art.png",
+      "modelSha256": "7c4c700e444703391d0d5181841e01f3422d684f187a7a857c2a383078aadbe3",
+      "artPath": "images/20009204/character-art.png",
       "artSha256": "ad44e77f48cad4130a00a0106eec8b99b611ed0f1371e75d1cf50bb9ada3e127",
-      "costumeIconPath": "costume-icons/costume-20009.png",
+      "costumeIconPath": "images/costumes/20009/costume-icon.png",
       "costumeIconSha256": "5dfd579f4d8ea0e321355ddec57ca713d015d41d9043e8cae37b238d479b854f",
       "pedestalPath": "pedestals/20009/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "b4530465be5e652ef42170edf4f3eb470a9d00f379e20b5f45380103cad87767"
     },
     {
       "memberMstId": 20009205,
@@ -2569,13 +2729,14 @@
       "personalName": "黒澤 ルビィ",
       "costumeName": "Brightest Melody",
       "modelPath": "models/20009205/scene.glb",
-      "modelSha256": "6c8e78f775f590546c2a1d5f27e7131cc18d674530d81a3b8ebd70ab93001d60",
-      "artPath": "models/20009205/character-art.png",
+      "modelSha256": "850cca595070578ae8d6eb28791e6f471ad07b9dafdf556484e03d25b4726127",
+      "artPath": "images/20009205/character-art.png",
       "artSha256": "38bdefebc96de08fe68a75765f9070e8f55f34832fe47ee9ec5f714b58dc11a8",
-      "costumeIconPath": "costume-icons/costume-20009.png",
+      "costumeIconPath": "images/costumes/20009/costume-icon.png",
       "costumeIconSha256": "5dfd579f4d8ea0e321355ddec57ca713d015d41d9043e8cae37b238d479b854f",
       "pedestalPath": "pedestals/20009/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "b4530465be5e652ef42170edf4f3eb470a9d00f379e20b5f45380103cad87767"
     },
     {
       "memberMstId": 20009206,
@@ -2585,13 +2746,14 @@
       "personalName": "津島 善子",
       "costumeName": "Brightest Melody",
       "modelPath": "models/20009206/scene.glb",
-      "modelSha256": "8f34d7c807658297b176676f4f217ecb6670b008b48b818d5a5e87eec58b66f1",
-      "artPath": "models/20009206/character-art.png",
+      "modelSha256": "21f5c3f1f5f0942391c94a9719555a499cf3d9376c3a8a6aeed26f571b3dec1d",
+      "artPath": "images/20009206/character-art.png",
       "artSha256": "72b686e7fb4f6c8f8e71e88bf5022a1c677f303d05c123995ac3e9f8ed6b348a",
-      "costumeIconPath": "costume-icons/costume-20009.png",
+      "costumeIconPath": "images/costumes/20009/costume-icon.png",
       "costumeIconSha256": "5dfd579f4d8ea0e321355ddec57ca713d015d41d9043e8cae37b238d479b854f",
       "pedestalPath": "pedestals/20009/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "b4530465be5e652ef42170edf4f3eb470a9d00f379e20b5f45380103cad87767"
     },
     {
       "memberMstId": 20009207,
@@ -2601,13 +2763,14 @@
       "personalName": "黒澤 ダイヤ",
       "costumeName": "Brightest Melody",
       "modelPath": "models/20009207/scene.glb",
-      "modelSha256": "10c976d3f1872933b4cf740a7bd0307526c98f72b491181ad8ac65fe8582bc9e",
-      "artPath": "models/20009207/character-art.png",
+      "modelSha256": "ec743d227f42049ea6d4a4d9dca0215b629462db7744e9c49acd24864ef1a71a",
+      "artPath": "images/20009207/character-art.png",
       "artSha256": "0f4e8e87ddbf765af14a66fd51fcd1e32bc09cc700e71ef797e6b45c5a0d8318",
-      "costumeIconPath": "costume-icons/costume-20009.png",
+      "costumeIconPath": "images/costumes/20009/costume-icon.png",
       "costumeIconSha256": "5dfd579f4d8ea0e321355ddec57ca713d015d41d9043e8cae37b238d479b854f",
       "pedestalPath": "pedestals/20009/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "b4530465be5e652ef42170edf4f3eb470a9d00f379e20b5f45380103cad87767"
     },
     {
       "memberMstId": 20009208,
@@ -2617,13 +2780,14 @@
       "personalName": "松浦 果南",
       "costumeName": "Brightest Melody",
       "modelPath": "models/20009208/scene.glb",
-      "modelSha256": "b78c9bcc4cde84ec096a84ba8d1b4167e6909d0a2bcecc1cc9825ecb4b217a02",
-      "artPath": "models/20009208/character-art.png",
+      "modelSha256": "ec849126af9ee6f48bf4f1105b52cba9f0095278ad75ad8399ea8a1a31faf40d",
+      "artPath": "images/20009208/character-art.png",
       "artSha256": "ada777da51e2e213205d6378efee636c1f104a5e2255df87fe49737ed96480b0",
-      "costumeIconPath": "costume-icons/costume-20009.png",
+      "costumeIconPath": "images/costumes/20009/costume-icon.png",
       "costumeIconSha256": "5dfd579f4d8ea0e321355ddec57ca713d015d41d9043e8cae37b238d479b854f",
       "pedestalPath": "pedestals/20009/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "b4530465be5e652ef42170edf4f3eb470a9d00f379e20b5f45380103cad87767"
     },
     {
       "memberMstId": 20009209,
@@ -2633,13 +2797,14 @@
       "personalName": "小原 鞠莉",
       "costumeName": "Brightest Melody",
       "modelPath": "models/20009209/scene.glb",
-      "modelSha256": "ae75a915fb9b79409456150d776f18dcc4bf4a6dfb74a0ca2a2bd803c7ff8ba9",
-      "artPath": "models/20009209/character-art.png",
+      "modelSha256": "a51360d1c631934f26768601954c25eb89dadd6535fb0d3519a2f3ed5ec78d3a",
+      "artPath": "images/20009209/character-art.png",
       "artSha256": "760ce780febe7134480d0a80b26d4fe91248026a77f6032e23a7f988adf25f02",
-      "costumeIconPath": "costume-icons/costume-20009.png",
+      "costumeIconPath": "images/costumes/20009/costume-icon.png",
       "costumeIconSha256": "5dfd579f4d8ea0e321355ddec57ca713d015d41d9043e8cae37b238d479b854f",
       "pedestalPath": "pedestals/20009/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "b4530465be5e652ef42170edf4f3eb470a9d00f379e20b5f45380103cad87767"
     },
     {
       "memberMstId": 21002201,
@@ -2649,13 +2814,14 @@
       "personalName": "高海 千歌",
       "costumeName": "チョコレートパーティー",
       "modelPath": "models/21002201/scene.glb",
-      "modelSha256": "318102ee34a405894f625e6f03b9296eb8051809450116b4e697993688ccf982",
-      "artPath": "models/21002201/character-art.png",
+      "modelSha256": "93940fe822f34b02d0e28e186ac811c5c6d4838f6203bba5aa9a72a3bc8d9f8e",
+      "artPath": "images/21002201/character-art.png",
       "artSha256": "7550305d5ee0c95954cbf3b4db0fef84377a84556c44dc3d2c7365afebd11a4a",
-      "costumeIconPath": "costume-icons/costume-21002.png",
+      "costumeIconPath": "images/costumes/21002/costume-icon.png",
       "costumeIconSha256": "5ca1c25bec9f8cbec9e022f87182a4504618e409e68d8e0a474b525c39175a91",
       "pedestalPath": "pedestals/21002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "7dc2aa6d9a0d2fb76d7eafcb626ee59485041cea7115dbfae4f4f09b5ca8bd79"
     },
     {
       "memberMstId": 21002202,
@@ -2665,13 +2831,14 @@
       "personalName": "渡辺 曜",
       "costumeName": "チョコレートパーティー",
       "modelPath": "models/21002202/scene.glb",
-      "modelSha256": "2f40a8ed78cb47267adeb3dc4326a515b440be32b60825c80b1d24ae5f2f91b4",
-      "artPath": "models/21002202/character-art.png",
+      "modelSha256": "79bff7bf8a6c56254207cffbef397b576c038d3f3d56cc6f7cc3890ed4ebd062",
+      "artPath": "images/21002202/character-art.png",
       "artSha256": "66c333611dcbb0259dab015a9dbe6a2558131ce555c1959c38c68852e7119569",
-      "costumeIconPath": "costume-icons/costume-21002.png",
+      "costumeIconPath": "images/costumes/21002/costume-icon.png",
       "costumeIconSha256": "5ca1c25bec9f8cbec9e022f87182a4504618e409e68d8e0a474b525c39175a91",
       "pedestalPath": "pedestals/21002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "7dc2aa6d9a0d2fb76d7eafcb626ee59485041cea7115dbfae4f4f09b5ca8bd79"
     },
     {
       "memberMstId": 21002203,
@@ -2681,13 +2848,14 @@
       "personalName": "桜内 梨子",
       "costumeName": "チョコレートパーティー",
       "modelPath": "models/21002203/scene.glb",
-      "modelSha256": "45039f8c45d9e54233817ead4f927ca87e3fd32051c65701cc7835a45f2b6234",
-      "artPath": "models/21002203/character-art.png",
+      "modelSha256": "02ad96b60c68fb65b4bee6e488112f5fd4ec30b58f55f17e0ea42929ef66215c",
+      "artPath": "images/21002203/character-art.png",
       "artSha256": "5f16e1dd9a5d01c007b949626963fd6d12cf7a465fec06e03ea4fcf549bf590c",
-      "costumeIconPath": "costume-icons/costume-21002.png",
+      "costumeIconPath": "images/costumes/21002/costume-icon.png",
       "costumeIconSha256": "5ca1c25bec9f8cbec9e022f87182a4504618e409e68d8e0a474b525c39175a91",
       "pedestalPath": "pedestals/21002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "7dc2aa6d9a0d2fb76d7eafcb626ee59485041cea7115dbfae4f4f09b5ca8bd79"
     },
     {
       "memberMstId": 21003204,
@@ -2697,13 +2865,14 @@
       "personalName": "国木田 花丸",
       "costumeName": "空色レインコート",
       "modelPath": "models/21003204/scene.glb",
-      "modelSha256": "ea6bb6495d9e691d73d940629ea3f9342ba2b0252a88dc617653db84a8c78612",
-      "artPath": "models/21003204/character-art.png",
+      "modelSha256": "aa7a5d2b1c679d4410c87ba3d82a68f041b5732f52eadbfebbc7951b38435ec5",
+      "artPath": "images/21003204/character-art.png",
       "artSha256": "1da9f22c648581ebdbcf11c30d2a7929aedae4a6f75a520c471512f8edfd5216",
-      "costumeIconPath": "costume-icons/costume-21003.png",
+      "costumeIconPath": "images/costumes/21003/costume-icon.png",
       "costumeIconSha256": "6bca1b1c92d8753efe88dc82209df524b608dc263fcaf0ff9a662494ff55eb85",
       "pedestalPath": "pedestals/21003/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "aee18cff5b629928a0ae633a4c07944245f71e004e82b5a29c46b0a1367eda72"
     },
     {
       "memberMstId": 21003205,
@@ -2713,13 +2882,14 @@
       "personalName": "黒澤 ルビィ",
       "costumeName": "空色レインコート",
       "modelPath": "models/21003205/scene.glb",
-      "modelSha256": "e20485312416ea5650c30ba790304c5988f352e3864b06a6f5f14c4f7d3fb7ae",
-      "artPath": "models/21003205/character-art.png",
+      "modelSha256": "492788b557b6ac6646a98162ad4b77fb3931388d78dc58a891d74c8b1206191e",
+      "artPath": "images/21003205/character-art.png",
       "artSha256": "d2e4f6230f9477ca7a948565f424ce30942efa818afe64443c2d1b6b8b7e242f",
-      "costumeIconPath": "costume-icons/costume-21003.png",
+      "costumeIconPath": "images/costumes/21003/costume-icon.png",
       "costumeIconSha256": "6bca1b1c92d8753efe88dc82209df524b608dc263fcaf0ff9a662494ff55eb85",
       "pedestalPath": "pedestals/21003/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "aee18cff5b629928a0ae633a4c07944245f71e004e82b5a29c46b0a1367eda72"
     },
     {
       "memberMstId": 21003206,
@@ -2729,13 +2899,14 @@
       "personalName": "津島 善子",
       "costumeName": "空色レインコート",
       "modelPath": "models/21003206/scene.glb",
-      "modelSha256": "d662565f404364342c8f923d45d06897f29c5d8edb342d8dbb1985e0fd51ad43",
-      "artPath": "models/21003206/character-art.png",
+      "modelSha256": "0f0fcb5cf3751001c06fbe47e79618713dc44d9ee8e7dd0f27740f737fca00eb",
+      "artPath": "images/21003206/character-art.png",
       "artSha256": "74058d1fe57b5486106719ece0910db979ef46ce0296f18cc2da6e319c170f34",
-      "costumeIconPath": "costume-icons/costume-21003.png",
+      "costumeIconPath": "images/costumes/21003/costume-icon.png",
       "costumeIconSha256": "6bca1b1c92d8753efe88dc82209df524b608dc263fcaf0ff9a662494ff55eb85",
       "pedestalPath": "pedestals/21003/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "aee18cff5b629928a0ae633a4c07944245f71e004e82b5a29c46b0a1367eda72"
     },
     {
       "memberMstId": 21004201,
@@ -2745,13 +2916,14 @@
       "personalName": "高海 千歌",
       "costumeName": "サンリオキャラコラボ",
       "modelPath": "models/21004201/scene.glb",
-      "modelSha256": "79686e1b7c91e4e73f1067591d89036e151858f6734a00e970b8e4591195ebb4",
-      "artPath": "models/21004201/character-art.png",
+      "modelSha256": "271d806e38bfcdd1c898573912d8a89b334db757b1da8319ebc0b32a554a12ec",
+      "artPath": "images/21004201/character-art.png",
       "artSha256": "08995fd40e5b703cae9403e810fe5bf01dbc51afb35bfde1f69dd1c84fc14ebd",
-      "costumeIconPath": "costume-icons/costume-21004.png",
+      "costumeIconPath": "images/costumes/21004/costume-icon.png",
       "costumeIconSha256": "5642c9467db2065e4994d3ba43aff6cdfa7ee32d5a9b6b33dad9aec3df07c3e8",
       "pedestalPath": "pedestals/21004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "c47ac6138be1725ad079fe970c87f20ebd8128850958e7f067557fb082be46cc"
     },
     {
       "memberMstId": 21004202,
@@ -2761,13 +2933,14 @@
       "personalName": "渡辺 曜",
       "costumeName": "サンリオキャラコラボ",
       "modelPath": "models/21004202/scene.glb",
-      "modelSha256": "546ce2e0ee1ab4ebbdb659d2355a8555da0b12f2dea57b36dea0c1601c5a31d4",
-      "artPath": "models/21004202/character-art.png",
+      "modelSha256": "751b90fda46aeb4c0f7c0b040cafb662ebaee9d366d2c39eaf4edb0d802e5e33",
+      "artPath": "images/21004202/character-art.png",
       "artSha256": "c041723e8e50c980699ff60e3bd37b666933ae6fdfe8e58840209e568618abed",
-      "costumeIconPath": "costume-icons/costume-21004.png",
+      "costumeIconPath": "images/costumes/21004/costume-icon.png",
       "costumeIconSha256": "5642c9467db2065e4994d3ba43aff6cdfa7ee32d5a9b6b33dad9aec3df07c3e8",
       "pedestalPath": "pedestals/21004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "c47ac6138be1725ad079fe970c87f20ebd8128850958e7f067557fb082be46cc"
     },
     {
       "memberMstId": 21004203,
@@ -2777,13 +2950,14 @@
       "personalName": "桜内 梨子",
       "costumeName": "サンリオキャラコラボ",
       "modelPath": "models/21004203/scene.glb",
-      "modelSha256": "706fc22bec7cee5064ac4fa657355b72d0db657e993b240de9417d9c66851d30",
-      "artPath": "models/21004203/character-art.png",
+      "modelSha256": "d1a09ba729991da27e688948af963592b609e5815415b64f5f5c2aece177313e",
+      "artPath": "images/21004203/character-art.png",
       "artSha256": "f174f1a4e090ed1a39c9800f5f7c0fc77dbda79df930e059349e7fd092dd76fe",
-      "costumeIconPath": "costume-icons/costume-21004.png",
+      "costumeIconPath": "images/costumes/21004/costume-icon.png",
       "costumeIconSha256": "5642c9467db2065e4994d3ba43aff6cdfa7ee32d5a9b6b33dad9aec3df07c3e8",
       "pedestalPath": "pedestals/21004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "c47ac6138be1725ad079fe970c87f20ebd8128850958e7f067557fb082be46cc"
     },
     {
       "memberMstId": 21004204,
@@ -2793,13 +2967,14 @@
       "personalName": "国木田 花丸",
       "costumeName": "サンリオキャラコラボ",
       "modelPath": "models/21004204/scene.glb",
-      "modelSha256": "2235eaa3234c403a5e334a6205943607e8aba3d9359e8997d6d4ae0b9cc27330",
-      "artPath": "models/21004204/character-art.png",
+      "modelSha256": "2d5da711c6de573d8d4bc7735c759d24d2afaaf8d6350cdc360ce9c3e1bd5fee",
+      "artPath": "images/21004204/character-art.png",
       "artSha256": "41bff35eaf91fdf13828e549dd53ed4d12709a2edd940042c185ee46d8ff8e67",
-      "costumeIconPath": "costume-icons/costume-21004.png",
+      "costumeIconPath": "images/costumes/21004/costume-icon.png",
       "costumeIconSha256": "5642c9467db2065e4994d3ba43aff6cdfa7ee32d5a9b6b33dad9aec3df07c3e8",
       "pedestalPath": "pedestals/21004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "c47ac6138be1725ad079fe970c87f20ebd8128850958e7f067557fb082be46cc"
     },
     {
       "memberMstId": 21004205,
@@ -2809,13 +2984,14 @@
       "personalName": "黒澤 ルビィ",
       "costumeName": "サンリオキャラコラボ",
       "modelPath": "models/21004205/scene.glb",
-      "modelSha256": "cc0e7f4ea7d8aba842eba048509a1b0c71e95e70a690b6aa747d6b1b4bbf2456",
-      "artPath": "models/21004205/character-art.png",
+      "modelSha256": "a4bedbf0e1e909b61977219e6f07fc91f9a1a5a452355f05caa741ec45a43770",
+      "artPath": "images/21004205/character-art.png",
       "artSha256": "f4dc4c3eb660a7a2ba5bd1b2e582d3ef97b1b79206cc661d09028b81e5ea9594",
-      "costumeIconPath": "costume-icons/costume-21004.png",
+      "costumeIconPath": "images/costumes/21004/costume-icon.png",
       "costumeIconSha256": "5642c9467db2065e4994d3ba43aff6cdfa7ee32d5a9b6b33dad9aec3df07c3e8",
       "pedestalPath": "pedestals/21004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "c47ac6138be1725ad079fe970c87f20ebd8128850958e7f067557fb082be46cc"
     },
     {
       "memberMstId": 21004206,
@@ -2825,13 +3001,14 @@
       "personalName": "津島 善子",
       "costumeName": "サンリオキャラコラボ",
       "modelPath": "models/21004206/scene.glb",
-      "modelSha256": "d17b7496268074aeef130726b2f91862ba80c4079a3b03baec6a40ae98551221",
-      "artPath": "models/21004206/character-art.png",
+      "modelSha256": "41885bfc4d0c94c4c3f4b9358da9bf8eea06b9e07f0bfd35b4afc5f836d627d3",
+      "artPath": "images/21004206/character-art.png",
       "artSha256": "aaf1af1fbb89f2d0761907e6b826ab799f4a586d738351f30cc40bbe199dd291",
-      "costumeIconPath": "costume-icons/costume-21004.png",
+      "costumeIconPath": "images/costumes/21004/costume-icon.png",
       "costumeIconSha256": "5642c9467db2065e4994d3ba43aff6cdfa7ee32d5a9b6b33dad9aec3df07c3e8",
       "pedestalPath": "pedestals/21004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "c47ac6138be1725ad079fe970c87f20ebd8128850958e7f067557fb082be46cc"
     },
     {
       "memberMstId": 21004207,
@@ -2841,13 +3018,14 @@
       "personalName": "黒澤 ダイヤ",
       "costumeName": "サンリオキャラコラボ",
       "modelPath": "models/21004207/scene.glb",
-      "modelSha256": "0a71cef72f0adfac92db78ae05b9d0614114a78ebb70620772fde2f266eefcdd",
-      "artPath": "models/21004207/character-art.png",
+      "modelSha256": "84bc27ba84f5929a14eae496d69895aaa620b6ccbb673e51a16c316cec9627a3",
+      "artPath": "images/21004207/character-art.png",
       "artSha256": "2f0fac3ca4279ab9f0f19816426ae78f0012780fe5ace9314eae7755d4524a30",
-      "costumeIconPath": "costume-icons/costume-21004.png",
+      "costumeIconPath": "images/costumes/21004/costume-icon.png",
       "costumeIconSha256": "5642c9467db2065e4994d3ba43aff6cdfa7ee32d5a9b6b33dad9aec3df07c3e8",
       "pedestalPath": "pedestals/21004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "c47ac6138be1725ad079fe970c87f20ebd8128850958e7f067557fb082be46cc"
     },
     {
       "memberMstId": 21004208,
@@ -2857,13 +3035,14 @@
       "personalName": "松浦 果南",
       "costumeName": "サンリオキャラコラボ",
       "modelPath": "models/21004208/scene.glb",
-      "modelSha256": "bd1e793a70629a8765a8285b4daf2695b0fa8d5efaabc1bc0c6c8653b26feba7",
-      "artPath": "models/21004208/character-art.png",
+      "modelSha256": "68139dc9173e5a5f0d6adabc0a9d67f8d0892bfb7bf824b81417d1bf20902c54",
+      "artPath": "images/21004208/character-art.png",
       "artSha256": "9306eb6a5a85b8b42e5981c12cc139d76282fe4333bd4cd553d2d2b483da929c",
-      "costumeIconPath": "costume-icons/costume-21004.png",
+      "costumeIconPath": "images/costumes/21004/costume-icon.png",
       "costumeIconSha256": "5642c9467db2065e4994d3ba43aff6cdfa7ee32d5a9b6b33dad9aec3df07c3e8",
       "pedestalPath": "pedestals/21004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "c47ac6138be1725ad079fe970c87f20ebd8128850958e7f067557fb082be46cc"
     },
     {
       "memberMstId": 21004209,
@@ -2873,13 +3052,14 @@
       "personalName": "小原 鞠莉",
       "costumeName": "サンリオキャラコラボ",
       "modelPath": "models/21004209/scene.glb",
-      "modelSha256": "cfb4724156be7c4bd34e31ed3d3667061dba159fed11aa90d6b68837badb2f72",
-      "artPath": "models/21004209/character-art.png",
+      "modelSha256": "b56d5e663172a77a0e980e6bb36d07ad3c14c19b492523a8c5ba71130223bfb2",
+      "artPath": "images/21004209/character-art.png",
       "artSha256": "9c29f761491a1b162da3102ce0f2c6910e8d4ef17cbb7e697f11f8acb0454d19",
-      "costumeIconPath": "costume-icons/costume-21004.png",
+      "costumeIconPath": "images/costumes/21004/costume-icon.png",
       "costumeIconSha256": "5642c9467db2065e4994d3ba43aff6cdfa7ee32d5a9b6b33dad9aec3df07c3e8",
       "pedestalPath": "pedestals/21004/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "c47ac6138be1725ad079fe970c87f20ebd8128850958e7f067557fb082be46cc"
     },
     {
       "memberMstId": 21005207,
@@ -2889,13 +3069,14 @@
       "personalName": "黒澤 ダイヤ",
       "costumeName": "紅葉TRAVELER",
       "modelPath": "models/21005207/scene.glb",
-      "modelSha256": "5ad3b48b2246392c96640f1bb60e2915898cbf1362c3cf68f1c01f893aa05a17",
-      "artPath": "models/21005207/character-art.png",
+      "modelSha256": "c4ef3f187ad5f4ca5c29a6fc2b73b38bed367e72e20c8cffa1a276ff080e03eb",
+      "artPath": "images/21005207/character-art.png",
       "artSha256": "b87651bc2cb661a06ae8c5ee7e53298fa9b5e514643f5d628b2b2f4e2e368b12",
-      "costumeIconPath": "costume-icons/costume-21005.png",
+      "costumeIconPath": "images/costumes/21005/costume-icon.png",
       "costumeIconSha256": "e4d651bba2d561b887581ed3508019acdc37f23a990f3133ca0c9ae0e507300e",
       "pedestalPath": "pedestals/21005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "60df554d5dc3ebd24d5d9f50f0538600faa76e90c12d69c6dc9a578a204ba8d0"
     },
     {
       "memberMstId": 21005208,
@@ -2905,13 +3086,14 @@
       "personalName": "松浦 果南",
       "costumeName": "紅葉TRAVELER",
       "modelPath": "models/21005208/scene.glb",
-      "modelSha256": "ab3f58849c5e7cd59dc4eef75c5e406ed64d63888d4783540bae2c40a7768cc7",
-      "artPath": "models/21005208/character-art.png",
+      "modelSha256": "54ead7e56b9662bb271c0f181f3287cad5de6d6a0308677afe6edfd8cad94f0a",
+      "artPath": "images/21005208/character-art.png",
       "artSha256": "bf2483056398bd7da41d0663c2a9fa38d34a75ffc2f908414c313eb8871b52d4",
-      "costumeIconPath": "costume-icons/costume-21005.png",
+      "costumeIconPath": "images/costumes/21005/costume-icon.png",
       "costumeIconSha256": "e4d651bba2d561b887581ed3508019acdc37f23a990f3133ca0c9ae0e507300e",
       "pedestalPath": "pedestals/21005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "60df554d5dc3ebd24d5d9f50f0538600faa76e90c12d69c6dc9a578a204ba8d0"
     },
     {
       "memberMstId": 21005209,
@@ -2921,13 +3103,14 @@
       "personalName": "小原 鞠莉",
       "costumeName": "紅葉TRAVELER",
       "modelPath": "models/21005209/scene.glb",
-      "modelSha256": "42acc544e90f9cc07a2a10d2c65d71ccb2371eead2d39ffe4a06ba64a8f5a0e1",
-      "artPath": "models/21005209/character-art.png",
+      "modelSha256": "bab597b470b17fee46d8589977f0da527761ecf1eeffcbd692badcd355cb6a1c",
+      "artPath": "images/21005209/character-art.png",
       "artSha256": "bbcc2d7e3529b81ecdb2fc64b742f4612c7d772044f5db3d665a37c2b8fd3609",
-      "costumeIconPath": "costume-icons/costume-21005.png",
+      "costumeIconPath": "images/costumes/21005/costume-icon.png",
       "costumeIconSha256": "e4d651bba2d561b887581ed3508019acdc37f23a990f3133ca0c9ae0e507300e",
       "pedestalPath": "pedestals/21005/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "60df554d5dc3ebd24d5d9f50f0538600faa76e90c12d69c6dc9a578a204ba8d0"
     },
     {
       "memberMstId": 40002401,
@@ -2937,13 +3120,14 @@
       "personalName": "鹿角 聖良",
       "costumeName": "SELF CONTROL!!",
       "modelPath": "models/40002401/scene.glb",
-      "modelSha256": "c8d8a59f9534d75b45c6d47f54e91d38c0f41874845d46950fe900fc2df38d1b",
-      "artPath": "models/40002401/character-art.png",
+      "modelSha256": "74fc39c2e5023ada23a3a4a9692364d040c637e558571861fe11da269f0dd02e",
+      "artPath": "images/40002401/character-art.png",
       "artSha256": "ed4fa2224e2e059965578676bfade9bb8206191836f2ef4a4d99921bc4777814",
-      "costumeIconPath": "costume-icons/costume-40002.png",
+      "costumeIconPath": "images/costumes/40002/costume-icon.png",
       "costumeIconSha256": "75a41f52948d6eeaa1e1c0a0d2bda3d2f8fce8f6b20d6ad1c353b0eda627e0ce",
       "pedestalPath": "pedestals/40002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "0b4d27580f0ee70cffb38c00c6931cc7572ad6fc0f8bb752737629f1c86873d8"
     },
     {
       "memberMstId": 40002402,
@@ -2953,13 +3137,14 @@
       "personalName": "鹿角 理亞",
       "costumeName": "SELF CONTROL!!",
       "modelPath": "models/40002402/scene.glb",
-      "modelSha256": "5b8359fd7db27295fdcf39d9b791aeb2a876cf6fcb118e51cd589c8987caf601",
-      "artPath": "models/40002402/character-art.png",
+      "modelSha256": "12e90e366ecbd2f166c0c2e4e8f3ac5a1f5f380aef3e40ef5be1e1927cdb6e30",
+      "artPath": "images/40002402/character-art.png",
       "artSha256": "da61f872a83246bcdb38e8d28512a8175f80fb0be6c34f0f58c0ae185ed4c2b0",
-      "costumeIconPath": "costume-icons/costume-40002.png",
+      "costumeIconPath": "images/costumes/40002/costume-icon.png",
       "costumeIconSha256": "75a41f52948d6eeaa1e1c0a0d2bda3d2f8fce8f6b20d6ad1c353b0eda627e0ce",
       "pedestalPath": "pedestals/40002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "0b4d27580f0ee70cffb38c00c6931cc7572ad6fc0f8bb752737629f1c86873d8"
     },
     {
       "memberMstId": 40003401,
@@ -2969,13 +3154,14 @@
       "personalName": "鹿角 聖良",
       "costumeName": "Believe again",
       "modelPath": "models/40003401/scene.glb",
-      "modelSha256": "fd5fed8c93fd16180705db907bbe9ef7687b24b61a0a5d5901b9a195ef5caeec",
-      "artPath": "models/40003401/character-art.png",
+      "modelSha256": "6e7b7c2bc9e95add904dcee84d572463341a2c9b34abec1de7a47d8b3694c1f6",
+      "artPath": "images/40003401/character-art.png",
       "artSha256": "924bc7234c14bd65ebfea0fb38fe6139b75c40a6a1ff1e2a27304909ffbe9067",
-      "costumeIconPath": "costume-icons/costume-40003.png",
+      "costumeIconPath": "images/costumes/40003/costume-icon.png",
       "costumeIconSha256": "0986f1fe6d7c7710c1b8bd6745d5a8bb4273c02ce38c95d0b6e5de8ec8e19784",
       "pedestalPath": "pedestals/40003/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "65990c1743e325ee16d14577f42893b0ebe4b9e8f7b0b5560a04080dd4b3b513"
     },
     {
       "memberMstId": 40003402,
@@ -2985,13 +3171,14 @@
       "personalName": "鹿角 理亞",
       "costumeName": "Believe again",
       "modelPath": "models/40003402/scene.glb",
-      "modelSha256": "8fd5f3dd00575d1451c23c801ec711e8a8c18046bd767fed8f037d33f1d06463",
-      "artPath": "models/40003402/character-art.png",
+      "modelSha256": "aa356e57c74a1a846d5986d56aa8cd64f53f912ec75317fe7c912cdabc2f457b",
+      "artPath": "images/40003402/character-art.png",
       "artSha256": "51a3bb103162b0798c5ef8a5b5d325ffe0a14a78f4d197a68cc2a915ea915ff4",
-      "costumeIconPath": "costume-icons/costume-40003.png",
+      "costumeIconPath": "images/costumes/40003/costume-icon.png",
       "costumeIconSha256": "0986f1fe6d7c7710c1b8bd6745d5a8bb4273c02ce38c95d0b6e5de8ec8e19784",
       "pedestalPath": "pedestals/40003/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "65990c1743e325ee16d14577f42893b0ebe4b9e8f7b0b5560a04080dd4b3b513"
     },
     {
       "memberMstId": 90001105,
@@ -3001,13 +3188,14 @@
       "personalName": "星空 凛",
       "costumeName": "セガコラボ",
       "modelPath": "models/90001105/scene.glb",
-      "modelSha256": "87fba928d8b3afa71925f77d8a759d7ffa4611ab22d0437ddbcdc550d758575b",
-      "artPath": "models/90001105/character-art.png",
+      "modelSha256": "dbd3787c104a106dd754b3524416a79b0307de93d7a89c10863c3a1bb77e0658",
+      "artPath": "images/90001105/character-art.png",
       "artSha256": "55d0bf0cf5d375e7247694ac9c3598b135c9bf3b3fdbae6997467a539f33dca8",
-      "costumeIconPath": "costume-icons/costume-90001.png",
+      "costumeIconPath": "images/costumes/90001/costume-icon.png",
       "costumeIconSha256": "3ee6ed956f168406f6d9901fcd3d8817b751ad54e3623a808effc6eab559b995",
       "pedestalPath": "pedestals/90001/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "bfda7a51cb219580b283d3c668456d9a5ded4392302338692f40a1ff2a9e4a7f"
     },
     {
       "memberMstId": 90001204,
@@ -3017,13 +3205,14 @@
       "personalName": "国木田 花丸",
       "costumeName": "セガコラボ",
       "modelPath": "models/90001204/scene.glb",
-      "modelSha256": "e4bffb4b800757b035f98737623a8fd2212427e24d4f0da1e3761b0563128aa5",
-      "artPath": "models/90001204/character-art.png",
+      "modelSha256": "d45cd87f60dd71715f3a6905ad65110673b09c454ac34a03ac794840c3d9f005",
+      "artPath": "images/90001204/character-art.png",
       "artSha256": "43f1bc0c2e6ab8f1d2e6eaf011915b478e02de14717c53e95e5ce3c6217fe525",
-      "costumeIconPath": "costume-icons/costume-90001.png",
+      "costumeIconPath": "images/costumes/90001/costume-icon.png",
       "costumeIconSha256": "3ee6ed956f168406f6d9901fcd3d8817b751ad54e3623a808effc6eab559b995",
       "pedestalPath": "pedestals/90001/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "bfda7a51cb219580b283d3c668456d9a5ded4392302338692f40a1ff2a9e4a7f"
     },
     {
       "memberMstId": 90002901,
@@ -3033,13 +3222,14 @@
       "personalName": "マイメロディ",
       "costumeName": "サンリオキャラクターズ",
       "modelPath": "models/90002901/scene.glb",
-      "modelSha256": "0b38b71d0335fd32697d0a5f0fba11af16c5225d9aef57fede09f6266b5a61f9",
-      "artPath": "models/90002901/character-art.png",
+      "modelSha256": "f73d3269f40a3962118b6d1509bdd200c26c57b3b1843ccb38505992568ab3d4",
+      "artPath": "images/90002901/character-art.png",
       "artSha256": "4f57897e9906dcc62ef259abda964dcb7ef138835cfd1bebb83f351a142965e4",
-      "costumeIconPath": "costume-icons/costume-90002.png",
+      "costumeIconPath": "images/costumes/90002/costume-icon.png",
       "costumeIconSha256": "02327dd8b2160aea91593da34d2a4f11362f547d835e8c03c97aec07c59d3024",
       "pedestalPath": "pedestals/90002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "21445b0ce36d7aee67cca9da9ef58c8eb024c246032d050aa6f62143ceaa864d"
     },
     {
       "memberMstId": 90002902,
@@ -3049,13 +3239,14 @@
       "personalName": "シナモロール",
       "costumeName": "サンリオキャラクターズ",
       "modelPath": "models/90002902/scene.glb",
-      "modelSha256": "44fe26c7ba15f6a2b8b94538721d8a61599e53dd499a086b344e5270f92289a6",
-      "artPath": "models/90002902/character-art.png",
+      "modelSha256": "f325f8cc6fb59dc454e1b28289dc20ca2637b93eb1211b35a2249141eb176455",
+      "artPath": "images/90002902/character-art.png",
       "artSha256": "5d3a4712c3f83573497c7fc6ecfbb83dd5cb1f17f3a0bf11bf267b94d94baf2b",
-      "costumeIconPath": "costume-icons/costume-90002.png",
+      "costumeIconPath": "images/costumes/90002/costume-icon.png",
       "costumeIconSha256": "02327dd8b2160aea91593da34d2a4f11362f547d835e8c03c97aec07c59d3024",
       "pedestalPath": "pedestals/90002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "21445b0ce36d7aee67cca9da9ef58c8eb024c246032d050aa6f62143ceaa864d"
     },
     {
       "memberMstId": 90002903,
@@ -3065,13 +3256,14 @@
       "personalName": "けろけろけろっぴ",
       "costumeName": "サンリオキャラクターズ",
       "modelPath": "models/90002903/scene.glb",
-      "modelSha256": "5ed8d99deb856e36f3893858b841986692800ee9338787799ad475d42c2438df",
-      "artPath": "models/90002903/character-art.png",
+      "modelSha256": "22b58f684aa16f226fd2183061e7801af2e0f882be8abe5c469b5e84eb5e8dd9",
+      "artPath": "images/90002903/character-art.png",
       "artSha256": "0526b7242e9cfc9b4c02a0eebd128ac4ca8ef4fdf1d1c2819b39ac1bbccad81b",
-      "costumeIconPath": "costume-icons/costume-90002.png",
+      "costumeIconPath": "images/costumes/90002/costume-icon.png",
       "costumeIconSha256": "02327dd8b2160aea91593da34d2a4f11362f547d835e8c03c97aec07c59d3024",
       "pedestalPath": "pedestals/90002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "21445b0ce36d7aee67cca9da9ef58c8eb024c246032d050aa6f62143ceaa864d"
     },
     {
       "memberMstId": 90002904,
@@ -3081,13 +3273,14 @@
       "personalName": "ハローキティ",
       "costumeName": "サンリオキャラクターズ",
       "modelPath": "models/90002904/scene.glb",
-      "modelSha256": "f7fd98be896eda6d4c7da736f0f4b128690c389d390642f6a7b51b102b0d6c56",
-      "artPath": "models/90002904/character-art.png",
+      "modelSha256": "d5b8b53210ffd36de26287bda0200b7f9e8720ed29231da3083575bcaee20c76",
+      "artPath": "images/90002904/character-art.png",
       "artSha256": "b9f3b280c1fd8c0984ff1e3fe66600d48397a63a3e81b4c43af1801af788c3b3",
-      "costumeIconPath": "costume-icons/costume-90002.png",
+      "costumeIconPath": "images/costumes/90002/costume-icon.png",
       "costumeIconSha256": "02327dd8b2160aea91593da34d2a4f11362f547d835e8c03c97aec07c59d3024",
       "pedestalPath": "pedestals/90002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "21445b0ce36d7aee67cca9da9ef58c8eb024c246032d050aa6f62143ceaa864d"
     },
     {
       "memberMstId": 90002905,
@@ -3097,13 +3290,14 @@
       "personalName": "ポムポムプリン",
       "costumeName": "サンリオキャラクターズ",
       "modelPath": "models/90002905/scene.glb",
-      "modelSha256": "b46e5eb2b32b73bd1eaa60b3a42ccaffde301d8434e19c39954a681dbdf83432",
-      "artPath": "models/90002905/character-art.png",
+      "modelSha256": "ca3ad3af7ee03460c58db5f6a9379650defded062de015b55ba2fba1c05ad69b",
+      "artPath": "images/90002905/character-art.png",
       "artSha256": "ddfa2b5a2aa025b051420030a62eb0036b036ac1a9b91ddbfd5dd2fcb55df7a3",
-      "costumeIconPath": "costume-icons/costume-90002.png",
+      "costumeIconPath": "images/costumes/90002/costume-icon.png",
       "costumeIconSha256": "02327dd8b2160aea91593da34d2a4f11362f547d835e8c03c97aec07c59d3024",
       "pedestalPath": "pedestals/90002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "21445b0ce36d7aee67cca9da9ef58c8eb024c246032d050aa6f62143ceaa864d"
     },
     {
       "memberMstId": 90002906,
@@ -3113,13 +3307,14 @@
       "personalName": "バッドばつ丸",
       "costumeName": "サンリオキャラクターズ",
       "modelPath": "models/90002906/scene.glb",
-      "modelSha256": "db1cd706935c301e3157e9bc862bb451e8ab8674f616dfba1aec502f2cfadbf6",
-      "artPath": "models/90002906/character-art.png",
+      "modelSha256": "63894fedc19a8b9585934a80c7fff37b3198ea4cb4389574f5e45afc466d6c52",
+      "artPath": "images/90002906/character-art.png",
       "artSha256": "1e72a977a05022229925b823f0918d23de0af5b4201a88040070cc0eeed4ea01",
-      "costumeIconPath": "costume-icons/costume-90002.png",
+      "costumeIconPath": "images/costumes/90002/costume-icon.png",
       "costumeIconSha256": "02327dd8b2160aea91593da34d2a4f11362f547d835e8c03c97aec07c59d3024",
       "pedestalPath": "pedestals/90002/pedestal.glb",
-      "hasVerifiedStage": true
+      "hasVerifiedStage": true,
+      "pedestalSha256": "21445b0ce36d7aee67cca9da9ef58c8eb024c246032d050aa6f62143ceaa864d"
     }
   ],
   "personalColors": {
@@ -3201,5 +3396,33 @@
     "906": {
       "hex": "#6D6258"
     }
+  },
+  "personalNamesRomaji": {
+    "101": "Kosaka Honoka",
+    "102": "Minami Kotori",
+    "103": "Sonoda Umi",
+    "104": "Nishikino Maki",
+    "105": "Hoshizora Rin",
+    "106": "Koizumi Hanayo",
+    "107": "Yazawa Nico",
+    "108": "Tojo Nozomi",
+    "109": "Ayase Eli",
+    "201": "Takami Chika",
+    "202": "Watanabe You",
+    "203": "Sakurauchi Riko",
+    "204": "Kunikida Hanamaru",
+    "205": "Kurosawa Ruby",
+    "206": "Tsushima Yoshiko",
+    "207": "Kurosawa Dia",
+    "208": "Matsuura Kanan",
+    "209": "Ohara Mari",
+    "401": "Kazuno Sarah",
+    "402": "Kazuno Leah",
+    "901": "My Melody",
+    "902": "Cinnamoroll",
+    "903": "Keroppi",
+    "904": "Hello Kitty",
+    "905": "Pompompurin",
+    "906": "Badtz-maru"
   }
 }

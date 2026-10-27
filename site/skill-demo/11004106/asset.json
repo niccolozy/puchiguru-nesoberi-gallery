@@ -1,0 +1,285 @@
+{
+  "memberId": "11004106",
+  "character": "小泉 花陽",
+  "costume": "まきりんぱな海賊団",
+  "duration": 2,
+  "defaultAnimation": "SD11004106Hanayo4",
+  "animations": [
+    "SD11004106Hanayo",
+    "SD11004106Hanayo2",
+    "SD11004106Hanayo3",
+    "SD11004106Hanayo4"
+  ],
+  "atlas": {
+    "width": 1024,
+    "height": 623,
+    "regions": {
+      "ArmLeft": {
+        "x": 2,
+        "y": 2,
+        "width": 44,
+        "height": 28
+      },
+      "ArmRight": {
+        "x": 50,
+        "y": 2,
+        "width": 45,
+        "height": 28
+      },
+      "Barrel1": {
+        "x": 99,
+        "y": 2,
+        "width": 226,
+        "height": 244
+      },
+      "Belt": {
+        "x": 329,
+        "y": 2,
+        "width": 68,
+        "height": 20
+      },
+      "Body": {
+        "x": 401,
+        "y": 2,
+        "width": 64,
+        "height": 80
+      },
+      "EarringLeft": {
+        "x": 469,
+        "y": 2,
+        "width": 24,
+        "height": 32
+      },
+      "EarringRight": {
+        "x": 497,
+        "y": 2,
+        "width": 23,
+        "height": 32
+      },
+      "EyeBrow2": {
+        "x": 524,
+        "y": 2,
+        "width": 86,
+        "height": 8
+      },
+      "EyeClose1": {
+        "x": 614,
+        "y": 2,
+        "width": 105,
+        "height": 13
+      },
+      "EyeClose2": {
+        "x": 723,
+        "y": 2,
+        "width": 103,
+        "height": 21
+      },
+      "EyeLaugh": {
+        "x": 830,
+        "y": 2,
+        "width": 106,
+        "height": 16
+      },
+      "EyeLeft": {
+        "x": 940,
+        "y": 2,
+        "width": 38,
+        "height": 42
+      },
+      "EyeRight": {
+        "x": 982,
+        "y": 2,
+        "width": 33,
+        "height": 45
+      },
+      "Eyeblow": {
+        "x": 2,
+        "y": 250,
+        "width": 86,
+        "height": 8
+      },
+      "Face": {
+        "x": 92,
+        "y": 250,
+        "width": 154,
+        "height": 147
+      },
+      "FootLeft": {
+        "x": 250,
+        "y": 250,
+        "width": 14,
+        "height": 13
+      },
+      "FootRight": {
+        "x": 268,
+        "y": 250,
+        "width": 14,
+        "height": 13
+      },
+      "FrontHair": {
+        "x": 286,
+        "y": 250,
+        "width": 175,
+        "height": 145
+      },
+      "HairAcc": {
+        "x": 465,
+        "y": 250,
+        "width": 220,
+        "height": 119
+      },
+      "HairBack": {
+        "x": 689,
+        "y": 250,
+        "width": 200,
+        "height": 180
+      },
+      "HandLeft": {
+        "x": 893,
+        "y": 250,
+        "width": 32,
+        "height": 32
+      },
+      "HandRight": {
+        "x": 929,
+        "y": 250,
+        "width": 32,
+        "height": 32
+      },
+      "HeadClothBack": {
+        "x": 2,
+        "y": 434,
+        "width": 85,
+        "height": 109
+      },
+      "HeadClothFront": {
+        "x": 91,
+        "y": 434,
+        "width": 66,
+        "height": 141
+      },
+      "Key1": {
+        "x": 161,
+        "y": 434,
+        "width": 33,
+        "height": 71
+      },
+      "Key2": {
+        "x": 198,
+        "y": 434,
+        "width": 51,
+        "height": 48
+      },
+      "Key3": {
+        "x": 253,
+        "y": 434,
+        "width": 41,
+        "height": 14
+      },
+      "LegLeft": {
+        "x": 298,
+        "y": 434,
+        "width": 15,
+        "height": 33
+      },
+      "LegRight": {
+        "x": 317,
+        "y": 434,
+        "width": 15,
+        "height": 33
+      },
+      "LegUpLeft": {
+        "x": 336,
+        "y": 434,
+        "width": 27,
+        "height": 48
+      },
+      "LegUpRight": {
+        "x": 367,
+        "y": 434,
+        "width": 27,
+        "height": 49
+      },
+      "Lock1": {
+        "x": 398,
+        "y": 434,
+        "width": 71,
+        "height": 68
+      },
+      "Lock2": {
+        "x": 473,
+        "y": 434,
+        "width": 71,
+        "height": 68
+      },
+      "LoinClothBack": {
+        "x": 548,
+        "y": 434,
+        "width": 107,
+        "height": 68
+      },
+      "LoinClothFront": {
+        "x": 659,
+        "y": 434,
+        "width": 33,
+        "height": 53
+      },
+      "Mouth1": {
+        "x": 696,
+        "y": 434,
+        "width": 30,
+        "height": 8
+      },
+      "Mouth2": {
+        "x": 730,
+        "y": 434,
+        "width": 38,
+        "height": 6
+      },
+      "Mouth3": {
+        "x": 772,
+        "y": 434,
+        "width": 22,
+        "height": 22
+      },
+      "Mouth4": {
+        "x": 798,
+        "y": 434,
+        "width": 32,
+        "height": 19
+      },
+      "PantsLeft": {
+        "x": 834,
+        "y": 434,
+        "width": 41,
+        "height": 34
+      },
+      "PantsRight": {
+        "x": 879,
+        "y": 434,
+        "width": 46,
+        "height": 37
+      },
+      "ShoulderLeft": {
+        "x": 929,
+        "y": 434,
+        "width": 43,
+        "height": 23
+      },
+      "ShoulderRight": {
+        "x": 976,
+        "y": 434,
+        "width": 43,
+        "height": 23
+      },
+      "WhiteEye": {
+        "x": 2,
+        "y": 579,
+        "width": 114,
+        "height": 42
+      }
+    },
+    "image": "../../images/11004106/preview/atlas.png"
+  },
+  "sourceSkeletonSha256": "1bf1a877d725efd5ee99b93e81affd8993db1247ee99894540e2da730f2fb162"
+}

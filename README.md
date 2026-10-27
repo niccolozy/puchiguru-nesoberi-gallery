@@ -1,25 +1,26 @@
 # About this collection
 
-This local gallery presents 195 static nesoberi models across 26 characters and 29 costumes. Names are taken from the game's own data.
+This gallery presents 195 nesoberi models across 26 characters and 29 costumes. Names are taken from the game's own data.
+
+[Visit the Puchiguru Nesoberi Gallery](https://niccolozy.github.io/puchiguru-nesoberi-gallery/).
 
 ## What is included
 
 - Matching standing character artwork and original circular costume badges.
-- Four face-expression choices from the game's face textures. The small selector icons are illustrative; the selected expression uses the original texture.
-- Character-colored headings and costume names in **M PLUS Rounded 1c Bold**, served through Google Fonts. The font is licensed under SIL Open Font License 1.1.
-- A costume display pedestal for each costume, using the original costume artwork.
+- Four face-expression choices.
+- Character-colored headings.
+- A display pedestal for each costume, decorated with the original artwork.
+- Skill animation previews, matching character voices and sound effects for all 195 nesoberi.
 
-## Model notes
+## Explore the gallery
 
-The models are static previews; skeletal movement and animations are not included. Some game lighting and material effects are simplified for the web viewer. The pedestal shapes are reconstructed cylinders rather than recovered in-game meshes.
+Choose a costume and character, drag to rotate the model, and scroll or pinch to zoom. Use the face icons to change expressions and the rotation icon to pause or resume automatic spinning.
 
-One Kanan Matsuura model in 「未来の僕らは知ってるよ」 has a small neutral-colored area because that piece's original material could not be recovered.
+Use the sparkle button to play a skill animation. During playback, you can pause, resume, replay or close it. The model view returns automatically when the animation ends.
 
 ## Source
 
 Prepared from a local Android copy of Puchiguru Love Live. Character and costume names, artwork, badges, and textures come from the game's own data and assets.
-
-M PLUS Rounded 1c is by the M+ Fonts Project Authors and is distributed under SIL Open Font License 1.1.
 
 ## Run locally
 
